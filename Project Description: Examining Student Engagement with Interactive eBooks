@@ -1,0 +1,115 @@
+Project Title:
+Student Engagement with Interactive eBooks and Its Impact on Academic Success
+
+Project Abstract:
+Analyze log file data from an intermediate programming course in Python to determine the percentage of people who do the different types of activities and look for correlations between usage types and midterm scores. Students will have access to anonymous log file data for that course, which uses a free and interactive ebook for pre readings, lecture practice, Peer Instruction, and midterms.
+
+
+Full Description:
+I have been using the open-source ebook platform Runestone in SI 206 (now 201) since I started teaching at Michigan in 2018. I research new types of practice problems such as Parsons puzzles in which students put mixed-up blocks in order to solve a problem. I also do active learning in lectures including Process Oriented Guided Inquiry Learning (POGIL), Peer Instruction, and a mix of solving Parsons puzzles and writing code with Parsons puzzles as help for struggling students. POGIL is a structured inquiry process where students work in groups to study a model, in this case code, and answer questions about it. In Peer Instruction, as described by Eric Mazur, the instructor shows a difficult multiple choice question, students answer individually (vote 1), then discuss with nearby peers, and then answer individually again (vote 2). Next the instructor shows a histogram of the two votes and leads a discussion about the question. Midterms have been conducted in Runestone since 2020. They include multiple-choice questions, fill in the blank questions, Parsons puzzles, and write code questions.
+
+
+We have anonymous log file data from the ebook and I want to analyze it. In particular I want to determine the percentage of students who do each type of activity in the ebook, how the percentage changes over the chapter and semester, and look for correlations with usage patterns and midterm scores.
+
+
+Project Outcome:  
+CSV files with data for each activity in each chapter and average data for each type of activity. 
+Final report/summary style presentation to summarize student findings.
+Final report for students to summarize their findings and analysis.
+If students are interested, they can also look for positive correlations between scores on practice activities such as Peer Instruction and midterms.  
+
+What do students need for this project to be successful?  
+Skill with reading data from a tab delimited file and writing out csv files. Skill with statistics to look for correlations. They might also use machine learning on the data.
+
+
+Timeframe - Deliverables are completed by student teams in alignment with course syllabi and academic deadlines. Do you have any internal deadlines or timelines for this project that we should be aware of? Is there a date at which the proposal will no longer be relevant?   
+No
+
+Organization Information:
+The University of Michigan School of Information (UMSI) delivers innovative, elegant and ethical solutions connecting people, information and technology. The school was one of the first iSchools in the nation and is the premier institution studying and using technology to improve human computer interactions. Each member of the University of Michigan School of Information’s scholarly community comes from a unique background, making the school stronger and helping to fulfill its mission of building a better world through technology and information. The faculty, staff and students reflect the intellectual diversity of the broad range of social and technological sciences that make up the unique UMSI approach to solving information problems.
+
+UN Sustainability Goals - If applicable, which of the United Nations' sustainability goals relate to your project? Learn more about the goals here: https://sustainabledevelopment.un.org/sdgs.   
+Quality Education; 
+Decent Work and Economic Growth; 
+Reduced Inequalities
+
+Can this project be done remotely?  
+Yes, this project can be conducted remotely. 
+
+Are you currently working or planning to work with another University of Michigan department on this project? 
+No
+
+Primary Contact Name: 
+Dr. Barbara Jane
+
+
+Primary Contact Organization: 
+U-M: School of Information
+
+
+Primary Contact Position/Title and Department: 
+Associate Professor
+
+
+Primary Contact Email: 
+barbarer@umich.edu
+
+
+Please indicate any periods of time during the project in which you anticipate being unavailable (most projects occur from September to December, January to April, or September to April). 
+I will be out of town Sept 13 to the 21st.
+
+
+Secondary Contact First Name: 
+Aadarsh
+
+
+Secondary Contact Last Name: 
+Padiyath
+
+
+Secondary Contact Position/Title and Department: 
+PhD student, School of Information
+
+
+Secondary Contact Email: 
+aadarsh@umich.edu
+
+Your Organization's Agreement Plan:  
+My Organization will not use any agreement. 
+
+Dataset:  
+We have an existing data set 
+
+Dataset Description:  
+We have an existing dataset of anonymous log files from the use of the ebook. There can be missing values.
+
+Size of Dataset:
+We have one or more files for each semester of data. It is in a tab delimited file. I have multiple files for Fall 2024 and one is 293 MB and the other is 178 MB. The number of rows will vary. One of the files has 1,389,277 rows. The number of columns is 16, but you can ignore most columns.
+
+
+Findings from Dataset: 
+We provide choices for students in some type of interactive activities. For example, students can choose to solve a Parsons puzzle or write the equivalent code. What percentage of students choose to write the code and how does that percentage vary over the semester?
+We allow students to pop up a Parsons puzzle when they are struggling while writing code. What percentage of students pop up a Parsons puzzle. What percentage of those who pop-it up solve the puzzle?
+What correlations are there between use patterns, correctness, and midterm scores?
+For each type of interactive activity in each chapter of the ebook, what percentage of students attempted it and got it correct?
+For each assignment in the ebook. What percentage of the students attempted that assignment and what was the average score for each assignment?
+For each chapter of the ebook used in the course, what percentage of students attempted each interactive question and what percentage got it correct?
+
+Data Availability: 
+Anytime - data is consistently available 
+
+Data Type - In what form is the data?  
+CSV File 
+
+Computing Resources - What sorts of computing resources are necessary to access or use the data?  
+N/A
+
+Remote Access to Data - Can the students access the data remotely?  
+Yes 
+
+Student Access to Data - Students must have adequate access to your data, please describe in detail how you plan to share it with your student team. Please include length of time needed to provide students access to the data: 
+It is in a google drive. I can send them a link to it and then they can download it.
+
+Your Role - Please Describe your relationship with the dataset related to this project.
+I am the instructor of the course, created all of the assignments in the course, created most of the Peer Instruction questions, and led research on the new types of practice problems
+

@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+Logs-206-201-Datashop/
