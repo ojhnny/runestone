@@ -1,0 +1,707 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Engagement with Interactive eBooks and Midterm Success</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b1120;
+      --bg-soft: #111827;
+      --bg-card: rgba(15, 23, 42, 0.88);
+      --text: #e5eef2;
+      --muted: #a7b9c2;
+      --line: rgba(148, 163, 184, 0.16);
+      --teal: #14b8a6;
+      --teal-soft: #0f766e;
+      --amber: #f59e0b;
+      --slate: #1f2937;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background:
+        radial-gradient(circle at top, rgba(20, 184, 166, 0.12) 0%, transparent 26%),
+        radial-gradient(circle at 85% 10%, rgba(245, 158, 11, 0.10) 0%, transparent 22%),
+        linear-gradient(180deg, #0b1120 0%, #0a0f1b 100%);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+    body {
+      min-height: 100vh;
+    }
+    .report-shell {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 36px 26px 80px;
+    }
+    .report-section {
+      margin: 0 0 30px 0;
+    }
+    .report-section + .report-section {
+      margin-top: 18px;
+    }
+    p, li {
+      color: var(--text);
+      font-size: 1.03rem;
+    }
+    ul, ol {
+      padding-left: 1.3rem;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      color: #f8fbfc;
+      line-height: 1.2;
+      letter-spacing: -0.02em;
+      margin-top: 0;
+    }
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 0.9rem;
+      padding-top: 0.3rem;
+    }
+    h3 {
+      font-size: 1.35rem;
+    }
+    strong {
+      color: #f8fbfc;
+    }
+    em {
+      color: #cfe7e3;
+    }
+    a {
+      color: #7dd3fc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .report-section > p:first-of-type {
+      color: var(--muted);
+    }
+    img {
+      max-width: 100%;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid var(--line);
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <main class="report-shell">
+    <section class="report-section"><style>
+body {
+  background: radial-gradient(circle at top, #16222d 0%, #0c1218 55%, #090d12 100%) !important;
+  color: #dce7ea !important;
+}
+.jp-Notebook, #notebook-container, .container, div#notebook {
+  background: transparent !important;
+  color: #dce7ea !important;
+}
+h1, h2, h3, h4, h5, h6, p, li, strong {
+  color: #dce7ea !important;
+}
+a {
+  color: #8fe3cf !important;
+}
+.hero {
+  background: linear-gradient(120deg, #11212b 0%, #1d7874 52%, #f4c95d 100%);
+  color: white;
+  padding: 28px 32px;
+  border-radius: 18px;
+  margin-bottom: 20px;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.32);
+}
+.hero h1, .hero h3, .hero p {
+  color: white !important;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 12px;
+  margin: 18px 0 8px 0;
+}
+.summary-card {
+  background: rgba(15, 24, 31, 0.92);
+  border: 1px solid rgba(143, 227, 207, 0.10);
+  border-left: 6px solid #1d7874;
+  border-radius: 12px;
+  padding: 14px 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.summary-card h4 {
+  margin: 0 0 6px 0;
+  color: #f5fbfc !important;
+}
+.summary-card p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #dce7ea !important;
+}
+.callout {
+  background: rgba(61, 50, 18, 0.70);
+  border-left: 6px solid #f4c95d;
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 14px 0;
+}
+.metric-setup {
+  background: linear-gradient(90deg, rgba(17, 37, 46, 0.96) 0%, rgba(17, 52, 61, 0.94) 100%);
+  border: 1px solid rgba(125, 211, 252, 0.16);
+  border-left: 6px solid #38bdf8;
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 14px 0 14px 0;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
+}
+.teacher-takeaway {
+  background: linear-gradient(90deg, rgba(7, 45, 35, 0.95) 0%, rgba(10, 68, 47, 0.92) 100%);
+  border-left: 6px solid #34d399;
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 14px 0;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+}
+.insight {
+  background: rgba(14, 20, 26, 0.92);
+  border: 1px solid rgba(143, 227, 207, 0.12);
+  border-left: 6px solid #84a59d;
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 14px 0 20px 0;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.detail-note {
+  background: rgba(9, 14, 18, 0.88);
+  border: 1px solid rgba(244, 201, 93, 0.10);
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 12px 0 22px 0;
+  color: #dce7ea !important;
+}
+.pipeline-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 12px;
+  margin: 18px 0 8px 0;
+}
+.pipeline-card {
+  background: linear-gradient(180deg, rgba(15, 24, 31, 0.96) 0%, rgba(18, 31, 38, 0.96) 100%);
+  border: 1px solid rgba(143, 227, 207, 0.10);
+  border-radius: 14px;
+  padding: 16px 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+.pipeline-step {
+  display: inline-block;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #1d7874;
+  margin-bottom: 8px;
+}
+.pipeline-card h4 {
+  margin: 0 0 8px 0;
+  color: #f5fbfc !important;
+}
+.pipeline-card p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #dce7ea !important;
+}
+.figure-frame {
+  background: rgba(12, 18, 24, 0.92);
+  border: 1px solid rgba(143, 227, 207, 0.10);
+  border-radius: 18px;
+  padding: 14px;
+  margin: 16px 0 12px 0;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.24);
+}
+.figure-frame img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  background: white;
+}
+code {
+  background: rgba(143, 227, 207, 0.10);
+  color: #f4c95d !important;
+  padding: 0.14rem 0.32rem;
+  border-radius: 6px;
+}
+</style>
+
+<div class="hero">
+  <h1>Student Engagement with Interactive eBooks and Midterm Success</h1>
+  <h3>Stakeholder Report by SO-ELL from the Michigan Data Science Team</h3>
+  <p>This report turns Runestone log data into a teacher-facing story about how students used the ebook, which patterns were most closely associated with midterm performance, and what those patterns might mean for course design.</p>
+</div>
+
+<h2>Why This Report Exists</h2>
+<p>The course already uses Runestone heavily for reading checks, lecture practice, Parsons puzzles, coding practice, concept checks, and midterms. The main question behind this report is not just whether students clicked in the ebook, but whether there are meaningful usage patterns that can help an instructor understand who is thriving, who is struggling, and which kinds of practice appear most valuable.</p>
+</section><section class="report-section"><h2>Executive Summary</h2>
+<div class="summary-grid">
+  <div class="summary-card">
+    <h4>Midterm 2 Was Lower</h4>
+    <p>Across semesters with both exams, midterm 2 averaged <strong>8.3 points lower</strong> than midterm 1.</p>
+  </div>
+  <div class="summary-card">
+    <h4>Parsons Stood Out</h4>
+    <p>Students in the top Parsons first-try quartile scored about <strong>17.5 points higher</strong> than the bottom quartile.</p>
+  </div>
+  <div class="summary-card">
+    <h4>Quality Beat Volume</h4>
+    <p>Broad, accurate practice was more informative than just logging many clicks or moves.</p>
+  </div>
+  <div class="summary-card">
+    <h4>Effort Alone Was Not Enough</h4>
+    <p>High-effort, low-efficiency students still averaged only about <strong>66.0%</strong>.</p>
+  </div>
+  <div class="summary-card">
+    <h4>Practice Midterms Helped</h4>
+    <p>Finishing a timed practice exam lined up with about <strong>6.2 more real-exam points</strong> within the same cohort.</p>
+  </div>
+</div>
+
+<div class="callout">
+<strong>Bottom line:</strong> Nearly all students used the ebook. What separated stronger and weaker performers was not basic participation, but the quality, efficiency, and timing context of that practice.
+</div>
+
+</section><section class="report-section"><h2>How We Built The Numbers</h2>
+<div class="pipeline-grid">
+
+<div class="pipeline-card">
+  <div class="pipeline-step">Step 1</div>
+  <h4>Raw Runestone log events</h4>
+  <p><strong>19,805,383</strong></p>
+  <p>All anonymized ebook log rows across reading, lecture, practice, and exam activity.</p>
+</div>
+
+<div class="pipeline-card">
+  <div class="pipeline-step">Step 2</div>
+  <h4>Timed actual midterm attempts</h4>
+  <p><strong>2,906</strong></p>
+  <p>Student exam windows inferred from timed start and finish markers in the log.</p>
+</div>
+
+<div class="pipeline-card">
+  <div class="pipeline-step">Step 3</div>
+  <h4>Student-exam problem scores</h4>
+  <p><strong>90,048</strong></p>
+  <p>Observed exam problem rows scored from clear correctness signals or high-confidence inferred keys.</p>
+</div>
+
+<div class="pipeline-card">
+  <div class="pipeline-step">Step 4</div>
+  <h4>Student midterm score rows</h4>
+  <p><strong>2,314</strong></p>
+  <p>One reconstructed midterm row per student, semester, and exam.</p>
+</div>
+
+<div class="pipeline-card">
+  <div class="pipeline-step">Step 5</div>
+  <h4>Student pre-exam feature rows</h4>
+  <p><strong>2,314</strong></p>
+  <p>Pre-exam activity summaries used to compare students within the same semester-midterm cohort.</p>
+</div>
+
+</div>
+
+<div class="callout">
+<strong>Why this matters for trust:</strong> the report does not jump straight from raw clicks to conclusions. It first identifies real exam windows, reconstructs student-level midterm scores, then builds pre-exam behavior summaries and compares students within the same semester-midterm cohorts so semester difficulty does not dominate the findings.
+</div>
+
+</section><section class="report-section"><h2>Before The Correlations: How The Midterms Were Identified</h2>
+<p>Because the raw <code>problem_name</code> field was messy and inconsistent, the report first had to solve a naming and labeling problem before any score or engagement analysis could happen.</p>
+<ul>
+<li>The pipeline confidently recovered <strong>16 semester-midterm combinations</strong> across the usable semesters.</li>
+<li>Among those confident semesters, there were <strong>0 missing <code>(semester, midterm)</code> combinations</strong>.</li>
+<li>The pipeline also kept <strong>2,045 ambiguous problem-name rows</strong> visible instead of forcing them into the wrong exam.</li>
+</ul>
+<p>The key design choice was to trust <strong>timed exam start and finish markers</strong> more than raw names whenever possible. After that, semester labels were standardized and problem names were grouped only when the evidence was strong enough.</p>
+<div class="insight">
+<strong>Why this matters:</strong> the correlations later in the report only make sense if the exam rows were reconstructed carefully. This step is what turns a messy `problem_name` column into a credible semester-by-midterm structure that can support score reconstruction and comparison.
+</div>
+
+</section><section class="report-section"><h2>How To Read This Report</h2>
+<ul>
+<li>This report is written for a non-technical audience. Every chart is explained in plain language.</li>
+<li>A <strong>positive relationship</strong> means students with more of that pattern tended to score higher on the midterm.</li>
+<li>A <strong>negative relationship</strong> does not automatically mean the activity was harmful. Sometimes it means the measure is acting like a marker of struggle or late recovery.</li>
+<li>The timed practice-midterm analysis is intentionally conservative. It only uses timed practice sessions that finished before the real exam, and its score uses directly scoreable items like multiple choice, Parsons checks, and unittest-backed coding items.</li>
+<li>The report is organized as a story: first what students did, then what seems to matter most, then what a teacher might do with that information.</li>
+</ul>
+</section><section class="report-section"><h2>Plain-Language Glossary</h2>
+<ul>
+<li><strong>Parsons puzzle</strong>: a coding task where students arrange mixed-up code blocks into the right order.</li>
+<li><strong>Parsons first-try quality</strong>: how often a student’s first graded check on a Parsons problem was already close to correct. In teacher terms, this is a measure of how cleanly a student can set up a solution before a lot of trial-and-error.</li>
+<li><strong>ActiveCode</strong>: executable coding cells in the ebook. The report uses unit-test results to summarize how well students solved these coding problems.</li>
+<li><strong>Concept checks</strong>: regular non-exam question interactions in the ebook, often multiple choice.</li>
+<li><strong>Total events</strong>: every logged action such as a click, move, run, or answer. This is a volume measure.</li>
+<li><strong>Unique problems</strong>: the number of different problems a student touched. This is a breadth measure.</li>
+<li><strong>Active days</strong>: the number of different days a student used that activity family before the exam. This is a spacing measure.</li>
+</ul>
+</section><section class="report-section"><h2>1. Students Were Already Using The Ebook A Lot</h2>
+<p>The first thing a teacher needs to know is whether usage was widespread enough for these patterns to matter. The answer is yes.</p>
+<ul>
+<li>Before midterm 1, Parsons usage was already about <strong>99.7%</strong> of students.</li>
+<li>Concept-check usage before midterm 1 was also about <strong>99.7%</strong>.</li>
+<li>A typical student had already touched around <strong>52 Parsons problems</strong> and <strong>144 ActiveCode problems</strong> before midterm 1.</li>
+</ul>
+<p>This matters because it means the course does not have a simple “some students used the ebook and some did not” story. Most students were already engaging with these tools. That shifts the real question toward <strong>how</strong> they used them.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> We started with simple participation because later relationships are hard to interpret if students were not actually exposed to the tool. In this dataset, exposure was already extremely high: Parsons and concept checks were both about 99.7% before midterm 1.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/10_participation_rates.png" alt="Participation rates"></div>
+
+<div class="detail-note"><strong>Detailed Figure Note:</strong> This figure answers a basic course-design question first: before each midterm, what percentage of students had <strong>any</strong> interaction with each major activity family? The answer is: almost everyone. For example, Parsons usage is already about <strong>99.7%</strong> before <code>mid1</code>, and concept checks are about <strong>99.7%</strong>. That means simple participation is not the key differentiator in this course. Students generally encountered all of these tools. The more useful question for an instructor is <strong>how</strong> they used them: quickly or slowly, broadly or narrowly, on one day or over many days, with immediate correctness or repeated rework. </div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> Since exposure is nearly universal, interventions should focus less on getting students to click once and more on helping them practice successfully and consistently.
+</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> the course already succeeded in getting students into the ebook ecosystem. That means poor outcomes are probably not being driven by simple non-use. From an instructional perspective, the next layer is not “How do we make students open Runestone?” but “How do we help students use these tools in a way that builds understanding?”
+</div>
+
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Once participation looked universal, the next question was depth. The median student had already attempted about 52 Parsons problems and 144 ActiveCode problems before midterm 1, so we wanted to see whether students were just sampling or doing substantial practice.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/11_typical_exposure.png" alt="Typical exposure"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This chart shows the median number of distinct problems a student had touched before each exam. It gives a sense of what “normal” exposure looked like in this course. A typical student had worked around <strong>52 Parsons problems</strong> before <code>mid1</code> and <strong>89</strong> before <code>mid2</code>. For ActiveCode, the median rose from about <strong>144</strong> to <strong>208</strong>. The main point is that students had substantial contact with these activity types well before the exams. Teacher takeaway: if an instructor wants to improve outcomes, the strongest leverage may be improving the <em>quality</em> of these interactions rather than simply adding more instances of the same activity.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> most students were not just casually sampling the tools. They had already seen many Parsons and ActiveCode problems before the exam. That suggests the ebook was functioning like a real part of the course, not optional enrichment. If students are still underperforming, the likely issue is quality of engagement, confusion on certain topics, or lack of transfer from practice to exam conditions.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> basic participation was already close to universal. The better leverage is not “get students to click once,” but “help students use these tools more effectively and more consistently.”
+</div>
+
+</section><section class="report-section"><h2>2. Midterm 2 Was Consistently Harder Than Midterm 1</h2>
+<p>Across almost every semester, midterm 2 came in below midterm 1. The average drop was about <strong>8.3 percentage points</strong>, and the largest drop was in <strong>F22</strong>, where midterm 2 was about <strong>13.2 points lower</strong>.</p>
+<p>The score distributions show that this is not just a small pocket of struggling students. In several semesters, the whole score distribution shifts downward for midterm 2.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> After confirming students used the ebook heavily, we checked whether exam performance itself followed a stable pattern across terms. The key question here was whether the midterm 2 drop was isolated or repeated across cohorts.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/01_semester_overview.png" alt="Semester overview"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This figure has two panels. The top panel shows the average reconstructed midterm score in each semester, split into <code>mid1</code> and <code>mid2</code>. The bottom panel shows how much of each exam could be scored from observable item-level signals. The main story is that <code>mid2</code> sits below <code>mid1</code> in every semester, while scoring coverage stays high enough that this pattern is unlikely to be a data artifact. For a teacher, this suggests the second exam may consistently be harder, later material may be more challenging, or cumulative fatigue may be setting in by that point of the semester. </div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> If this pattern matches classroom experience, the instructor may want to inspect the content, pacing, and support structures leading into the second midterm.
+</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> when the average score drops across nearly every semester, that points toward something structural rather than accidental. The second exam may be covering more difficult content, asking for more transfer, or arriving at a point in the term when students are under greater time pressure from other courses.
+</div>
+
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Averages can hide whether only a small subgroup struggled, so we looked at the full score distributions next. If the whole distribution shifts lower, that points to a broader course-level challenge rather than just a few outliers.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/02_score_distributions.png" alt="Score distributions"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> These boxen plots show the spread of student scores within each semester and midterm, not just the average. This helps separate two ideas: whether one exam was lower on average, and whether it was also more spread out. Several <code>mid2</code> cohorts shift downward as a whole rather than just adding a few low outliers, which supports the idea that the second midterm was broadly tougher. In other words, this does not look like a story driven by a tiny subgroup alone.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> the downward shift is not limited to a small struggling subgroup. A broad distribution shift suggests many students may be feeling the same challenge at once. That is important for teaching decisions, because it argues more for course-wide support before midterm 2 than for a narrow intervention aimed at only a few outliers.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> later material, exam design, pacing, or cumulative fatigue may be making the second exam structurally harder. This is worth treating as a course-level pattern, not a one-off anomaly.
+</div>
+
+</section><section class="report-section"><h2>3. The Biggest Pattern: Quality Beat Volume</h2>
+<p>When we compare many different features of ebook behavior, one theme comes up over and over: <strong>quality measures beat raw activity counts</strong>.</p>
+<ul>
+<li>Parsons first-try quality was the strongest signal in the whole report.</li>
+<li>ActiveCode best score was positive too, but weaker than Parsons.</li>
+<li>Broad concept-check coverage helped, while simple concept-check event volume was slightly negative.</li>
+</ul>
+<p>That last point is important. The data suggests that doing well on practice and spreading that practice across more distinct problems is more informative than simply generating lots of events.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> At this point we moved from descriptive questions to predictive ones: which pre-exam behaviors actually traveled with stronger midterm outcomes? The lollipop chart ranks the clearest positive and negative signals in one place.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/03_activity_correlation_lollipop.png" alt="Strongest activity signals"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This lollipop chart ranks the strongest positive and negative relationships between pre-exam behavior and midterm performance. Positive values mean the feature tends to go with stronger midterm scores; negative values mean the feature tends to go with weaker scores. The standout result is Parsons quality: first-try and average Parsons correctness dominate the chart. The surprising negative result is that large score gains on practice are often a weakness signal, because students who started much lower had more room to improve. This is one of the most important interpretation points for the whole notebook: high effort is not always the same thing as high preparedness. Teacher takeaway: repeated retries can be used as an early-warning signal for struggle, while clean early success can be used as a signal of readiness.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> students do not benefit equally from the same amount of activity. The strongest positive relationships come from doing practice well, while some negative relationships seem to capture confusion, repeated retries, or recovery from a weak starting point. In other words, more activity is not automatically more learning.
+</div>
+
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Because one ranked list can make the findings feel fragmented, we also regrouped the results by activity family and metric type. This helps answer whether quality, volume, breadth, or spacing mattered most across different tools.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/04_quality_vs_volume_heatmap.png" alt="Quality versus volume"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This heatmap groups the correlations by activity family and metric type. Read across a row to compare one metric, or down a column to see the overall pattern for a family. Warm cells are positive, cool cells are negative. The main pattern is very consistent: quality metrics such as <code>mean first score</code>, <code>mean best score</code>, and <code>average event score</code> are more informative than raw event counts. Concept checks are especially interesting because <code>unique problems</code> and <code>active days</code> help, while simple <code>total events</code> do not. In practical terms, touching more concept-check questions across more days seems healthier than clicking the same question family many times in a concentrated burst. Teacher takeaway: this argues for distributed practice and broad coverage rather than just more activity volume.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> this pattern fits a familiar classroom story. A student who touches many distinct questions across multiple days may be building flexible understanding, while a student generating many events on the same material may be signaling uncertainty. The chart suggests that distributed, accurate engagement is healthier than frantic repetition.
+</div>
+
+<div class="callout">
+<strong>Why might event counts be weak or negative?</strong> A large number of clicks, moves, or checks can reflect productive engagement, but it can also reflect confusion, repeated retries, or revisiting the same material because the student is stuck. Raw volume mixes all of those states together.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> if the goal is to identify readiness, quality indicators are much more useful than simple counts. Broad, accurate, spaced practice looks healthier than intense but messy activity.
+</div>
+
+</section><section class="report-section"><h2>4. Parsons Puzzles Were The Clearest Diagnostic Signal</h2>
+<p>Parsons stood out more than any other activity family. Students in the top quartile of Parsons first-try quality scored about <strong>17.5 points higher</strong> than students in the bottom quartile.</p>
+<p>This is a strong instructional clue. Parsons puzzles appear to capture something central about success in this course: being able to reason about code structure and put together a correct approach quickly.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Parsons was the strongest overall signal, so we zoomed in. We wanted to see whether that effect looked like a real gradient across students or whether it was being driven by a small corner of the data.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/05_parsons_first_score_scatter.png" alt="Parsons first-try quality"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This scatter plot puts both the Parsons feature and the exam score into within-cohort percentiles, so each dot compares a student against peers from the same semester and same midterm. The upward slope is steep: moving from the bottom quartile to the top quartile of Parsons first-try quality is associated with about <strong>17.5 extra midterm points</strong>. That is one of the strongest effects anywhere in the notebook. To make this concrete for a teacher: students who can assemble a reasonable Parsons solution and get it correct on the first graded check tend to be much more exam-ready than students who need many checks before arriving at the answer. Teacher takeaway: Parsons puzzles may be especially useful not just as practice, but as a diagnostic. Students who repeatedly miss the first check could be flagged for support before the exam.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> Parsons appears to be doing more than providing practice. It may be exposing whether students can organize code logic quickly and correctly, which is closely related to exam readiness in an intermediate Python course. That makes it especially useful as a diagnostic, not just an exercise format.
+</div>
+
+<p>But the story gets even more interesting when we separate <strong>effort</strong> from <strong>efficiency</strong>. High-effort students were not automatically high-performing. Students who worked a lot on Parsons but still had low first-try quality remained much weaker than students with high quality.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> A strong Parsons relationship could still reflect two different stories: students who practiced more did better, or students who practiced more efficiently did better. So the next chart deliberately separates effort from efficiency.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/13_effort_vs_efficiency.png" alt="Effort versus efficiency"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes: </strong> This plot compares two different ideas that are easy to confuse. The horizontal axis is <strong>effort</strong>: how much Parsons activity a student generated relative to classmates in the same cohort. The vertical axis is <strong>efficiency</strong>: how strong that student’s Parsons first-try quality was relative to classmates. The color shows the student’s midterm score percentile. The key pattern is that high-efficiency students tend to do well whether their effort is low or high, while low-efficiency students tend to struggle even when their effort is high. Teacher takeaway: a lot of activity is not automatically a sign of understanding. A student can be working very hard and still need help. This makes Parsons logs useful for distinguishing productive practice from repeated struggle.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> some students are putting in clear effort but still landing in the low-efficiency region. Those students may be ideal candidates for early intervention because the problem is probably not motivation. It may be conceptual confusion, ineffective study habits, or a need for more scaffolding.
+</div>
+
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Scatter plots are useful analytically, but instructors often need something easier to act on. We turned the effort-efficiency map into four simple profiles so the differences in average outcomes become more concrete.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/14_student_profiles.png" alt="Student profiles"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes: </strong> This bar chart turns the effort-efficiency map into four simple profiles. The strongest profile is <strong>High effort, high efficiency</strong>, with an average midterm score around <strong>77.2%</strong>. The weakest profile is <strong>Low effort, low efficiency</strong>, at about <strong>65.0%</strong>. The especially interesting comparison is between <strong>high effort, high efficiency</strong> and <strong>high effort, low efficiency</strong>: effort alone does not close the gap. Teacher takeaway: if an instructor wants an early warning flag, high-effort students with low efficiency may be one of the most important groups to catch, because they are engaged but still not converting effort into understanding.</div>
+
+<div class="insight">
+<strong>What this may mean in the classroom:</strong> these profiles help separate different kinds of need. A low-effort, low-efficiency student may need engagement support, while a high-effort, low-efficiency student may already be trying hard and instead need targeted feedback, tutoring, or conceptual repair.
+</div>
+
+<p>The profile view makes this very concrete:</p>
+<ul>
+<li><strong>High effort, high efficiency</strong> students averaged about <strong>77.2%</strong>.</li>
+<li><strong>Low effort, low efficiency</strong> students averaged about <strong>65.0%</strong>.</li>
+<li>The especially important group is <strong>high effort, low efficiency</strong>. These students were engaged, but still struggled to turn that effort into strong results.</li>
+</ul>
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> Parsons logs may be one of the best early-warning tools in the course. A student with lots of Parsons activity but weak first-try quality is probably not disengaged; they are likely working hard and still need support.
+</div>
+
+</section><section class="report-section"><h2>5. Coding Quality Mattered Too, But Not As Strongly</h2>
+<p>ActiveCode also mattered. Students in the top quartile of ActiveCode best-score quality outscored the bottom quartile by about <strong>7.8 points</strong>.</p>
+<p>That is meaningful, but it was still smaller than the Parsons effect. This suggests that coding success before the exam matters, but the strongest single early signal may be code-assembly and code-tracing fluency rather than full code-writing performance alone.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> After finding that Parsons was especially strong, we checked whether executable coding practice showed the same pattern. This helps separate whether the strongest signals were specific to Parsons or broader across coding-related activities.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/06_activecode_best_score_scatter.png" alt="ActiveCode best score"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes: </strong> This plot repeats the same percentile idea for <code>ActiveCode mean best score</code>. The relationship is still clearly positive, but not as dominant as Parsons. Students in the top quartile of this feature outscored bottom-quartile students by about <strong>7.8 points</strong>, which is still a meaningful gap. Since ActiveCode problems are executable and testable code, this result is consistent with the idea that students who can get coding practice to pass unit tests before the exam are more likely to perform well on the exam too. Teacher takeaway: coding practice quality matters, but the stronger Parsons signal suggests that code-tracing and code-assembly fluency may be especially important in this course.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> students who can get code-based practice working before the exam tend to arrive more prepared, but the weaker effect compared with Parsons suggests that writing working code is not the only thing that matters. Students may also need strong code-reading, tracing, and structural reasoning skills to succeed on the exam.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> coding practice quality matters, but Parsons may be especially valuable as a fast, sensitive diagnostic of whether students understand program structure well enough to succeed later.
+</div>
+
+</section><section class="report-section"><h2>6. Timed Practice Midterms Worked Best As Readiness Checks</h2>
+<p>This analysis adds a more direct exam-preparation question: when students completed a timed practice midterm before the real exam, did that seem to matter?</p>
+<p>The answer is yes, with an important nuance. Merely opening a timed practice exam was not the strongest signal. <strong>Finishing</strong> one was much more informative. Within the same semester-midterm cohort, finishing a timed practice exam was associated with about <strong>6.2 more real-exam points</strong> than doing no timed practice at all.</p>
+<ul>
+<li>On <code>mid1</code>, students who finished a timed practice exam averaged about <strong>77.1%</strong> on the real exam, versus <strong>71.7%</strong> for students with no timed practice.</li>
+<li>On <code>mid2</code>, the same comparison was about <strong>68.7%</strong> versus <strong>65.5%</strong>.</li>
+</ul>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> We wanted at least one preparation metric that was more exam-like than ordinary practice counts. Timed practice midterms let us compare students who did no timed practice, students who only opened it, and students who actually completed it under exam-like conditions.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/17_practice_midterm_groups.png" alt="Timed practice groups"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes: </strong> This figure introduces a separate but very practical question for instructors: what happened when students used the course’s timed practice midterms before the real exam? The left panel compares actual midterm scores for three groups: students who did no timed practice, students who opened a timed practice exam but did not finish one before the real exam, and students who finished one. The strongest group is the finishers. On <code>mid1</code>, students who finished a timed practice exam averaged about <strong>77.1%</strong> on the real exam, compared with <strong>71.7%</strong> for students who did none. On <code>mid2</code>, the same comparison is about <strong>68.7%</strong> versus <strong>65.5%</strong>. The right panel shows that timed practice usage varied by semester, which matters because it reminds us this is an opportunity signal, not something every cohort received equally. Teacher takeaway: simply opening a practice exam is not the same as working through it. Completion appears to be the more meaningful readiness marker.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> completion appears to matter more than simply opening the practice. That fits an intuitive learning story: students who work all the way through exam-like conditions may be rehearsing pacing, retrieving knowledge under pressure, and finding gaps before the real test rather than during it.
+</div>
+
+<p>Among students with a finished timed practice exam, <strong>practice quality</strong> mattered too. The conservative timed-practice score used here only includes directly scoreable practice items inside the timed practice window, but even with that restriction the relationship stayed clearly positive. The within-cohort correlation was about <strong>0.27</strong>, and students in the top timed-practice quality quartile scored about <strong>8.8 points higher</strong> than students in the bottom quartile.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Completion alone still leaves open the question of whether all finished practice is equally useful. So we also measured the quality of observable work inside the timed practice window and compared that with real-exam performance.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/18_practice_midterm_quality.png" alt="Timed practice quality"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes: </strong> This figure goes one step further. Among students with a finished timed practice exam, it asks whether stronger performance on the directly scoreable practice items also lined up with stronger real-exam performance. The left scatter uses within-cohort percentiles, and the relationship is clearly positive at about <strong>0.27</strong>. The right panel makes that easier to read: students in the <strong>top timed-practice quality quartile</strong> scored about <strong>8.8 points</strong> higher on the real exam than students in the bottom quartile of the same cohort. This practice score is conservative: it only uses directly scoreable items inside the timed practice windows, and it is based on roughly <strong>1695 finished timed practice attempts</strong> overall. Teacher takeaway: practice midterms appear most useful as a diagnostic when students actually complete them and when instructors pay attention to how well students do, not just whether the practice link was opened.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> stronger performance on the observable parts of a timed practice exam may indicate that a student is not only studying, but studying successfully. For an instructor, this makes practice-midterm quality a potentially useful checkpoint for deciding who may need extra outreach before the actual exam.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> practice midterms seem most valuable as readiness checks when students actually complete them and when instructors pay attention to how well students do on the observable parts. Opening the practice link alone is not the same thing as being prepared.
+</div>
+
+</section><section class="report-section"><h2>7. Improvement Was Real, But Starting Point Still Mattered</h2>
+<p>One of the most important interpretation issues in the report is this: some “negative” relationships are not actually bad news about the activity. They are often a sign that students started from different places.</p>
+<p>For example, <code>Parsons mean score gain</code> was negative overall (<strong>-0.44</strong>). At first glance, that might sound like improvement is associated with worse exam scores. But the more accurate story is:</p>
+<p>Students who started weaker on Parsons improved more on Parsons practice, but they still scored lower on the exam. That means a big improvement margin is often a sign of recovery from a weaker starting point, not proof that the activity was unhelpful.</p>
+<p>The learning-progression figure shows that both strong and weak exam groups improved over time. The weaker group just started lower and remained lower by exam time.</p>
+<ul>
+<li>Lowest exam quartile on Parsons: from about <strong>0.27</strong> to <strong>0.91</strong></li>
+<li>Highest exam quartile on Parsons: from about <strong>0.48</strong> to <strong>0.96</strong></li>
+</ul>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Some of the negative correlations looked counterintuitive, especially score gain. To understand whether improvement was actually helping, we stepped back and compared first observed versus last observed performance for low and high exam groups.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/16_learning_progression.png" alt="Learning progression"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This figure compares first observed and last observed practice scores for the lowest and highest exam quartiles across several activity families. The big pattern is that both groups improve, but the stronger exam group usually starts higher and stays higher. For Parsons, for example, the lowest exam quartile starts around <strong>0.27</strong> and ends around <strong>0.91</strong>, while the highest exam quartile starts higher at about <strong>0.48</strong> and ends higher at about <strong>0.96</strong>. Teacher takeaway: the issue is not that struggling students fail to improve at all. Many do improve. The issue is that early gaps remain meaningful by exam time, which argues for support that begins earlier rather than only after students have already fallen behind.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> weaker students are not failing to learn entirely. Many of them improve substantially. The issue is that they often begin lower and do not fully catch up by exam time. That argues for earlier intervention rather than waiting for exam-week recovery.
+</div>
+
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> The progression plot suggested that starting point matters as much as growth, so we made that interpretation explicit in a chart that compares baseline quartiles with later gain and exam outcome.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/12_parsons_baseline_story.png" alt="Why improvement can mislead"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This figure directly addresses one of the main interpretation traps in the data. Students in the <strong>lowest</strong> Parsons first-try quartile improved the most on Parsons practice, averaging about <strong>0.71</strong> points of gain, while students in the <strong>highest</strong> quartile improved less, around <strong>0.39</strong>. But the lower-starting group still ended with lower exam scores overall. This is why <code>Parsons mean score gain</code> shows up as a negative correlation: it is often measuring <em>how far behind a student started</em>, not whether practice was useless. Teacher takeaway: a large improvement margin can actually be a sign that a student needed substantial recovery. That is useful information, but it should be interpreted as a support signal rather than a failure of the activity.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> a big jump in practice score can sometimes be a sign that a student had a lot of ground to make up. In the context of student support, that is still valuable information. It can help identify students who are recovering, but who may still be academically vulnerable.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> improvement margins can be useful, but they should be interpreted alongside where a student started. A large gain may mean a student is recovering from a weak baseline, not that the activity failed.
+</div>
+
+</section><section class="report-section"><h2>8. Timing Alone Did Not Explain Success</h2>
+<p>It is natural to wonder whether stronger students simply used the ebook more consistently and weaker students crammed at the last minute. The data does not support such a clean story.</p>
+<ul>
+<li>Top-performing students still did about <strong>44.4%</strong> of their last-28-day activity in the final week before the exam.</li>
+<li>Bottom-performing students did about <strong>37.2%</strong>.</li>
+<li>The average number of active days was only slightly different: about <strong>11.3</strong> for the top quartile versus <strong>10.9</strong> for the bottom quartile.</li>
+</ul>
+<p>That means last-week review seems normal for most students. Timing differences exist, but they are smaller than quality differences.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> A common classroom hypothesis is that weaker students cram while stronger students space their work. We tested that directly by looking at when activity occurred in the 28 days before the exam.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/15_cramming_vs_consistency.png" alt="Cramming versus consistency"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes: </strong> This figure checks a common hypothesis directly. The left panel shows how top and bottom exam quartiles distributed their activity over the last 28 days before the exam. The right panel shows how many separate days they were active in that window. The result is more nuanced than a simple anti-cramming story: top students still did a lot of work in the last week, averaging about <strong>44.4%</strong> of their last-28-day activity there, compared with <strong>37.2%</strong> for the bottom quartile. Their average number of active days was also only slightly higher, about <strong>11.3</strong> versus <strong>10.9</strong>. Teacher takeaway: last-week review seems normal for everyone. Timing by itself is not the main separator here; practice quality remains the stronger signal.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> the data does not support a simplistic “good students never cram” story. Stronger students also study near the exam. A more plausible interpretation is that final-week review is common for everyone, but the students who benefit most are the ones coming in with stronger practice quality and cleaner foundations.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> it is probably not enough to frame the problem as “students should not cram.” Stronger students also ramped up near the exam. The bigger separator was whether that practice was accurate and efficient.
+</div>
+
+</section><section class="report-section"><h2>9. Changes Before Midterm 2 Helped Somewhat, Especially Parsons</h2>
+<p>When we look only at students who had both midterms in the same semester, the effects of changing behavior between midterm 1 and midterm 2 are real, but smaller than the baseline quality effects.</p>
+<p>The strongest change-based signal was <strong>parsons / total_events</strong>, with a correlation of about <strong>0.13</strong>.</p>
+<p>The clearest practical story was again about Parsons. Students with lower baseline Parsons performance who increased their Parsons activity more before midterm 2 tended to experience a smaller decline from midterm 1 to midterm 2.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> Because midterm 2 drops so consistently, we wanted to know whether post-midterm-1 behavior changes mattered. This chart looks at students with both exams and asks which changes tracked with smaller losses or better recovery.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/07_change_correlation_bars.png" alt="Change correlations"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This chart looks only at students who have both midterms in the same semester and asks which behavior changes line up with score changes. The bars are noticeably smaller than the baseline-quality plots above, which is an important result by itself: what students already know going into the exam matters more than short-term behavior changes. Still, the best change signals lean toward increasing Parsons engagement before <code>mid2</code>. Teacher takeaway: last-minute changes in behavior can help somewhat, but the bigger instructional opportunity may be building stronger habits and understanding earlier in the term rather than relying on short recovery windows before the second exam.</div>
+
+<div class="insight">
+<strong>What this may mean:</strong> behavior change after midterm 1 can help, but it usually does not erase the importance of baseline preparation. This suggests that post-midterm interventions may be most useful as damage control or targeted support, rather than a full substitute for strong early-semester practice.
+</div>
+
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> The overall change ranking pointed back to Parsons, so we split that story by starting level. This helps answer whether increased Parsons use was especially relevant for students who began from a weaker position.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/08_parsons_growth_groups.png" alt="Parsons growth groups"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This grouped bar chart breaks students into lower- versus upper-baseline Parsons groups and then compares low, middle, and high growth in total Parsons activity before <code>mid2</code>. Everyone still tends to drop from <code>mid1</code> to <code>mid2</code>, but higher Parsons growth usually softens that drop. In the lower-baseline group, moving from low to high Parsons growth changed the average <code>mid2 - mid1</code> drop by about <strong>3.2 points</strong>. That is one of the clearest change-based signals in the notebook, even though it is still smaller than the baseline-quality effects.</div>
+
+<div class="insight">
+<strong>Student insight:</strong> students who increased Parsons engagement after midterm 1, especially those who were weaker to begin with, tended to soften the drop into midterm 2. That does not prove Parsons caused the improvement, but it does suggest it may be one of the more promising tools to lean on when students are trying to recover.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> behavioral change before the second exam can help, but it seems to work more as a partial recovery tool than as a substitute for stronger foundations earlier in the term.
+</div>
+
+</section><section class="report-section"><h2>10. What The Instructor Can Probably Trust Most</h2>
+<p>Not every item type in the exam logs had a clean, unambiguous correctness signal. Most of the unresolved rows came from fill-in-the-blank style items.</p>
+<ul>
+<li>Mean item-level scoring coverage across the reconstructed exams was still about <strong>94.0%</strong>.</li>
+<li>The largest ambiguous category was fill-in-the-blank, with <strong>5091</strong> unresolved student-problem rows.</li>
+</ul>
+<p>This means the strongest conclusions in the report are being driven by the cleaner parts of the data: Parsons, ActiveCode, and multiple-choice style signals.</p>
+<div class="metric-setup"><strong>Why we looked at this metric:</strong> A final report should also show where the data is less certain. We therefore counted which exam item families were left unscored because the logs were ambiguous, rather than pretending every row was equally trustworthy.</div>
+
+<div class="figure-frame"><img src="analysis8_outputs/figures/09_scoring_limitations.png" alt="Scoring limitations"></div>
+
+<div class="detail-note"><strong>Detailed Figure Notes:</strong> This final figure shows which exam item families were left unscored because the logs were ambiguous or did not contain a stable correctness signal. Most of the unresolved rows are <code>fillb</code>, not multiple choice, Parsons, or ActiveCode. That means the main headline relationships are being driven by the activity families with the cleanest signals, while the murkier item types are kept separate instead of being guessed. Teacher takeaway: you can place more confidence in the trends involving Parsons, ActiveCode, and multiple-choice practice than in anything tied to the noisier item types.</div>
+
+<div class="insight">
+<strong>Why this matters:</strong> a trustworthy report should say where it is strong and where it is weaker. By separating ambiguous item types instead of forcing questionable scores, the analysis protects the main conclusions from being inflated by noisy data. That makes the cleaner findings more credible.
+</div>
+
+<div class="teacher-takeaway">
+<strong>Teacher takeaway:</strong> the report is most trustworthy when it speaks about Parsons, coding practice, broad concept-check usage, and exam-level trends. It is less definitive for noisier item types like some fill-in-the-blank questions.
+</div>
+
+</section><section class="report-section"><h2>Practical Recommendations For The Course Team</h2>
+<p>Based on the full story in the report, here are the most actionable ideas for instruction:</p>
+<ol>
+<li><strong>Use Parsons as an early diagnostic tool.</strong> Students with repeated low first-check quality look like an important support group.</li>
+<li><strong>Watch for high-effort, low-efficiency students.</strong> These students appear engaged, but they are not converting activity into understanding.</li>
+<li><strong>Promote broad and accurate practice, not just more clicks.</strong> Breadth and quality were more useful than raw event volume.</li>
+<li><strong>Encourage students to finish timed practice midterms.</strong> Completion looked more informative than simply opening a practice exam.</li>
+<li><strong>Do not overinterpret last-week studying.</strong> Stronger students also did a lot of work close to the exam; timing alone is not the main story.</li>
+<li><strong>Look closely at the midterm 2 pipeline.</strong> The across-semester drop suggests a structural challenge in the later part of the course.</li>
+<li><strong>Interpret improvement in context.</strong> Large gains can indicate recovery from a weak starting point rather than a fully solved problem.</li>
+</ol>
+</section><section class="report-section"><h2>Closing Thought</h2>
+<p>The clearest overall lesson from this report is that the ebook is already an important part of the course. The opportunity is not simply to increase usage, but to use the ebook data more strategically:</p>
+<ul>
+<li>to identify students who are putting in effort but still struggling,</li>
+<li>to notice when students are practicing broadly and cleanly,</li>
+<li>and to intervene earlier, especially before the second midterm.</li>
+</ul>
+<p>That is where the data appears most actionable for teaching.</p>
+</section><section class="report-section"><h2>What This HTML Covers</h2>
+<p>This report intentionally includes the full chain of analysis so it can stand on its own as the final deliverable:</p>
+<ol>
+<li><strong>Midterm identification and semester normalization</strong> from messy <code>problem_name</code> values.</li>
+<li><strong>Timed exam window reconstruction</strong> using start and finish markers.</li>
+<li><strong>Student-level midterm score reconstruction</strong> from observable item correctness.</li>
+<li><strong>Participation and exposure summaries</strong> by activity family.</li>
+<li><strong>Semester-level score patterns</strong> including the persistent midterm 2 drop.</li>
+<li><strong>Activity-type importance analysis</strong> across Parsons, ActiveCode, concept checks, multiple choice, and other families.</li>
+<li><strong>Effort versus efficiency and student behavior profiles</strong>.</li>
+<li><strong>Timed practice-midterm participation and quality analysis</strong>.</li>
+<li><strong>Learning progression and improvement-margin interpretation</strong>.</li>
+<li><strong>Cramming versus consistency timing analysis</strong>.</li>
+<li><strong>Mid1-to-mid2 behavior-change analysis</strong>.</li>
+<li><strong>Scoring limitations, ambiguity handling, and confidence notes</strong>.</li>
+</ol>
+<p>The goal was to make the HTML useful not just as a slide deck, but as a standalone analytical report that explains both the findings and how those findings were produced.</p>
+</section><section class="report-section"><h2>Appendix: Files Behind This Report</h2>
+<p>This report was built from the saved outputs in <code>analysis8_outputs</code>, especially:</p>
+<ul>
+<li><code>student_midterm_scores.parquet</code></li>
+<li><code>student_midterm_activity_features.parquet</code></li>
+<li><code>activity_correlations.csv</code></li>
+<li><code>activity_change_correlations.csv</code></li>
+<li><code>participation_summary.csv</code></li>
+<li><code>typical_exposure_summary.csv</code></li>
+<li><code>student_profile_summary.csv</code></li>
+<li><code>learning_progression_summary.csv</code></li>
+<li><code>cramming_bin_summary.csv</code></li>
+<li><code>cramming_student_metrics.csv</code></li>
+<li><code>pipeline_summary.csv</code></li>
+<li><code>practice_midterm_group_summary.csv</code></li>
+<li><code>practice_midterm_correlation_summary.csv</code></li>
+</ul>
+<p>For a live interactive version of the same story, use the Streamlit app in <code>stakeholder_report_app.py</code>.</p>
+</section>
+  </main>
+</body>
+</html>

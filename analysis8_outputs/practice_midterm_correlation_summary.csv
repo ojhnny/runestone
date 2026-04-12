@@ -1,0 +1,8 @@
+metric,value,description
+overall_within_cohort_rank_corr,0.26606200625446685,Within-cohort rank correlation between best timed practice score and actual midterm score.
+mid1_within_cohort_rank_corr,0.3357307109557914,Same correlation using only midterm 1 rows.
+mid2_within_cohort_rank_corr,0.17641774825665812,Same correlation using only midterm 2 rows.
+finish_vs_none_mean_cohort_gap,6.1851056513451494,Average within-cohort score gap between students who finished a timed practice exam and students who did no timed practice.
+practice_quality_top_vs_bottom_gap,8.791736214132015,Average within-cohort score gap between top and bottom timed-practice score quartiles.
+finished_attempt_rows,1695.0,Finished timed practice attempts observed before the real exam.
+median_direct_items_per_finished_attempt,26.0,Median number of directly scoreable items observed in a finished timed practice attempt.

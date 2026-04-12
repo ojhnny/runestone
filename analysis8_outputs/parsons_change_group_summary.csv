@@ -1,0 +1,5 @@
+baseline_group,parsons_usage_change_group,n_students,mean_mid1_pct,mean_mid2_pct,mean_score_change,mean_parsons_usage_change,mean_parsons_accuracy_change
+low_parsons_accuracy_before_mid1,increased_parsons_before_mid2,5,52.66233766233766,59.38787878787879,6.725541125541125,26.2,0.04818293614783422
+no_parsons_before_mid1,did_not_increase_parsons_before_mid2,2,50.0,46.666666666666664,-3.333333333333334,,
+stronger_parsons_before_mid1,did_not_increase_parsons_before_mid2,2,66.55172413793103,38.285714285714285,-28.266009852216747,0.0,0.0
+stronger_parsons_before_mid1,increased_parsons_before_mid2,1132,75.5812512518262,67.25826866782808,-8.322982583998131,38.04858657243816,-0.0025461742041687097

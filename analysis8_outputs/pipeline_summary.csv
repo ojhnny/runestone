@@ -1,0 +1,6 @@
+step,label,count,count_display,description
+1,Raw Runestone log events,19805383,"19,805,383","All anonymized ebook log rows across reading, lecture, practice, and exam activity."
+2,Timed actual midterm attempts,2906,"2,906",Student exam windows inferred from timed start and finish markers in the log.
+3,Student-exam problem scores,90048,"90,048",Observed exam problem rows scored from clear correctness signals or high-confidence inferred keys.
+4,Student midterm score rows,2314,"2,314","One reconstructed midterm row per student, semester, and exam."
+5,Student pre-exam feature rows,2314,"2,314",Pre-exam activity summaries used to compare students within the same semester-midterm cohort.

@@ -1,0 +1,1695 @@
+semester_raw,anon_student_id,session_id,midterm,practice_name,practice_direct_items,practice_direct_score_pct
+F21,1,60,mid1,Midterm1-Practice-Fall21-Timed,26,85.76923076923077
+F21,2,218,mid1,Midterm1-Practice-Fall21-Timed,26,86.15384615384615
+F21,2,269,mid2,Mid2-Practice-Timed,33,54.54545454545454
+F21,3,351,mid1,Midterm1-Practice-Fall21-Timed,26,68.84615384615384
+F21,5,579,mid1,Midterm1-Practice-Fall21-Timed,26,64.23076923076923
+F21,5,609,mid2,Mid2-Practice-Timed,33,51.76767676767676
+F21,8,1058,mid1,Midterm1-Practice-Fall21-Timed,26,84.23076923076923
+F21,8,1118,mid2,Mid2-Practice-Timed,34,63.23529411764706
+F21,10,1307,mid1,Midterm1-Practice-Fall21-Timed,24,86.66666666666667
+F21,11,1440,mid1,Midterm1-Practice-Fall21-Timed,26,81.82692307692308
+F21,11,1488,mid2,Mid2-Practice-Timed,32,56.25
+F21,14,1692,mid1,Midterm1-Practice-Fall21-Timed,25,60.8
+F21,15,1806,mid1,Midterm1-Practice-Fall21-Timed,26,83.46153846153845
+F21,16,1884,mid1,Midterm1-Practice-Fall21-Timed,16,93.75
+F21,17,1930,mid1,Midterm1-Practice-Fall21-Timed,26,88.07692307692308
+F21,21,2357,mid1,Midterm1-Practice-Fall21-Timed,26,95.76923076923076
+F21,21,2383,mid2,Mid2-Practice-Timed,34,84.31372549019608
+F21,22,2451,mid1,Midterm1-Practice-Fall21-Timed,25,91.6
+F21,25,2681,mid1,Midterm1-Practice-Fall21-Timed,26,91.92307692307692
+F21,28,3000,mid1,Midterm1-Practice-Fall21-Timed,26,96.15384615384616
+F21,29,3120,mid2,Mid2-Practice-Timed,33,91.41414141414141
+F21,30,3285,mid1,Midterm1-Practice-Fall21-Timed,25,44.4
+F21,30,3342,mid2,Mid2-Practice-Timed,34,61.76470588235294
+F21,32,3557,mid1,Midterm1-Practice-Fall21-Timed,26,88.07692307692308
+F21,34,3964,mid1,Midterm1-Practice-Fall21-Timed,26,88.07692307692308
+F21,35,4113,mid1,Midterm1-Practice-Fall21-Timed,26,63.846153846153854
+F21,35,4175,mid2,Mid2-Practice-Timed,34,73.52941176470588
+F21,38,4414,mid1,Midterm1-Practice-Fall21-Timed,26,83.17307692307693
+F21,39,4510,mid1,Midterm1-Practice-Fall21-Timed,26,83.46153846153845
+F21,42,4814,mid1,Midterm1-Practice-Fall21-Timed,26,92.3076923076923
+F21,43,4976,mid1,Midterm1-Practice-Fall21-Timed,26,81.53846153846153
+F21,43,5048,mid2,Mid2-Practice-Timed,33,82.82828282828282
+F21,44,5141,mid1,Midterm1-Practice-Fall21-Timed,26,75.0
+F21,46,5357,mid1,Midterm1-Practice-Fall21-Timed,26,91.53846153846155
+F21,46,5391,mid2,Mid2-Practice-Timed,31,90.32258064516128
+F21,48,5569,mid2,Mid2-Practice-Timed,32,50.0
+F21,50,5771,mid1,Midterm1-Practice-Fall21-Timed,26,84.23076923076923
+F21,50,5795,mid2,Mid2-Practice-Timed,34,79.41176470588235
+F21,52,5894,mid1,Midterm1-Practice-Fall21-Timed,26,82.6923076923077
+F21,53,5981,mid1,Midterm1-Practice-Fall21-Timed,26,75.09615384615384
+F21,55,6303,mid1,Midterm1-Practice-Fall21-Timed,26,88.07692307692308
+F21,55,6332,mid2,Mid2-Practice-Timed,34,88.23529411764706
+F21,56,6405,mid1,Midterm1-Practice-Fall21-Timed,26,91.75824175824177
+F21,57,6529,mid2,Mid2-Practice-Timed,31,87.09677419354838
+F21,59,6728,mid1,Midterm1-Practice-Fall21-Timed,25,63.6
+F21,59,6761,mid2,Mid2-Practice-Timed,33,64.24242424242425
+F21,60,6815,mid1,Midterm1-Practice-Fall21-Timed,26,80.38461538461537
+F21,61,6887,mid1,Midterm1-Practice-Fall21-Timed,25,62.4
+F21,64,7168,mid1,Midterm1-Practice-Fall21-Timed,26,89.99999999999999
+F21,65,7237,mid1,Midterm1-Practice-Fall21-Timed,26,76.92307692307693
+F21,66,7354,mid1,Midterm1-Practice-Fall21-Timed,26,81.82692307692308
+F21,67,7483,mid1,Midterm1-Practice-Fall21-Timed,26,92.3076923076923
+F21,67,7541,mid2,Mid2-Practice-Timed,32,87.5
+F21,69,7782,mid1,Midterm1-Practice-Fall21-Timed,26,92.3076923076923
+F21,72,7980,mid1,Midterm1-Practice-Fall21-Timed,26,75.0
+F21,74,8245,mid1,Midterm1-Practice-Fall21-Timed,26,80.0
+F21,76,8474,mid1,Midterm1-Practice-Fall21-Timed,26,76.15384615384616
+F21,77,8554,mid2,Mid2-Practice-Timed,33,73.73737373737373
+F21,78,8659,mid1,Midterm1-Practice-Fall21-Timed,26,91.92307692307692
+F21,80,8914,mid1,Midterm1-Practice-Fall21-Timed,26,89.23076923076923
+F21,81,8999,mid1,Midterm1-Practice-Fall21-Timed,26,92.3076923076923
+F21,81,9021,mid2,Mid2-Practice-Timed,34,91.17647058823529
+F21,84,9451,mid1,Midterm1-Practice-Fall21-Timed,26,80.0
+F21,84,9472,mid2,Mid2-Practice-Timed,34,79.90196078431373
+F21,85,9582,mid2,Mid2-Practice-Timed,30,26.666666666666668
+F21,87,9837,mid1,Midterm1-Practice-Fall21-Timed,26,84.23076923076923
+F21,87,9882,mid2,Mid2-Practice-Timed,34,82.35294117647058
+F21,88,9958,mid1,Midterm1-Practice-Fall21-Timed,26,79.23076923076924
+F21,88,10015,mid2,Mid2-Practice-Timed,33,61.61616161616161
+F21,88,10027,mid2,Mid2-Practice-Timed,34,94.11764705882352
+F21,91,10332,mid1,Midterm1-Practice-Fall21-Timed,26,80.0
+F21,94,10598,mid1,Midterm1-Practice-Fall21-Timed,26,76.15384615384616
+F21,94,10640,mid2,Mid2-Practice-Timed,34,90.19607843137256
+F21,95,10711,mid1,Midterm1-Practice-Fall21-Timed,26,88.07692307692308
+F21,95,10736,mid2,Mid2-Practice-Timed,34,89.70588235294117
+F21,96,10883,mid2,Mid2-Practice-Timed,34,75.49019607843137
+F21,97,10959,mid1,Midterm1-Practice-Fall21-Timed,26,75.0
+F21,97,10987,mid2,Mid2-Practice-Timed,33,78.78787878787878
+F21,99,11212,mid1,Midterm1-Practice-Fall21-Timed,26,92.3076923076923
+F21,99,11262,mid2,Mid2-Practice-Timed,31,74.19354838709677
+F21,101,11427,mid1,Midterm1-Practice-Fall21-Timed,21,54.761904761904766
+F21,102,11573,mid1,Midterm1-Practice-Fall21-Timed,26,76.15384615384616
+F21,104,11764,mid1,Midterm1-Practice-Fall21-Timed,19,84.21052631578947
+F21,104,11792,mid2,Mid2-Practice-Timed,30,86.66666666666667
+F21,110,11979,mid1,Midterm1-Practice-Fall21-Timed,26,70.38461538461539
+F21,110,12003,mid2,Mid2-Practice-Timed,33,63.63636363636363
+F21,111,12044,mid1,Midterm1-Practice-Fall21-Timed,16,56.25
+F22,1,63,mid1,Mid1-Fall22-Practice-Timed,26,90.76923076923077
+F22,1,65,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,2,167,mid1,Mid1-Fall22-Practice-Timed,26,96.15384615384616
+F22,2,178,mid1,Mid1-Fall22-Practice-Timed-15,26,91.92307692307692
+F22,2,171,mid1,Mid1-Fall22-Practice-Timed-2,26,90.38461538461539
+F22,2,169,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,2,199,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,49,95.91836734693877
+F22,3,313,mid1,Mid1-Fall22-Practice-Timed,25,79.0
+F22,3,315,mid1,Practice-PI-Mid1-Fall22,19,78.94736842105263
+F22,4,515,mid1,Mid1-Fall22-Practice-Timed-2,26,80.76923076923077
+F22,4,524,mid1,Practice-PI-Mid1-Fall22,20,100.0
+F22,4,574,mid2,Mid2_Fall22-Practice-Timed2,33,96.96969696969697
+F22,4,568,mid2,PI-Practice-Mid-2,16,87.5
+F22,5,656,mid1,Mid1-Fall22-Practice-Timed | Practice-PI-Mid1-Fall22,53,77.35849056603774
+F22,6,783,mid1,Mid1-Fall22-Practice-Timed,26,96.15384615384616
+F22,6,786,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,6,821,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,52,86.53846153846155
+F22,7,912,mid2,PI-Practice-Mid-2,1,0.0
+F22,8,1019,mid1,Mid1-Fall22-Practice-Timed,26,88.46153846153845
+F22,8,1010,mid1,Mid1-Fall22-Practice-Timed-2,26,74.23076923076923
+F22,8,1013,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,8,1050,mid2,Mid2_Fall22-Practice-Timed,32,90.625
+F22,8,1049,mid2,PI-Practice-Mid-2,16,87.5
+F22,9,1145,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,26,75.3846153846154
+F22,9,1147,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,9,1186,mid2,Mid2_Fall22-Practice-Timed,33,87.87878787878788
+F22,9,1185,mid2,PI-Practice-Mid-2,16,75.0
+F22,10,1279,mid1,Mid1-Fall22-Practice-Timed,26,92.3076923076923
+F22,10,1282,mid1,Mid1-Fall22-Practice-Timed-2,21,85.71428571428571
+F22,10,1278,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,10,1316,mid2,PI-Practice-Mid-2,16,93.75
+F22,11,1475,mid1,Practice-PI-Mid1-Fall22,22,100.0
+F22,11,1543,mid2,Mid2-Fall22-Practice-Timed,18,72.22222222222221
+F22,11,1546,mid2,Mid2_Fall22-Practice-Timed,32,76.5625
+F22,11,1548,mid2,PI-Practice-Mid-2,16,93.75
+F22,12,1659,mid1,Mid1-Fall22-Practice-Timed,26,96.15384615384616
+F22,12,1661,mid1,Practice-PI-Mid1-Fall22,20,100.0
+F22,12,1687,mid2,Mid2_Fall22-Practice-Timed,33,87.87878787878788
+F22,12,1689,mid2,PI-Practice-Mid-2,16,81.25
+F22,13,1767,mid1,Mid1-Fall22-Practice-Timed-2,26,96.15384615384616
+F22,13,1768,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,13,1823,mid2,PI-Practice-Mid-2,16,93.75
+F22,14,1929,mid2,PI-Practice-Mid-2,18,55.55555555555556
+F22,15,2019,mid1,Mid1-Fall22-Practice-Timed,26,96.15384615384616
+F22,15,2015,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,15,2066,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,49,87.75510204081633
+F22,15,2067,mid2,Mid2_Fall22-Practice-Timed1.5,33,93.93939393939394
+F22,16,2199,mid1,Practice-PI-Mid1-Fall22,20,65.0
+F22,17,2380,mid2,PI-Practice-Mid-2,16,75.0
+F22,18,2465,mid1,Practice-PI-Mid1-Fall22,20,100.0
+F22,19,2593,mid1,Mid1-Fall22-Practice-Timed,26,92.3076923076923
+F22,19,2599,mid1,Mid1-Fall22-Practice-Timed-15,26,84.61538461538461
+F22,19,2595,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,19,2625,mid2,Mid2_Fall22-Practice-Timed,33,78.78787878787878
+F22,19,2617,mid2,PI-Practice-Mid-2,16,81.25
+F22,21,2717,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,26,90.76923076923077
+F22,21,2716,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,21,2762,mid2,Mid2_Fall22-Practice-Timed,33,79.0909090909091
+F22,21,2758,mid2,PI-Practice-Mid-2,16,81.25
+F22,22,2835,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,22,2869,mid2,PI-Practice-Mid-2,17,52.94117647058824
+F22,23,2968,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,26,88.46153846153845
+F22,23,2971,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,23,2988,mid2,Mid2_Fall22-Practice-Timed,33,79.5959595959596
+F22,23,2989,mid2,PI-Practice-Mid-2,16,87.5
+F22,24,3061,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,29,75.86206896551724
+F22,24,3062,mid1,Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,46,84.78260869565217
+F22,24,3097,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed1.5 | PI-Practice-Mid-2,49,97.95918367346938
+F22,25,3225,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,17,58.82352941176471
+F22,25,3230,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2,30,56.666666666666664
+F22,26,3371,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,35,75.35714285714286
+F22,26,3366,mid1,Practice-PI-Mid1-Fall22,20,60.0
+F22,27,3487,mid1,Mid1-Fall22-Practice-Timed,26,95.76923076923076
+F22,27,3493,mid1,Mid1-Fall22-Practice-Timed-15,25,96.0
+F22,27,3488,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,27,3509,mid2,Mid2_Fall22-Practice-Timed,32,72.29166666666667
+F22,27,3513,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,49,88.3673469387755
+F22,29,3638,mid1,Mid1-Fall22-Practice-Timed,25,78.8
+F22,29,3635,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,29,3703,mid2,PI-Practice-Mid-2,16,93.75
+F22,30,3807,mid1,Practice-PI-Mid1-Fall22,20,40.0
+F22,31,3989,mid1,Mid1-Fall22-Practice-Timed,26,92.3076923076923
+F22,31,3994,mid1,Practice-PI-Mid1-Fall22,21,80.95238095238095
+F22,31,4047,mid2,Mid2_Fall22-Practice-Timed2,33,93.93939393939394
+F22,31,4050,mid2,PI-Practice-Mid-2,16,93.75
+F22,32,4240,mid1,Mid1-Fall22-Practice-Timed-15,19,68.42105263157895
+F22,32,4238,mid1,Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,20,60.0
+F22,32,4269,mid2,PI-Practice-Mid-2,16,43.75
+F22,33,4459,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,26,90.76923076923077
+F22,33,4505,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2,31,93.54838709677419
+F22,33,4512,mid2,PI-Practice-Mid-2,16,100.0
+F22,34,4598,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,22,95.45454545454545
+F22,34,4599,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,34,4629,mid2,PI-Practice-Mid-2,16,75.0
+F22,35,4709,mid1,Mid1-Fall22-Practice-Timed-15,26,84.42307692307692
+F22,35,4708,mid1,Practice-PI-Mid1-Fall22,21,61.904761904761905
+F22,35,4746,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,46,94.78260869565219
+F22,36,4874,mid1,Mid1-Fall22-Practice-Timed,26,92.3076923076923
+F22,36,4869,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,36,4909,mid2,Mid2_Fall22-Practice-Timed,33,96.96969696969697
+F22,36,4918,mid2,PI-Practice-Mid-2,16,87.5
+F22,37,4995,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,26,95.38461538461539
+F22,37,4996,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,37,5034,mid2,Mid2_Fall22-Practice-Timed1.5,33,81.81818181818183
+F22,37,5035,mid2,PI-Practice-Mid-2,16,100.0
+F22,38,5228,mid1,Mid1-Fall22-Practice-Timed,21,83.92857142857143
+F22,38,5221,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,38,5291,mid2,Mid2_Fall22-Practice-Timed,26,92.3076923076923
+F22,39,5357,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,39,5384,mid2,Mid2_Fall22-Practice-Timed,33,79.5959595959596
+F22,39,5386,mid2,PI-Practice-Mid-2,16,100.0
+F22,40,5473,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,26,76.92307692307693
+F22,40,5469,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,40,5494,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,48,60.416666666666664
+F22,41,5611,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,41,5651,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,16,87.5
+F22,42,5740,mid1,Mid1-Fall22-Practice-Timed,26,87.6923076923077
+F22,42,5739,mid1,Practice-PI-Mid1-Fall22,20,100.0
+F22,42,5779,mid2,Mid2_Fall22-Practice-Timed,33,87.87878787878788
+F22,43,5841,mid1,Practice-PI-Mid1-Fall22,21,85.71428571428571
+F22,43,5862,mid2,PI-Practice-Mid-2,16,81.25
+F22,44,5965,mid1,Mid1-Fall22-Practice-Timed-15,23,67.82608695652173
+F22,44,5969,mid1,Mid1-Fall22-Practice-Timed-2,24,91.66666666666666
+F22,44,5964,mid1,Practice-PI-Mid1-Fall22,20,55.00000000000001
+F22,45,6104,mid1,Mid1-Fall22-Practice-Timed,26,80.76923076923077
+F22,45,6105,mid1,Mid1-Fall22-Practice-Timed-2,26,80.76923076923077
+F22,45,6102,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,45,6135,mid2,Mid2_Fall22-Practice-Timed,31,64.51612903225806
+F22,45,6136,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2,40,60.0
+F22,46,6244,mid1,Mid1-Fall22-Practice-Timed,24,87.5
+F22,46,6247,mid1,Mid1-Fall22-Practice-Timed-15,26,95.76923076923076
+F22,46,6245,mid1,Practice-PI-Mid1-Fall22,22,95.45454545454545
+F22,46,6328,mid2,Mid2_Fall22-Practice-Timed,33,92.92929292929293
+F22,46,6327,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2,33,93.93939393939394
+F22,46,6324,mid2,PI-Practice-Mid-2,16,68.75
+F22,47,6476,mid1,Mid1-Fall22-Practice-Timed,26,88.46153846153845
+F22,47,6471,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,47,6503,mid2,Mid2_Fall22-Practice-Timed,33,84.84848484848484
+F22,47,6497,mid2,PI-Practice-Mid-2,16,75.0
+F22,48,6575,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,26,63.846153846153854
+F22,48,6570,mid1,Practice-PI-Mid1-Fall22,21,80.95238095238095
+F22,48,6613,mid2,Mid2-Fall22-Practice-2Time,26,77.59615384615385
+F22,48,6622,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,112,81.875
+F22,49,6813,mid2,PI-Practice-Mid-2,16,100.0
+F22,50,6984,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,51,7196,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,29,93.10344827586206
+F22,51,7198,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,51,7255,mid2,PI-Practice-Mid-2,16,68.75
+F22,52,7396,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,52,7439,mid2,PI-Practice-Mid-2,16,50.0
+F22,53,7547,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,54,7715,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,36,80.55555555555556
+F22,54,7712,mid1,Mid1-Fall22-Practice-Timed-15,21,52.38095238095239
+F22,54,7711,mid1,Practice-PI-Mid1-Fall22,20,60.0
+F22,54,7757,mid2,Mid2_Fall22-Practice-Timed,26,69.23076923076923
+F22,54,7758,mid2,Mid2_Fall22-Practice-Timed2,31,64.51612903225806
+F22,54,7759,mid2,PI-Practice-Mid-2,16,62.5
+F22,55,7863,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,55,7913,mid2,PI-Practice-Mid-2,15,86.66666666666667
+F22,56,8011,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,56,8044,mid2,PI-Practice-Mid-2,16,50.0
+F22,57,8123,mid1,Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,20,80.0
+F22,57,8151,mid2,Mid2_Fall22-Practice-Timed1.5 | PI-Practice-Mid-2,32,76.04166666666666
+F22,58,8245,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,45,78.66666666666666
+F22,58,8241,mid1,Practice-PI-Mid1-Fall22,20,60.0
+F22,59,8340,mid1,Mid1-Fall22-Practice-Timed-2,26,91.92307692307692
+F22,59,8337,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,59,8381,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,16,87.5
+F22,61,8527,mid1,Mid1-Fall22-Practice-Timed,26,74.23076923076923
+F22,61,8533,mid1,Mid1-Fall22-Practice-Timed-2,26,79.61538461538461
+F22,61,8529,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,61,8548,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,49,81.22448979591836
+F22,62,8634,mid1,Practice-PI-Mid1-Fall22,21,85.71428571428571
+F22,62,8663,mid2,Mid2_Fall22-Practice-Timed,32,75.0
+F22,62,8659,mid2,PI-Practice-Mid-2,16,87.5
+F22,65,8815,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,66,8885,mid2,PI-Practice-Mid-2,16,93.75
+F22,67,8963,mid1,Mid1-Fall22-Practice-Timed | Practice-PI-Mid1-Fall22,50,86.0
+F22,67,8992,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,33,84.84848484848484
+F22,68,9082,mid1,Mid1-Fall22-Practice-Timed-15,26,86.92307692307692
+F22,68,9081,mid1,Mid1-Fall22-Practice-Timed-2,25,67.6
+F22,68,9079,mid1,Practice-PI-Mid1-Fall22,23,100.0
+F22,68,9104,mid2,Mid2_Fall22-Practice-Timed1.5,30,53.333333333333336
+F22,68,9108,mid2,Mid2_Fall22-Practice-Timed2,32,64.0625
+F22,68,9109,mid2,PI-Practice-Mid-2,16,81.25
+F22,69,9189,mid1,Mid1-Fall22-Practice-Timed,26,51.24999999999999
+F22,69,9194,mid1,Mid1-Fall22-Practice-Timed-2,24,87.5
+F22,69,9192,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,69,9247,mid2,Mid2_Fall22-Practice-Timed1.5 | PI-Practice-Mid-2,49,71.42857142857143
+F22,70,9347,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,70,9374,mid2,PI-Practice-Mid-2,16,87.5
+F22,71,9468,mid1,Mid1-Fall22-Practice-Timed,24,63.33333333333333
+F22,71,9465,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,71,9505,mid2,PI-Practice-Mid-2,16,50.0
+F22,72,9583,mid1,Practice-PI-Mid1-Fall22,20,100.0
+F22,72,9612,mid2,Mid2_Fall22-Practice-Timed,32,93.75
+F22,73,9708,mid1,Mid1-Fall22-Practice-Timed,25,70.4
+F22,73,9712,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,93.10344827586206
+F22,74,9832,mid1,Mid1-Fall22-Practice-Timed-15 | Practice-PI-Mid1-Fall22,41,68.29268292682927
+F22,74,9877,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,50,64.0
+F22,75,9990,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,20,30.0
+F22,76,10103,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,76,10127,mid2,Mid2_Fall22-Practice-Timed,32,76.875
+F22,77,10215,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,20,30.0
+F22,77,10219,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,78,10336,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,78,10364,mid2,Mid2_Fall22-Practice-Timed,33,64.64646464646464
+F22,79,10510,mid1,Practice-PI-Mid1-Fall22,19,78.94736842105263
+F22,79,10566,mid2,Mid2_Fall22-Practice-Timed,31,74.19354838709677
+F22,79,10562,mid2,Mid2_Fall22-Practice-Timed1.5,30,50.0
+F22,80,10684,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,86.20689655172413
+F22,80,10682,mid1,Practice-PI-Mid1-Fall22,20,65.0
+F22,80,10721,mid2,Mid2_Fall22-Practice-Timed1.5,32,84.375
+F22,80,10720,mid2,PI-Practice-Mid-2,16,87.5
+F22,81,10822,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,25,73.7
+F22,81,10830,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,81,10863,mid2,Mid2_Fall22-Practice-Timed,33,78.78787878787878
+F22,81,10871,mid2,Mid2_Fall22-Practice-Timed2,33,90.9090909090909
+F22,81,10868,mid2,PI-Practice-Mid-2,16,62.5
+F22,82,10919,mid1,Practice-PI-Mid1-Fall22,20,65.0
+F22,82,10939,mid2,PI-Practice-Mid-2,16,87.5
+F22,83,10993,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,84,11104,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,84,11147,mid2,PI-Practice-Mid-2,16,75.0
+F22,85,11263,mid2,PI-Practice-Mid-2,16,43.75
+F22,86,11341,mid1,Practice-PI-Mid1-Fall22,20,50.0
+F22,86,11374,mid2,Mid2_Fall22-Practice-Timed,32,60.0
+F22,87,11454,mid1,Mid1-Fall22-Practice-Timed,26,88.46153846153845
+F22,87,11458,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,89.65517241379311
+F22,87,11452,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,88,11568,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,25,68.0
+F22,88,11567,mid1,Practice-PI-Mid1-Fall22,20,65.0
+F22,88,11587,mid2,PI-Practice-Mid-2,16,75.0
+F22,89,11679,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,89.65517241379311
+F22,89,11673,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,89,11739,mid2,Mid2_Fall22-Practice-Timed,30,83.33333333333334
+F22,89,11756,mid2,Mid2_Fall22-Practice-Timed1.5,33,90.9090909090909
+F22,89,11761,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,16,100.0
+F22,90,11878,mid1,Mid1-Fall22-Practice-Timed-2,17,94.11764705882352
+F22,90,11872,mid1,Practice-PI-Mid1-Fall22,20,65.0
+F22,90,11916,mid2,PI-Practice-Mid-2,16,68.75
+F22,91,12093,mid1,Mid1-Fall22-Practice-Timed,20,35.0
+F22,91,12094,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,91,12174,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,46,76.08695652173914
+F22,92,12304,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,92,12336,mid2,PI-Practice-Mid-2,16,68.75
+F22,93,12504,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,16,43.75
+F22,95,12652,mid1,Mid1-Fall22-Practice-Timed,24,79.89583333333333
+F22,95,12657,mid1,Mid1-Fall22-Practice-Timed-15,26,88.46153846153845
+F22,95,12650,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,95,12715,mid2,Mid2_Fall22-Practice-Timed,32,84.375
+F22,95,12712,mid2,PI-Practice-Mid-2,16,81.25
+F22,96,12828,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,26,80.76923076923077
+F22,96,12824,mid1,Practice-PI-Mid1-Fall22,21,85.71428571428571
+F22,96,12874,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,16,100.0
+F22,97,12928,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,97,12956,mid2,PI-Practice-Mid-2,16,93.75
+F22,98,13026,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,99,13109,mid1,Mid1-Fall22-Practice-Timed-15,26,82.3076923076923
+F22,99,13106,mid1,Practice-PI-Mid1-Fall22,20,55.00000000000001
+F22,99,13132,mid2,Mid2_Fall22-Practice-Timed2,30,70.0
+F22,100,13178,mid1,Mid1-Fall22-Practice-Timed-2,26,90.76923076923077
+F22,100,13177,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,100,13204,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,49,95.91836734693877
+F22,102,13459,mid1,Mid1-Fall22-Practice-Timed,21,85.71428571428571
+F22,102,13457,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,102,13514,mid2,PI-Practice-Mid-2,16,87.5
+F22,103,13616,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,25,80.0
+F22,103,13609,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,105,13881,mid1,Mid1-Fall22-Practice-Timed,26,79.61538461538461
+F22,105,13878,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,106,14000,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,107,14097,mid1,Mid1-Fall22-Practice-Timed,25,82.5
+F22,107,14094,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,107,14124,mid2,Mid2_Fall22-Practice-Timed2,31,80.64516129032258
+F22,108,14171,mid1,Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,41,95.1219512195122
+F22,108,14187,mid2,Mid2_Fall22-Practice-Timed,30,63.33333333333333
+F22,108,14189,mid2,PI-Practice-Mid-2,16,87.5
+F22,110,14373,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-2,25,96.0
+F22,110,14372,mid1,Practice-PI-Mid1-Fall22,21,71.42857142857143
+F22,110,14396,mid2,Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,47,89.36170212765957
+F22,111,14462,mid1,Practice-PI-Mid1-Fall22,20,55.00000000000001
+F22,111,14500,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,60,80.0
+F22,113,14780,mid1,Practice-PI-Mid1-Fall22,20,20.0
+F22,113,14830,mid2,Mid2_Fall22-Practice-Timed2,32,88.54166666666666
+F22,113,14827,mid2,PI-Practice-Mid-2,16,25.0
+F22,115,14947,mid2,PI-Practice-Mid-2,16,43.75
+F22,116,15029,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,116,15051,mid2,Mid2_Fall22-Practice-Timed | PI-Practice-Mid-2,30,66.66666666666666
+F22,118,15162,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,20,90.0
+F22,119,15249,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,119,15280,mid2,PI-Practice-Mid-2,16,93.75
+F22,120,15448,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,24,83.33333333333334
+F22,120,15497,mid2,PI-Practice-Mid-2,16,68.75
+F22,121,15716,mid1,Mid1-Fall22-Practice-Timed,26,83.5576923076923
+F22,121,15719,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,121,15848,mid2,Mid2_Fall22-Practice-Timed,32,81.25
+F22,121,15855,mid2,PI-Practice-Mid-2,16,75.0
+F22,122,16141,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,93.10344827586206
+F22,124,16433,mid2,PI-Practice-Mid-2,16,81.25
+F22,125,16572,mid1,Practice-PI-Mid1-Fall22,19,52.63157894736842
+F22,126,16655,mid1,Practice-PI-Mid1-Fall22,20,45.0
+F22,126,16709,mid2,PI-Practice-Mid-2,16,56.25
+F22,127,16773,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,128,16885,mid1,Mid1-Fall22-Practice-Timed,23,78.26086956521739
+F22,128,16877,mid1,Practice-PI-Mid1-Fall22,20,45.0
+F22,128,16920,mid2,Mid2_Fall22-Practice-Timed,31,32.25806451612903
+F22,128,16932,mid2,Mid2_Fall22-Practice-Timed1.5,29,93.10344827586206
+F22,129,17044,mid1,Mid1-Fall22-Practice-Timed-15,26,71.53846153846153
+F22,129,17039,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,129,17062,mid2,Mid2_Fall22-Practice-Timed,29,27.586206896551722
+F22,130,17148,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,130,17216,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed1.5,31,45.16129032258064
+F22,130,17225,mid2,Mid2_Fall22-Practice-Timed2,33,93.33333333333333
+F22,131,17379,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,132,17515,mid1,Mid1-Fall22-Practice-Timed,26,81.92307692307692
+F22,132,17543,mid2,PI-Practice-Mid-2,16,43.75
+F22,135,17626,mid1,Mid1-Fall22-Practice-Timed,26,86.92307692307692
+F22,135,17627,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,91.72413793103449
+F22,135,17628,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,135,17640,mid2,Mid2-Fall22-Practice-2Time,25,75.2
+F22,135,17641,mid2,Mid2_Fall22-Practice-Timed,32,86.875
+F22,136,17754,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,91.8103448275862
+F22,136,17746,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,136,17795,mid2,Mid2_Fall22-Practice-Timed,33,90.9090909090909
+F22,137,17873,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,93.10344827586206
+F22,137,17874,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,137,17901,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2,31,93.54838709677419
+F22,137,17903,mid2,PI-Practice-Mid-2,16,50.0
+F22,138,17980,mid1,Mid1-Fall22-Practice-Timed-2,26,92.3076923076923
+F22,138,17973,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,138,18016,mid2,Mid2_Fall22-Practice-Timed,30,73.33333333333333
+F22,139,18108,mid1,Mid1-Fall22-Practice-Timed,26,96.15384615384616
+F22,139,18107,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,139,18133,mid2,PI-Practice-Mid-2,16,68.75
+F22,140,18238,mid1,Practice-PI-Mid1-Fall22,19,84.21052631578947
+F22,141,18391,mid1,Mid1-Fall22-Practice-Timed,26,96.15384615384616
+F22,141,18387,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,141,18423,mid2,Mid2_Fall22-Practice-Timed,33,81.21212121212122
+F22,142,18492,mid1,Mid1-Fall22-Practice-Timed,26,86.53846153846155
+F22,142,18485,mid1,Mid1-Fall22-Practice-Timed-15,26,87.6923076923077
+F22,142,18486,mid1,Mid1-Fall22-Practice-Timed-2,26,94.61538461538463
+F22,142,18490,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,142,18532,mid2,Mid2_Fall22-Practice-Timed,33,86.36363636363636
+F22,142,18534,mid2,Mid2_Fall22-Practice-Timed2,32,87.5
+F22,142,18528,mid2,PI-Practice-Mid-2,16,75.0
+F22,143,18658,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,20,60.0
+F22,143,18653,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,143,18675,mid2,Mid2_Fall22-Practice-Timed1.5,30,66.66666666666666
+F22,143,18674,mid2,PI-Practice-Mid-2,16,50.0
+F22,144,18795,mid1,Mid1-Fall22-Practice-Timed,25,79.2
+F22,144,18793,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,145,18924,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2 | Practice-PI-Mid1-Fall22,55,90.9090909090909
+F22,145,19004,mid2,Mid2_Fall22-Practice-Timed | Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,29,82.75862068965517
+F22,146,19135,mid1,Practice-PI-Mid1-Fall22,20,90.0
+F22,146,19160,mid2,Mid2_Fall22-Practice-Timed,31,64.51612903225806
+F22,146,19162,mid2,Mid2_Fall22-Practice-Timed1.5,31,70.96774193548387
+F22,146,19169,mid2,Mid2_Fall22-Practice-Timed2,33,87.27272727272728
+F22,147,19256,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,27,50.0
+F22,147,19257,mid1,Practice-PI-Mid1-Fall22,20,70.0
+F22,147,19288,mid2,PI-Practice-Mid-2,16,56.25
+F22,149,19491,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15,25,92.8
+F22,149,19490,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,149,19528,mid2,Mid2_Fall22-Practice-Timed,33,93.93939393939394
+F22,149,19530,mid2,PI-Practice-Mid-2,16,100.0
+F22,150,19587,mid1,Mid1-Fall22-Practice-Timed | Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,25,60.8
+F22,150,19589,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F22,150,19611,mid2,Mid2_Fall22-Practice-Timed1.5,30,43.333333333333336
+F22,151,19718,mid1,Practice-PI-Mid1-Fall22,20,75.0
+F22,151,19762,mid2,Mid2_Fall22-Practice-Timed,32,60.3125
+F22,151,19769,mid2,PI-Practice-Mid-2,16,50.0
+F22,152,19879,mid1,Mid1-Fall22-Practice-Timed | Practice-PI-Mid1-Fall22,29,96.55172413793103
+F22,152,19883,mid1,Mid1-Fall22-Practice-Timed-2,23,86.95652173913044
+F22,153,20007,mid1,Mid1-Fall22-Practice-Timed,26,94.71153846153845
+F22,153,20010,mid1,Mid1-Fall22-Practice-Timed-15 | Mid1-Fall22-Practice-Timed-2,29,91.37931034482759
+F22,153,20008,mid1,Practice-PI-Mid1-Fall22,20,80.0
+F22,153,20009,mid1,Practice-PI-Mid1-Fall22,20,95.0
+F22,153,20044,mid2,Mid2_Fall22-Practice-Timed,33,78.78787878787878
+F22,153,20045,mid2,Mid2_Fall22-Practice-Timed1.5 | Mid2_Fall22-Practice-Timed2 | PI-Practice-Mid-2,49,89.79591836734694
+F22,156,20203,mid2,Mid2_Fall22-Practice-Timed1.5,30,33.33333333333333
+F22,158,20300,mid1,Practice-PI-Mid1-Fall22,20,85.0
+F23,1,111,mid1,Mid1-Win23-Practice-Timed,26,84.61538461538461
+F23,2,236,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+F23,3,83,mid1,Mid1-Fall23-Practice-Timed,26,88.46153846153845
+F23,3,314,mid1,Mid1-Fall23-Practice-Timed | Mid1-Win23-Practice-Timed,23,61.08695652173913
+F23,4,169,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,68,83.52941176470587
+F23,4,189,mid2,Mid2-Fall23-Practice-Timed,31,58.06451612903226
+F23,4,190,mid2,Mid2-Fall23-Practice-Timed-120-Min,29,72.41379310344827
+F23,5,309,mid1,Mid1-Fall23-Practice-Timed,26,76.92307692307693
+F23,6,541,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five | Mid1-Win23-Practice-Timed,29,93.10344827586206
+F23,8,539,mid1,Mid1-Fall23-Practice-Timed,26,86.92307692307692
+F23,8,587,mid2,Mid2-Fall23-Practice-Timed,34,76.47058823529412
+F23,9,653,mid1,Mid1-Fall23-Practice-Timed,26,91.82692307692307
+F23,10,741,mid1,Mid1-Fall23-Practice-Timed,25,62.4
+F23,10,1008,mid1,Mid1-Fall23-Practice-Timed,26,92.3076923076923
+F23,10,759,mid2,Mid2-Fall23-Practice-Timed,30,90.0
+F23,11,1117,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half,15,66.66666666666666
+F23,11,1141,mid2,Mid2-Fall23-Practice-Timed,30,26.666666666666668
+F23,14,1260,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,79.23076923076924
+F23,14,1262,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,26,88.46153846153845
+F23,14,1278,mid2,Mid2-Fall23-Practice-Timed,28,53.57142857142857
+F23,14,1279,mid2,Mid2-Fall23-Practice-Timed-120-Min | Mid2-Fall23-Practice-Timed-160-Min,29,92.41379310344828
+F23,15,885,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,96.15384615384616
+F23,16,946,mid1,Mid1-Fall23-Practice-Timed,26,88.46153846153845
+F23,16,964,mid2,Mid2-Fall23-Practice-Timed,33,81.81818181818183
+F23,17,1010,mid1,Mid1-Fall23-Practice-Timed,26,84.61538461538461
+F23,18,1071,mid1,Mid1-Fall23-Practice-Timed,24,70.41666666666666
+F23,18,1548,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,19,73.68421052631578
+F23,18,1544,mid1,Mid1-Win23-Practice-Timed,25,54.50000000000001
+F23,18,1109,mid2,Mid2-Fall23-Practice-Timed,32,65.625
+F23,20,1288,mid2,Mid2-Fall23-Practice-Timed,27,77.77777777777779
+F23,20,1719,mid2,Mid2-Fall23-Practice-Timed,33,78.78787878787878
+F23,21,1820,mid2,Mid2-Fall23-Practice-Timed,31,58.06451612903226
+F23,22,1376,mid1,Mid1-Fall23-Practice-Timed,18,88.88888888888889
+F23,22,1394,mid2,Mid2-Fall23-Practice-Timed,32,68.75
+F23,23,1942,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,46,97.82608695652173
+F23,23,1939,mid1,Mid1-Win23-Practice-Timed,25,96.0
+F23,23,1960,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-120-Min,33,93.93939393939394
+F23,25,1454,mid1,Mid1-Fall23-Practice-Timed,26,80.76923076923077
+F23,25,1461,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,92.3076923076923
+F23,25,1464,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,25,88.0
+F23,25,1511,mid2,Mid2-Fall23-Practice-Timed,27,86.2962962962963
+F23,25,2088,mid2,Mid2-Fall23-Practice-Timed,31,58.87096774193549
+F23,25,1512,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,88.18181818181819
+F23,25,1521,mid2,Mid2-Fall23-Practice-Timed-160-Min,33,90.9090909090909
+F23,28,1629,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,73.07692307692307
+F23,28,1650,mid2,Mid2-Fall23-Practice-Timed-160-Min,33,76.16161616161617
+F23,30,1820,mid1,Mid1-Fall23-Practice-Timed,26,87.3076923076923
+F23,30,1867,mid2,Mid2-Fall23-Practice-Timed,30,86.66666666666667
+F23,31,1943,mid1,Mid1-Fall23-Practice-Timed,26,93.07692307692308
+F23,32,2058,mid1,Mid1-Fall23-Practice-Timed,26,92.3076923076923
+F23,32,2084,mid2,Mid2-Fall23-Practice-Timed,33,51.515151515151516
+F23,33,2160,mid1,Mid1-Fall23-Practice-Timed,25,76.0
+F23,33,2161,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,24,77.5
+F23,33,2817,mid2,Mid2-Fall23-Practice-Timed,30,73.33333333333333
+F23,34,2307,mid1,Mid1-Fall23-Practice-Timed,25,96.0
+F23,34,2377,mid2,Mid2-Fall23-Practice-Timed,32,90.625
+F23,35,2458,mid1,Mid1-Fall23-Practice-Timed,25,88.0
+F23,39,2762,mid1,Mid1-Fall23-Practice-Timed,26,87.6923076923077
+F23,39,3313,mid1,Mid1-Win23-Practice-Timed,24,77.08333333333334
+F23,40,2871,mid1,Mid1-Fall23-Practice-Timed,26,84.13461538461539
+F23,40,2892,mid2,Mid2-Fall23-Practice-Timed,33,85.75757575757575
+F23,41,2959,mid1,Mid1-Fall23-Practice-Timed,26,78.07692307692308
+F23,42,3023,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,91.15384615384615
+F23,42,3055,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,72.72727272727273
+F23,43,3812,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five | Mid1-Win23-Practice-Timed,26,91.53846153846155
+F23,45,3289,mid1,Mid1-Fall23-Practice-Timed,22,72.72727272727273
+F23,46,3449,mid1,Mid1-Fall23-Practice-Timed,24,77.5
+F23,47,3654,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,80.38461538461537
+F23,47,4157,mid1,Mid1-Win23-Practice-Timed,26,80.38461538461537
+F23,47,3690,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,78.78787878787878
+F23,48,3746,mid1,Mid1-Fall23-Practice-Timed,26,88.46153846153845
+F23,50,3842,mid1,Mid1-Fall23-Practice-Timed,26,81.73076923076923
+F23,50,3908,mid2,Mid2-Fall23-Practice-Timed,32,77.5
+F23,51,3947,mid1,Mid1-Fall23-Practice-Timed,26,72.3076923076923
+F23,51,4420,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,87.6923076923077
+F23,51,4454,mid2,Mid2-Fall23-Practice-Timed,31,70.96774193548387
+F23,53,4060,mid1,Mid1-Fall23-Practice-Timed,26,92.3076923076923
+F23,55,4194,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,84.23076923076923
+F23,56,4267,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half,26,96.15384615384616
+F23,57,4364,mid1,Mid1-Fall23-Practice-Timed,26,81.6346153846154
+F23,57,4373,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,84.71153846153847
+F23,57,4414,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-120-Min,32,79.0625
+F23,57,4419,mid2,Mid2-Fall23-Practice-Timed-160-Min,33,87.87878787878788
+F23,58,5126,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+F23,58,5159,mid2,Mid2-Fall23-Practice-Timed,31,83.87096774193549
+F23,58,4532,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-120-Min,31,61.29032258064516
+F23,59,4599,mid1,Mid1-Fall23-Practice-Timed,26,92.3076923076923
+F23,59,4631,mid2,Mid2-Fall23-Practice-Timed,33,78.78787878787878
+F23,61,4770,mid1,Mid1-Fall23-Practice-Timed,26,88.46153846153845
+F23,61,4808,mid2,Mid2-Fall23-Practice-Timed,31,90.32258064516128
+F23,65,5733,mid2,Mid2-Fall23-Practice-Timed,35,71.9047619047619
+F23,67,5132,mid1,Mid1-Fall23-Practice-Timed,26,91.82692307692307
+F23,67,5134,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,26,92.3076923076923
+F23,67,5858,mid1,Mid1-Win23-Practice-Timed,26,64.61538461538461
+F23,67,5178,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,84.84848484848484
+F23,67,5179,mid2,Mid2-Fall23-Practice-Timed-160-Min,33,90.9090909090909
+F23,68,5965,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,21,90.47619047619048
+F23,70,6149,mid1,Mid1-Win23-Practice-Timed,26,71.53846153846153
+F23,70,6199,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-160-Min,30,80.0
+F23,71,5323,mid1,Mid1-Fall23-Practice-Timed,21,85.71428571428571
+F23,71,5346,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-160-Min,33,66.06060606060606
+F23,72,5385,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,88.46153846153845
+F23,73,5460,mid2,Mid2-Fall23-Practice-Timed,34,79.41176470588235
+F23,75,6659,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,18,77.77777777777779
+F23,75,6697,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-160-Min,26,84.61538461538461
+F23,77,6831,mid1,Mid1-Fall23-Practice-Timed,26,73.07692307692307
+F23,77,6867,mid2,Mid2-Fall23-Practice-Timed,33,78.18181818181819
+F23,79,7004,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,92.3076923076923
+F23,79,7000,mid1,Mid1-Win23-Practice-Timed,26,76.92307692307693
+F23,80,7135,mid2,Mid2-Fall23-Practice-Timed-160-Min,30,73.33333333333333
+F23,81,7192,mid2,Mid2-Fall23-Practice-Timed,33,72.72727272727273
+F23,84,7394,mid1,Mid1-Win23-Practice-Timed,23,73.91304347826086
+F23,85,7497,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,18,88.88888888888889
+F23,85,7493,mid1,Mid1-Win23-Practice-Timed,25,76.0
+F23,86,7590,mid1,Mid1-Win23-Practice-Timed,26,92.3076923076923
+F23,86,7623,mid2,Mid2-Fall23-Practice-Timed,33,84.84848484848484
+F23,88,7739,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,18,57.777777777777786
+F23,89,7835,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,66.15384615384615
+F23,89,7834,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,22,49.09090909090909
+F23,89,7869,mid2,Mid2-Fall23-Practice-Timed-120-Min,32,70.3125
+F23,90,7920,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,27,92.5925925925926
+F23,90,7939,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-120-Min,32,71.875
+F23,91,7980,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,82.40384615384616
+F23,91,8000,mid2,Mid2-Fall23-Practice-Timed,33,93.93939393939394
+F23,92,8044,mid1,Mid1-Win23-Practice-Timed,26,76.92307692307693
+F23,93,8123,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,69.23076923076923
+F23,93,8149,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,78.78787878787878
+F23,95,8259,mid2,Mid2-Fall23-Practice-Timed,33,96.96969696969697
+F23,96,8307,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,92.3076923076923
+F23,96,8304,mid1,Mid1-Win23-Practice-Timed,25,74.5
+F23,96,8336,mid2,Mid2-Fall23-Practice-Timed,33,87.87878787878788
+F23,98,8425,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,30,96.66666666666667
+F23,101,8780,mid2,Mid2-Fall23-Practice-Timed,32,88.4375
+F23,102,8829,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,26,81.92307692307692
+F23,103,8934,mid2,Mid2-Fall23-Practice-Timed,32,71.875
+F23,104,8990,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Win23-Practice-Timed,25,87.2
+F23,105,9055,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,21,76.19047619047619
+F23,106,9152,mid2,Mid2-Fall23-Practice-Timed,33,78.78787878787878
+F23,107,9202,mid1,Mid1-Win23-Practice-Timed,26,62.78846153846154
+F23,107,9231,mid2,Mid2-Fall23-Practice-Timed,32,52.39583333333333
+F23,111,9665,mid2,Mid2-Fall23-Practice-Timed-160-Min,33,87.87878787878788
+F23,112,9735,mid1,Mid1-Fall23-Practice-Timed | Mid1-Win23-Practice-Timed,26,87.3076923076923
+F23,112,9761,mid2,Mid2-Fall23-Practice-Timed,33,89.39393939393939
+F23,113,9827,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,60.0
+F23,114,9917,mid1,Mid1-Win23-Practice-Timed,26,92.3076923076923
+F23,114,9952,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,71.1111111111111
+F23,114,9958,mid2,Mid2-Fall23-Practice-Timed-160-Min,33,82.82828282828282
+F23,115,10043,mid1,Mid1-Fall23-Practice-Timed | Mid1-Win23-Practice-Timed,23,86.95652173913044
+F23,116,10166,mid1,Mid1-Fall23-Practice-Timed,26,92.3076923076923
+F23,116,10150,mid1,Mid1-Win23-Practice-Timed,26,94.61538461538463
+F23,116,10216,mid2,Mid2-Fall23-Practice-Timed,33,93.93939393939394
+F23,117,10283,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,84.61538461538461
+F23,117,10321,mid2,Mid2-Fall23-Practice-Timed-120-Min,33,54.54545454545454
+F23,118,10406,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,25,88.8
+F23,121,10616,mid1,Mid1-Fall23-Practice-Timed,26,88.46153846153845
+F23,121,10646,mid2,Mid2-Fall23-Practice-Timed,32,81.25
+F23,122,10715,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Win23-Practice-Timed,26,96.15384615384616
+F23,122,10753,mid2,Mid2-Fall23-Practice-Timed,33,90.9090909090909
+F23,123,10838,mid1,Mid1-Fall23-Practice-Timed,25,80.0
+F23,124,10971,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,22,86.36363636363636
+F23,124,10966,mid1,Mid1-Win23-Practice-Timed,26,76.92307692307693
+F23,124,11003,mid2,Mid2-Fall23-Practice-Timed-160-Min,30,73.33333333333333
+F23,126,11080,mid2,Mid2-Fall23-Practice-Timed-120-Min | Mid2-Fall23-Practice-Timed-160-Min,33,96.96969696969697
+F23,127,11183,mid2,Mid2-Fall23-Practice-Timed,31,51.935483870967744
+F23,131,11386,mid1,Mid1-Win23-Practice-Timed,26,80.76923076923077
+F23,131,11405,mid2,Mid2-Fall23-Practice-Timed,32,68.75
+F23,132,11449,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,25,71.6
+F23,132,11446,mid1,Mid1-Win23-Practice-Timed,25,79.8
+F23,133,11529,mid2,Mid2-Fall23-Practice-Timed,32,89.58333333333334
+F23,134,11599,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,71.53846153846153
+F23,134,11617,mid2,Mid2-Fall23-Practice-Timed-160-Min,31,90.32258064516128
+F23,135,11717,mid1,Mid1-Win23-Practice-Timed,21,34.523809523809526
+F23,135,11770,mid2,Mid2-Fall23-Practice-Timed | Mid2-Fall23-Practice-Timed-120-Min | Mid2-Fall23-Practice-Timed-160-Min,35,96.57142857142857
+F23,140,12064,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,75.3846153846154
+F23,142,12188,mid1,Mid1-Fall23-Practice-Timed-One-Seven-Five,26,68.07692307692308
+F23,142,12210,mid2,Mid2-Fall23-Practice-Timed,33,57.57575757575758
+F23,143,12271,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,15,80.0
+F23,143,12267,mid1,Mid1-Win23-Practice-Timed,26,84.61538461538461
+F23,146,12549,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,88.46153846153845
+F23,148,12693,mid1,Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five,26,96.15384615384616
+F23,148,12682,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+F23,150,12876,mid1,Mid1-Fall23-Practice-Timed-One-And-Half,26,83.46153846153845
+F23,152,12964,mid1,Mid1-Fall23-Practice-Timed | Mid1-Fall23-Practice-Timed-One-And-Half | Mid1-Fall23-Practice-Timed-One-Seven-Five | Mid1-Win23-Practice-Timed,46,97.82608695652173
+F23,153,13068,mid1,Mid1-Win23-Practice-Timed,26,91.53846153846155
+F24,1,55,mid1,M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,27,92.5925925925926
+F24,1,98,mid2,Mid2-F24-Practice-Timed-80,32,76.25
+F24,2,248,mid1,M1-F24-Practice-Timed-80,26,85.38461538461539
+F24,4,473,mid1,M1-F24-Practice-Timed-80,26,80.76923076923077
+F24,4,499,mid2,Mid2-F24-Practice-Timed-80,32,69.79166666666666
+F24,5,556,mid1,M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,26,95.38461538461539
+F24,5,577,mid2,Mid2-F24-Practice-Timed-160,29,82.75862068965517
+F24,6,665,mid1,M1-F24-Practice-Timed-80,24,89.0625
+F24,6,478,mid2,Mid2-F24-Practice-Timed-80,32,79.89583333333333
+F24,7,571,mid1,M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,8,648,mid1,M1-F24-Practice-Timed-120,26,66.53846153846155
+F24,8,651,mid1,M1-F24-Practice-Timed-80,26,84.23076923076923
+F24,8,839,mid1,M1-F24-Practice-Timed-80,26,88.46153846153845
+F24,8,854,mid2,Mid2-F24-Practice-Timed-80,30,72.66666666666667
+F24,9,929,mid1,M1-F24-Practice-Timed-80,25,46.5
+F24,9,947,mid2,Mid2-F24-Practice-Timed-80,29,55.172413793103445
+F24,11,1114,mid1,M1-F24-Practice-Timed-160,15,80.0
+F24,11,1129,mid2,Mid2-F24-Practice-Timed-80,22,31.818181818181817
+F24,12,1294,mid1,M1-F24-Practice-Timed-80,21,47.61904761904761
+F24,12,1352,mid2,Mid2-F24-Practice-Timed-80,30,36.666666666666664
+F24,13,1473,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,25,88.0
+F24,14,1564,mid1,M1-F24-Practice-Timed-120,26,96.15384615384616
+F24,14,1563,mid1,M1-F24-Practice-Timed-80,26,67.6923076923077
+F24,14,1588,mid2,Mid2-F24-Practice-Timed-120,32,93.4375
+F24,14,1583,mid2,Mid2-F24-Practice-Timed-80,31,65.16129032258064
+F24,15,1265,mid1,M1-F24-Practice-Timed-80,26,80.76923076923077
+F24,15,1289,mid2,Mid2-F24-Practice-Timed-120 | Mid2-F24-Practice-Timed-80,32,67.1875
+F24,16,1865,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,21,61.904761904761905
+F24,17,1962,mid2,Mid2-F24-Practice-Timed-160,24,83.33333333333334
+F24,17,1964,mid2,Mid2-F24-Practice-Timed-80,29,65.51724137931035
+F24,18,2058,mid1,M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,20,45.0
+F24,18,1552,mid1,M1-F24-Practice-Timed-80,26,69.23076923076923
+F24,18,1594,mid2,Mid2-F24-Practice-Timed-80,29,75.86206896551724
+F24,19,2153,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,19,2150,mid1,M1-F24-Practice-Timed-160,33,52.72727272727272
+F24,19,2178,mid2,Mid2-F24-Practice-Timed-80,32,51.24999999999999
+F24,20,1726,mid1,M1-F24-Practice-Timed-80,25,86.4
+F24,20,2253,mid1,M1-F24-Practice-Timed-80,19,52.63157894736842
+F24,20,2280,mid2,Mid2-F24-Practice-Timed-120,32,68.4375
+F24,20,1747,mid2,Mid2-F24-Practice-Timed-80,28,75.0
+F24,20,2272,mid2,Mid2-F24-Practice-Timed-80,31,48.064516129032256
+F24,21,1802,mid1,M1-F24-Practice-Timed-80,26,71.15384615384616
+F24,21,2336,mid1,M1-F24-Practice-Timed-80,24,81.66666666666667
+F24,21,1827,mid2,Mid2-F24-Practice-Timed-80,31,60.32258064516128
+F24,22,1916,mid1,M1-F24-Practice-Timed-80,26,88.46153846153845
+F24,22,1945,mid2,Mid2-F24-Practice-Timed-80,32,87.5
+F24,23,2437,mid1,M1-F24-Practice-Timed-120,26,76.92307692307693
+F24,23,2022,mid1,M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,23,2446,mid1,M1-F24-Practice-Timed-80,26,86.92307692307692
+F24,23,2042,mid2,Mid2-F24-Practice-Timed-80,31,67.41935483870968
+F24,23,2461,mid2,Mid2-F24-Practice-Timed-80,29,82.75862068965517
+F24,24,2515,mid1,M1-F24-Practice-Timed-80,26,86.53846153846155
+F24,25,2339,mid2,Mid2-F24-Practice-Timed-120 | Mid2-F24-Practice-Timed-80,28,39.285714285714285
+F24,26,2460,mid2,Mid2-F24-Practice-Timed-80,29,65.51724137931035
+F24,27,2632,mid1,M1-F24-Practice-Timed-120,26,84.61538461538461
+F24,27,2629,mid1,M1-F24-Practice-Timed-80,26,80.0
+F24,27,2793,mid1,M1-F24-Practice-Timed-80,26,87.6923076923077
+F24,27,2818,mid2,Mid2-F24-Practice-Timed-80,30,59.333333333333336
+F24,28,2716,mid1,M1-F24-Practice-Timed-160,24,54.166666666666664
+F24,28,2717,mid1,M1-F24-Practice-Timed-80,26,68.46153846153847
+F24,28,2893,mid1,M1-F24-Practice-Timed-80,26,62.115384615384606
+F24,28,2922,mid2,Mid2-F24-Practice-Timed-80,30,30.555555555555554
+F24,29,2999,mid1,M1-F24-Practice-Timed-120,25,95.2
+F24,29,2764,mid1,M1-F24-Practice-Timed-80,26,76.53846153846153
+F24,29,2998,mid1,M1-F24-Practice-Timed-80,26,88.46153846153845
+F24,29,3027,mid2,Mid2-F24-Practice-Timed-120,29,72.41379310344827
+F24,31,2931,mid1,M1-F24-Practice-Timed-120,26,61.53846153846154
+F24,31,2951,mid2,Mid2-F24-Practice-Timed-120,29,62.06896551724138
+F24,31,3114,mid2,Mid2-F24-Practice-Timed-160 | Mid2-F24-Practice-Timed-80,34,29.411764705882355
+F24,32,3047,mid1,M1-F24-Practice-Timed-80,26,61.53846153846154
+F24,33,3186,mid1,M1-F24-Practice-Timed-80,25,96.0
+F24,33,3209,mid2,Mid2-F24-Practice-Timed-80,32,79.6875
+F24,34,3295,mid1,M1-F24-Practice-Timed-120,25,67.6
+F24,34,3310,mid1,M1-F24-Practice-Timed-80,24,47.5
+F24,34,3327,mid2,Mid2-F24-Practice-Timed-120 | Mid2-F24-Practice-Timed-160,32,72.60416666666667
+F24,34,3331,mid2,Mid2-F24-Practice-Timed-80,29,27.586206896551722
+F24,35,3371,mid1,M1-F24-Practice-Timed-80,26,76.92307692307693
+F24,36,3479,mid1,M1-F24-Practice-Timed-80,26,80.76923076923077
+F24,36,3561,mid1,M1-F24-Practice-Timed-80,20,40.0
+F24,36,3700,mid2,Mid2-F24-Practice-Timed-120,26,73.07692307692307
+F24,36,3513,mid2,Mid2-F24-Practice-Timed-80,31,63.870967741935495
+F24,36,3684,mid2,Mid2-F24-Practice-Timed-80,28,39.285714285714285
+F24,37,3840,mid1,M1-F24-Practice-Timed-160,26,78.84615384615384
+F24,37,3844,mid1,M1-F24-Practice-Timed-80,22,95.45454545454545
+F24,37,3869,mid2,Mid2-F24-Practice-Timed-160,29,51.724137931034484
+F24,37,3872,mid2,Mid2-F24-Practice-Timed-80,32,80.9375
+F24,39,3794,mid1,M1-F24-Practice-Timed-80,26,88.46153846153845
+F24,39,4019,mid2,Mid2-F24-Practice-Timed-160 | Mid2-F24-Practice-Timed-80,29,48.275862068965516
+F24,40,4117,mid1,M1-F24-Practice-Timed-120,26,96.15384615384616
+F24,40,4112,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,26,96.15384615384616
+F24,40,4139,mid2,M2-F24-Practice-Accom | Mid2-F24-Practice-Timed-80,33,96.96969696969697
+F24,40,4137,mid2,Mid2-F24-Practice-Timed-120,32,79.6875
+F24,40,4140,mid2,Mid2-F24-Practice-Timed-160,32,95.9375
+F24,41,4219,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,26,72.3076923076923
+F24,41,3975,mid1,M1-F24-Practice-Timed-80,25,37.5
+F24,41,4268,mid2,Mid2-F24-Practice-Timed-160,29,31.03448275862069
+F24,42,4319,mid1,M1-F24-Practice-Timed-120,26,83.07692307692308
+F24,42,4121,mid1,M1-F24-Practice-Timed-80,26,83.07692307692308
+F24,42,4172,mid2,Mid2-F24-Practice-Timed-160,32,56.25
+F24,43,4376,mid1,M1-F24-Practice-Timed-80,26,74.23076923076923
+F24,43,4397,mid2,Mid2-F24-Practice-Timed-120,25,76.0
+F24,43,4393,mid2,Mid2-F24-Practice-Timed-80,31,67.74193548387096
+F24,44,4387,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,22,90.9090909090909
+F24,44,4477,mid1,M1-F24-Practice-Timed-80,23,85.21739130434783
+F24,44,4518,mid2,Mid2-F24-Practice-Timed-120 | Mid2-F24-Practice-Timed-160,29,62.06896551724138
+F24,44,4401,mid2,Mid2-F24-Practice-Timed-80,32,87.1875
+F24,45,4580,mid1,M1-F24-Practice-Timed-160,26,57.01923076923077
+F24,45,4585,mid1,M1-F24-Practice-Timed-80,24,82.08333333333333
+F24,45,4606,mid2,Mid2-F24-Practice-Timed-160,30,26.333333333333336
+F24,46,4557,mid1,M1-F24-Practice-Timed-80,26,81.53846153846153
+F24,46,4573,mid2,Mid2-F24-Practice-Timed-80,31,61.29032258064516
+F24,47,4819,mid2,Mid2-F24-Practice-Timed-80,29,82.75862068965517
+F24,48,4743,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,25,66.4
+F24,48,4925,mid1,M1-F24-Practice-Timed-80,26,74.6153846153846
+F24,48,4971,mid2,Mid2-F24-Practice-Timed-80,32,70.20833333333333
+F24,49,4875,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,24,71.14583333333333
+F24,50,5053,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,23,60.86956521739131
+F24,50,5055,mid1,M1-F24-Practice-Timed-160,26,86.15384615384615
+F24,50,5076,mid2,Mid2-F24-Practice-Timed-80,28,67.85714285714286
+F24,51,4986,mid1,M1-F24-Practice-Timed-80,25,70.1
+F24,51,5138,mid1,M1-F24-Practice-Timed-80,25,44.6
+F24,51,5172,mid2,Mid2-F24-Practice-Timed-80,25,28.000000000000004
+F24,52,5088,mid1,M1-F24-Practice-Timed-80,25,79.2
+F24,53,5240,mid1,M1-F24-Practice-Timed-80,26,83.84615384615385
+F24,53,5290,mid2,M2-F24-Practice-Accom,28,60.71428571428571
+F24,53,5281,mid2,Mid2-F24-Practice-Timed-120,25,48.0
+F24,53,5280,mid2,Mid2-F24-Practice-Timed-160,27,40.74074074074074
+F24,54,5297,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,20,40.0
+F24,54,5346,mid2,Mid2-F24-Practice-Timed-80,29,37.93103448275862
+F24,54,5374,mid2,Mid2-F24-Practice-Timed-80,30,43.333333333333336
+F24,55,5442,mid1,M1-F24-Practice-Timed-160,26,86.92307692307692
+F24,55,5443,mid1,M1-F24-Practice-Timed-80,25,96.0
+F24,57,5628,mid1,M1-F24-Practice-Timed-80,26,81.92307692307692
+F24,57,5657,mid2,M2-F24-Practice-Accom,32,89.375
+F24,57,5652,mid2,Mid2-F24-Practice-Timed-80,29,44.827586206896555
+F24,58,5704,mid1,M1-F24-Practice-Timed-80,25,52.400000000000006
+F24,59,5728,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,26,80.76923076923077
+F24,60,5827,mid1,M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,60,5842,mid2,Mid2-F24-Practice-Timed-80,31,82.1505376344086
+F24,61,5885,mid1,M1-F24-Practice-Timed-80,26,75.76923076923077
+F24,61,5903,mid2,Mid2-F24-Practice-Timed-120,31,48.38709677419355
+F24,62,5975,mid1,M1-F24-Practice-Timed-120,23,47.82608695652174
+F24,63,6062,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,21,70.95238095238095
+F24,63,6095,mid2,M2-F24-Practice-Accom,24,87.5
+F24,63,6091,mid2,Mid2-F24-Practice-Timed-120 | Mid2-F24-Practice-Timed-160,36,88.88888888888889
+F24,64,6176,mid1,M1-F24-Practice-Timed-160,26,80.38461538461537
+F24,64,6220,mid2,Mid2-F24-Practice-Timed-120,29,92.41379310344828
+F24,64,6215,mid2,Mid2-F24-Practice-Timed-160,29,48.275862068965516
+F24,65,6283,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,26,95.76923076923076
+F24,65,6305,mid2,Mid2-F24-Practice-Timed-120,26,73.07692307692307
+F24,66,6438,mid1,M1-F24-Practice-Timed-120,26,70.28846153846153
+F24,66,6419,mid1,M1-F24-Practice-Timed-80,26,63.26923076923077
+F24,66,6484,mid2,Mid2-F24-Practice-Timed-120,30,40.0
+F24,66,6485,mid2,Mid2-F24-Practice-Timed-80,32,39.479166666666664
+F24,68,6682,mid1,M1-F24-Practice-Timed-120,26,92.3076923076923
+F24,68,6538,mid1,M1-F24-Practice-Timed-80,26,85.00000000000001
+F24,68,6680,mid1,M1-F24-Practice-Timed-80,25,68.0
+F24,68,6698,mid2,Mid2-F24-Practice-Timed-160,32,90.625
+F24,68,6695,mid2,Mid2-F24-Practice-Timed-80,29,62.06896551724138
+F24,69,6613,mid1,M1-F24-Practice-Timed-80,26,90.38461538461539
+F24,69,6739,mid1,M1-F24-Practice-Timed-80,24,60.10416666666667
+F24,69,6630,mid2,Mid2-F24-Practice-Timed-80,29,68.96551724137932
+F24,69,6761,mid2,Mid2-F24-Practice-Timed-80,29,51.724137931034484
+F24,70,6814,mid1,M1-F24-Practice-Timed-80,26,70.38461538461539
+F24,70,6825,mid2,Mid2-F24-Practice-Timed-80,30,76.0
+F24,71,6876,mid1,M1-F24-Practice-Timed-160,25,61.6
+F24,71,6729,mid1,M1-F24-Practice-Timed-80,26,87.6923076923077
+F24,71,6880,mid1,M1-F24-Practice-Timed-80,26,63.07692307692307
+F24,71,6759,mid2,Mid2-F24-Practice-Timed-80,30,63.33333333333333
+F24,72,6984,mid1,M1-F24-Practice-Timed-80,25,62.4
+F24,72,7025,mid2,Mid2-F24-Practice-Timed-80,31,66.23655913978496
+F24,73,7134,mid1,M1-F24-Practice-Timed-80,25,49.2
+F24,73,7232,mid2,M2-F24-Practice-Accom | Mid2-F24-Practice-Timed-120,28,64.28571428571429
+F24,74,7339,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,26,88.46153846153845
+F24,75,7450,mid1,M1-F24-Practice-Timed-120,26,68.84615384615384
+F24,76,7588,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,26,96.15384615384616
+F24,76,7587,mid1,M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,77,7245,mid1,M1-F24-Practice-Timed-80,24,54.79166666666667
+F24,77,7271,mid2,Mid2-F24-Practice-Timed-80,30,66.66666666666666
+F24,78,7343,mid1,M1-F24-Practice-Timed-80,26,76.92307692307693
+F24,78,7784,mid1,M1-F24-Practice-Timed-80,23,41.086956521739125
+F24,78,7398,mid2,Mid2-F24-Practice-Timed-80,30,66.66666666666666
+F24,78,7818,mid2,Mid2-F24-Practice-Timed-80,29,51.724137931034484
+F24,79,7932,mid2,Mid2-F24-Practice-Timed-80,29,79.3103448275862
+F24,80,7538,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,26,96.15384615384616
+F24,83,7721,mid1,M1-F24-Practice-Timed-80,24,66.25
+F24,85,8374,mid1,M1-F24-Practice-Timed-80,26,91.53846153846155
+F24,86,8506,mid1,M1-F24-Practice-Timed-120,24,56.666666666666664
+F24,87,8570,mid1,M1-F24-Practice-Timed-80,20,65.0
+F24,87,8623,mid2,Mid2-F24-Practice-Timed-160,25,80.0
+F24,87,8622,mid2,Mid2-F24-Practice-Timed-80,25,76.0
+F24,88,7965,mid1,M1-F24-Practice-Timed-160,15,80.0
+F24,89,8078,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,26,72.01923076923077
+F24,89,8103,mid2,Mid2-F24-Practice-Timed-80,31,48.70967741935483
+F24,91,8238,mid1,M1-F24-Practice-Timed-80,26,80.38461538461537
+F24,93,8383,mid1,M1-F24-Practice-Timed-160,26,75.3846153846154
+F24,93,8397,mid2,Mid2-F24-Practice-Timed-160,28,50.0
+F24,95,8473,mid1,M1-F24-Practice-Timed-160,25,57.99999999999999
+F24,95,8489,mid2,Mid2-F24-Practice-Timed-160 | Mid2-F24-Practice-Timed-80,45,97.77777777777777
+F24,96,8550,mid1,M1-F24-Practice-Timed-80,26,84.61538461538461
+F24,96,8564,mid2,Mid2-F24-Practice-Timed-80,32,78.125
+F24,97,8631,mid1,M1-F24-Practice-Timed-80,21,34.523809523809526
+F24,98,8698,mid1,M1-F24-Practice-Timed-80,25,74.7
+F24,98,8734,mid2,Mid2-F24-Practice-Timed-120,31,85.16129032258064
+F24,98,8729,mid2,Mid2-F24-Practice-Timed-160,29,79.3103448275862
+F24,99,8790,mid1,M1-F24-Practice-Timed-80,25,89.2
+F24,99,8812,mid2,Mid2-F24-Practice-Timed-80,30,76.66666666666667
+F24,100,8889,mid1,M1-F24-Practice-Timed-80,22,67.72727272727272
+F24,101,8958,mid1,M1-F24-Practice-Timed-120,26,80.38461538461537
+F24,101,8967,mid2,Mid2-F24-Practice-Timed-160,30,53.333333333333336
+F24,102,9052,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,102,9068,mid2,Mid2-F24-Practice-Timed-80,32,84.375
+F24,103,9154,mid1,M1-F24-Practice-Timed-80,21,57.14285714285714
+F24,103,9177,mid2,Mid2-F24-Practice-Timed-80,29,72.41379310344827
+F24,107,9543,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,26,82.6923076923077
+F24,107,9541,mid1,M1-F24-Practice-Timed-80,26,76.53846153846153
+F24,107,9563,mid2,Mid2-F24-Practice-Timed-160,32,75.0
+F24,107,9560,mid2,Mid2-F24-Practice-Timed-80,29,79.3103448275862
+F24,109,9858,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,25,63.0
+F24,111,10095,mid1,M1-F24-Practice-Timed-120,24,80.83333333333333
+F24,111,10143,mid2,Mid2-F24-Practice-Timed-120,30,89.33333333333333
+F24,111,10133,mid2,Mid2-F24-Practice-Timed-160,31,48.38709677419355
+F24,113,10206,mid1,M1-F24-Practice-Timed-80,26,49.23076923076923
+F24,113,10221,mid2,Mid2-F24-Practice-Timed-80,29,67.58620689655173
+F24,114,10296,mid1,M1-F24-Practice-Timed-160,26,80.76923076923077
+F24,114,10329,mid2,Mid2-F24-Practice-Timed-120,31,90.32258064516128
+F24,114,10324,mid2,Mid2-F24-Practice-Timed-160,29,62.06896551724138
+F24,115,10467,mid1,M1-F24-Practice-Timed-120,25,87.6
+F24,116,10708,mid2,Mid2-F24-Practice-Timed-160,29,31.03448275862069
+F24,117,10883,mid1,M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,26,84.23076923076923
+F24,117,10912,mid2,Mid2-F24-Practice-Timed-80,32,87.5
+F24,118,11008,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,22,64.77272727272727
+F24,118,11012,mid1,M1-F24-Practice-Timed-80,23,79.02173913043478
+F24,118,11055,mid2,Mid2-F24-Practice-Timed-160,29,51.37931034482759
+F24,119,11166,mid1,M1-F24-Practice-Timed-80,25,79.2
+F24,120,11262,mid2,Mid2-F24-Practice-Timed-80,27,77.77777777777779
+F24,121,11321,mid1,M1-F24-Practice-Timed-80,26,80.38461538461537
+F24,121,11351,mid2,Mid2-F24-Practice-Timed-80,32,74.6875
+F24,123,11539,mid2,Mid2-F24-Practice-Timed-80,29,62.06896551724138
+F24,124,11600,mid1,M1-F24-Practice-Timed-80,26,76.15384615384616
+F24,125,11833,mid2,Mid2-F24-Practice-Timed-80,29,72.41379310344827
+F24,126,11939,mid1,M1-F24-Practice-Timed-80,25,60.0
+F24,126,11965,mid2,Mid2-F24-Practice-Timed-80,29,58.620689655172406
+F24,127,12009,mid1,M1-F24-Practice-Timed-80,25,73.6
+F24,128,12087,mid1,M1-F24-Practice-Timed-160,26,84.61538461538461
+F24,128,12134,mid2,Mid2-F24-Practice-Timed-120,32,96.875
+F24,128,12122,mid2,Mid2-F24-Practice-Timed-80,30,61.66666666666667
+F24,130,12195,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,23,86.95652173913044
+F24,133,12505,mid1,M1-F24-Practice-Timed-80,26,80.76923076923077
+F24,133,12556,mid2,Mid2-F24-Practice-Timed-120 | Mid2-F24-Practice-Timed-160,32,93.75
+F24,133,12555,mid2,Mid2-F24-Practice-Timed-80,31,58.27956989247311
+F24,134,12610,mid1,M1-F24-Practice-Timed-160,23,91.30434782608695
+F24,134,12609,mid1,M1-F24-Practice-Timed-80,26,84.61538461538461
+F24,135,12672,mid1,M1-F24-Practice-Timed-80,26,96.15384615384616
+F24,135,12685,mid2,Mid2-F24-Practice-Timed-80,31,75.48387096774192
+F24,136,12736,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-160,26,80.76923076923077
+F24,137,12814,mid1,M1-F24-Practice-Timed-120,24,63.125
+F24,137,12810,mid1,M1-F24-Practice-Timed-80,26,76.92307692307693
+F24,138,12911,mid2,Mid2-F24-Practice-Timed-80,32,65.3125
+F24,140,13145,mid1,M1-F24-Practice-Timed-120 | M1-F24-Practice-Timed-80,24,60.416666666666664
+F24,140,13185,mid2,Mid2-F24-Practice-Timed-160,32,48.125
+F24,144,13427,mid1,M1-F24-Practice-Timed-80,26,80.76923076923077
+F24,144,13443,mid2,Mid2-F24-Practice-Timed-80,30,83.33333333333334
+F24,145,13515,mid1,M1-F24-Practice-Timed-120,26,84.23076923076923
+F24,145,13514,mid1,M1-F24-Practice-Timed-80,26,91.92307692307692
+F24,146,13606,mid1,M1-F24-Practice-Timed-160 | M1-F24-Practice-Timed-80,26,91.53846153846155
+F24,149,13682,mid1,M1-F24-Practice-Timed-80,26,92.3076923076923
+F24,149,13698,mid2,Mid2-F24-Practice-Timed-80,31,71.29032258064517
+F24,151,13807,mid1,M1-F24-Practice-Timed-160,26,76.92307692307693
+F24,151,13836,mid2,Mid2-F24-Practice-Timed-160,32,90.625
+F25,2,39,mid1,M1-F25-Practice-Timed,27,80.0
+F25,2,175,mid1,M1-F25-Practice-Timed,27,88.88888888888889
+F25,2,63,mid2,Mid2-F25-Practice-Timed,26,42.30769230769231
+F25,2,199,mid2,Mid2-F25-Practice-Timed,32,74.6875
+F25,2,66,mid2,Mid2-F25-Practice-Timed-120,29,72.41379310344827
+F25,3,260,mid1,M1-F25-Practice-Timed,27,70.37037037037037
+F25,3,159,mid2,Mid2-F25-Practice-Timed,32,90.625
+F25,3,164,mid2,Mid2-F25-Practice-Timed-120,32,84.375
+F25,4,214,mid1,M1-F25-Practice-Timed,26,53.84615384615385
+F25,5,329,mid1,M1-F25-Practice-Timed,27,84.44444444444444
+F25,5,338,mid2,Mid2-F25-Practice-Timed-160,37,32.88288288288288
+F25,6,543,mid1,M1-F25-Practice-Timed,26,67.01923076923077
+F25,6,446,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5,25,100.0
+F25,6,481,mid2,Mid2-F25-Practice-Timed,29,62.06896551724138
+F25,6,587,mid2,Mid2-F25-Practice-Timed,28,57.14285714285714
+F25,7,700,mid1,M1-F25-Practice-Timed,27,81.1111111111111
+F25,7,552,mid1,M1-F25-Practice-Timed-1.5,26,63.846153846153854
+F25,7,727,mid2,Mid2-F25-Practice-Timed,31,76.45161290322581
+F25,7,565,mid2,Mid2-F25-Practice-Timed-120,30,61.33333333333333
+F25,8,861,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5,23,66.30434782608695
+F25,8,614,mid1,M1-F25-Practice-Timed-1.5,21,57.14285714285714
+F25,9,958,mid1,M1-F25-Practice-Timed-1.5,21,38.095238095238095
+F25,10,1062,mid1,M1-F25-Practice-Timed,26,78.46153846153847
+F25,10,1063,mid1,M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0,27,99.25925925925925
+F25,10,1066,mid1,M1-F25-Practice-Timed-2.5,27,91.85185185185185
+F25,10,1083,mid2,Mid2-F25-Practice-Timed,31,76.7741935483871
+F25,11,790,mid1,M1-F25-Practice-Timed,27,84.44444444444444
+F25,11,793,mid1,M1-F25-Practice-Timed-1.5,27,84.07407407407406
+F25,11,811,mid2,Mid2-F25-Practice-Timed,31,43.87096774193549
+F25,11,816,mid2,Mid2-F25-Practice-Timed-120,32,77.5
+F25,12,1257,mid1,M1-F25-Practice-Timed,27,95.18518518518519
+F25,12,883,mid2,Mid2-F25-Practice-Timed,29,65.51724137931035
+F25,14,1473,mid1,M1-F25-Practice-Timed,27,95.92592592592592
+F25,14,1494,mid2,Mid2-F25-Practice-Timed,31,40.32258064516129
+F25,15,1569,mid1,M1-F25-Practice-Timed,23,53.2608695652174
+F25,15,1570,mid1,M1-F25-Practice-Timed-1.5,21,76.19047619047619
+F25,15,1584,mid2,Mid2-F25-Practice-Timed,29,55.172413793103445
+F25,15,1587,mid2,Mid2-F25-Practice-Timed-120,30,73.33333333333333
+F25,17,1732,mid1,M1-F25-Practice-Timed,27,63.703703703703695
+F25,17,1736,mid1,M1-F25-Practice-Timed-1.5,24,90.0
+F25,17,1762,mid2,Mid2-F25-Practice-Timed,29,70.6896551724138
+F25,17,1490,mid2,Mid2-F25-Practice-Timed | Mid2-F25-Practice-Timed-120,29,17.24137931034483
+F25,19,1833,mid1,M1-F25-Practice-Timed,27,77.4074074074074
+F25,19,1577,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0 | M1-F25-Practice-Timed-2.5,27,85.18518518518519
+F25,19,1845,mid2,Mid2-F25-Practice-Timed,32,67.1875
+F25,20,1673,mid1,M1-F25-Practice-Timed,27,95.92592592592592
+F25,20,1676,mid1,M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0 | M1-F25-Practice-Timed-2.5,49,95.91836734693877
+F25,20,1696,mid2,Mid2-F25-Practice-Timed,28,67.85714285714286
+F25,22,2159,mid1,M1-F25-Practice-Timed,27,91.85185185185185
+F25,23,1913,mid1,M1-F25-Practice-Timed,26,84.61538461538461
+F25,23,1936,mid2,Mid2-F25-Practice-Timed,29,68.96551724137932
+F25,24,2399,mid2,Mid2-F25-Practice-Timed,32,64.27083333333333
+F25,25,2108,mid1,M1-F25-Practice-Timed,21,28.57142857142857
+F25,25,2144,mid2,Mid2-F25-Practice-Timed-160,29,24.137931034482758
+F25,26,2276,mid1,M1-F25-Practice-Timed,27,88.88888888888889
+F25,26,2304,mid2,Mid2-F25-Practice-Timed,29,77.93103448275862
+F25,27,2368,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.5,26,39.90384615384615
+F25,27,2385,mid2,Mid2-F25-Practice-Timed-120,31,57.096774193548384
+F25,27,2387,mid2,Mid2-F25-Practice-Timed-200,24,87.5
+F25,28,2436,mid1,M1-F25-Practice-Timed,27,88.88888888888889
+F25,28,2454,mid2,Mid2-F25-Practice-Timed,30,63.33333333333333
+F25,30,2871,mid2,Mid2-F25-Practice-Timed,30,40.0
+F25,31,2647,mid1,M1-F25-Practice-Timed-2.0,27,69.25925925925925
+F25,31,2673,mid2,Mid2-F25-Practice-Timed-200,32,75.0
+F25,32,3012,mid2,Mid2-F25-Practice-Timed,31,86.77419354838709
+F25,33,3114,mid1,M1-F25-Practice-Timed,27,77.77777777777779
+F25,33,3131,mid2,Mid2-F25-Practice-Timed,30,76.66666666666667
+F25,34,3210,mid1,M1-F25-Practice-Timed,27,62.96296296296296
+F25,34,3226,mid2,Mid2-F25-Practice-Timed,28,60.71428571428571
+F25,36,2875,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5,25,68.8
+F25,36,3383,mid2,Mid2-F25-Practice-Timed,29,44.827586206896555
+F25,37,2969,mid1,M1-F25-Practice-Timed-1.5,15,53.333333333333336
+F25,38,3109,mid1,M1-F25-Practice-Timed,25,61.5
+F25,38,3546,mid1,M1-F25-Practice-Timed,27,54.44444444444444
+F25,38,3138,mid2,Mid2-F25-Practice-Timed,29,41.37931034482759
+F25,39,3209,mid1,M1-F25-Practice-Timed-2.5,24,73.75
+F25,39,3726,mid2,Mid2-F25-Practice-Timed,29,34.48275862068966
+F25,40,3295,mid1,M1-F25-Practice-Timed,27,95.92592592592592
+F25,40,3314,mid2,Mid2-F25-Practice-Timed,31,70.3225806451613
+F25,41,3387,mid1,M1-F25-Practice-Timed,26,48.46153846153846
+F25,41,3854,mid1,M1-F25-Practice-Timed,27,96.29629629629629
+F25,41,3388,mid1,M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0,24,73.33333333333334
+F25,42,3512,mid1,M1-F25-Practice-Timed-1.5,24,73.02083333333333
+F25,42,3515,mid1,M1-F25-Practice-Timed-2.5,24,90.9375
+F25,42,3547,mid2,Mid2-F25-Practice-Timed-120,29,75.86206896551724
+F25,43,3606,mid1,M1-F25-Practice-Timed,27,87.4074074074074
+F25,43,3627,mid2,Mid2-F25-Practice-Timed,29,79.3103448275862
+F25,45,3827,mid1,M1-F25-Practice-Timed,27,75.0
+F25,45,3843,mid2,Mid2-F25-Practice-Timed,29,51.724137931034484
+F25,46,3900,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-2.0,27,78.51851851851852
+F25,46,3913,mid2,Mid2-F25-Practice-Timed-120,29,65.51724137931035
+F25,47,4450,mid1,M1-F25-Practice-Timed,21,66.66666666666666
+F25,47,4442,mid1,M1-F25-Practice-Timed-1.5,16,87.5
+F25,47,4484,mid2,Mid2-F25-Practice-Timed-200,29,86.20689655172413
+F25,48,4006,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5,23,65.21739130434783
+F25,48,4036,mid2,Mid2-F25-Practice-Timed,29,75.86206896551724
+F25,48,4580,mid2,Mid2-F25-Practice-Timed,31,44.516129032258064
+F25,49,4673,mid1,M1-F25-Practice-Timed,24,49.583333333333336
+F25,51,4198,mid1,M1-F25-Practice-Timed,24,51.25000000000001
+F25,51,4989,mid1,M1-F25-Practice-Timed,27,74.07407407407408
+F25,51,4206,mid1,M1-F25-Practice-Timed-1.5,27,80.0
+F25,51,4249,mid2,Mid2-F25-Practice-Timed,29,86.20689655172413
+F25,51,5015,mid2,Mid2-F25-Practice-Timed,29,89.65517241379311
+F25,51,4256,mid2,Mid2-F25-Practice-Timed-120,32,94.375
+F25,51,5012,mid2,Mid2-F25-Practice-Timed-160,29,75.86206896551724
+F25,51,5010,mid2,Mid2-F25-Practice-Timed-200,32,65.625
+F25,52,5053,mid1,M1-F25-Practice-Timed-1.5,24,56.25
+F25,52,5058,mid1,M1-F25-Practice-Timed-2.0,22,67.27272727272727
+F25,52,5064,mid1,M1-F25-Practice-Timed-2.5,21,80.95238095238095
+F25,53,4412,mid2,Mid2-F25-Practice-Timed,32,39.479166666666664
+F25,54,4489,mid1,M1-F25-Practice-Timed,27,72.03703703703704
+F25,54,4518,mid2,Mid2-F25-Practice-Timed,30,50.33333333333333
+F25,54,4528,mid2,Mid2-F25-Practice-Timed-120,31,95.48387096774194
+F25,55,4624,mid1,M1-F25-Practice-Timed,27,80.37037037037037
+F25,55,5254,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-2.0,27,76.2962962962963
+F25,55,4652,mid2,Mid2-F25-Practice-Timed,31,73.87096774193547
+F25,56,5315,mid1,M1-F25-Practice-Timed,27,96.29629629629629
+F25,56,4743,mid2,Mid2-F25-Practice-Timed,25,82.4
+F25,57,4795,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-2.0 | M1-F25-Practice-Timed-2.5,27,84.44444444444444
+F25,57,4793,mid1,M1-F25-Practice-Timed-1.5,27,72.22222222222221
+F25,57,4814,mid2,Mid2-F25-Practice-Timed,30,68.66666666666667
+F25,57,4819,mid2,Mid2-F25-Practice-Timed-200,30,82.66666666666667
+F25,58,5545,mid1,M1-F25-Practice-Timed,24,92.5
+F25,58,4916,mid1,M1-F25-Practice-Timed-1.5,27,87.77777777777777
+F25,58,5591,mid2,Mid2-F25-Practice-Timed,32,69.6875
+F25,58,5581,mid2,Mid2-F25-Practice-Timed-120,27,40.74074074074074
+F25,58,5585,mid2,Mid2-F25-Practice-Timed-160,31,76.34408602150538
+F25,59,5661,mid1,M1-F25-Practice-Timed-1.5,27,76.66666666666666
+F25,59,5688,mid2,Mid2-F25-Practice-Timed-120,32,50.0
+F25,61,5867,mid1,M1-F25-Practice-Timed-1.5,27,98.88888888888889
+F25,62,5939,mid1,M1-F25-Practice-Timed,27,85.18518518518519
+F25,62,5229,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-2.5,21,95.23809523809523
+F25,62,5940,mid1,M1-F25-Practice-Timed-1.5,27,88.88888888888889
+F25,62,5957,mid2,Mid2-F25-Practice-Timed,29,71.72413793103448
+F25,63,5344,mid2,Mid2-F25-Practice-Timed,30,73.33333333333333
+F25,64,5406,mid1,M1-F25-Practice-Timed,27,61.48148148148148
+F25,64,5436,mid2,Mid2-F25-Practice-Timed,32,61.875
+F25,65,5525,mid1,M1-F25-Practice-Timed,27,84.07407407407406
+F25,65,5539,mid2,Mid2-F25-Practice-Timed,32,68.75
+F25,66,6310,mid1,M1-F25-Practice-Timed,27,88.88888888888889
+F25,66,6328,mid2,Mid2-F25-Practice-Timed,46,58.69565217391305
+F25,67,5844,mid1,M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0,27,100.0
+F25,67,5876,mid2,Mid2-F25-Practice-Timed,32,87.5
+F25,69,6510,mid1,M1-F25-Practice-Timed,27,74.07407407407408
+F25,71,6239,mid2,Mid2-F25-Practice-Timed-200,24,75.0
+F25,72,6358,mid1,M1-F25-Practice-Timed-1.5,25,53.0
+F25,74,6897,mid1,M1-F25-Practice-Timed,26,49.61538461538461
+F25,74,6917,mid2,Mid2-F25-Practice-Timed-120,30,43.333333333333336
+F25,75,6699,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-2.0 | M1-F25-Practice-Timed-2.5,38,92.10526315789474
+F25,75,6719,mid2,Mid2-F25-Practice-Timed-120,29,31.03448275862069
+F25,75,6721,mid2,Mid2-F25-Practice-Timed-160,30,100.0
+F25,76,6810,mid1,M1-F25-Practice-Timed-1.5,21,55.23809523809524
+F25,77,6882,mid1,M1-F25-Practice-Timed,26,74.23076923076923
+F25,77,7110,mid1,M1-F25-Practice-Timed,25,58.4
+F25,77,6904,mid2,Mid2-F25-Practice-Timed,29,58.620689655172406
+F25,77,7125,mid2,Mid2-F25-Practice-Timed,29,58.620689655172406
+F25,78,7203,mid1,M1-F25-Practice-Timed,24,70.41666666666666
+F25,78,6980,mid1,M1-F25-Practice-Timed-1.5,26,83.46153846153845
+F25,78,7235,mid2,Mid2-F25-Practice-Timed-200,32,84.89583333333334
+F25,79,7318,mid1,M1-F25-Practice-Timed,27,71.11111111111111
+F25,79,7351,mid2,Mid2-F25-Practice-Timed,30,81.66666666666667
+F25,80,7459,mid2,Mid2-F25-Practice-Timed,31,77.41935483870968
+F25,81,7506,mid2,Mid2-F25-Practice-Timed-120,32,35.41666666666667
+F25,83,7662,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5,27,84.07407407407406
+F25,83,7663,mid1,M1-F25-Practice-Timed-2.0,27,91.85185185185185
+F25,83,7665,mid1,M1-F25-Practice-Timed-2.5,27,99.25925925925925
+F25,83,7686,mid2,Mid2-F25-Practice-Timed,30,53.333333333333336
+F25,83,7696,mid2,Mid2-F25-Practice-Timed,28,60.71428571428571
+F25,84,7764,mid1,M1-F25-Practice-Timed-1.5,27,77.4074074074074
+F25,84,7781,mid2,Mid2-F25-Practice-Timed-160,32,75.0
+F25,85,7861,mid1,M1-F25-Practice-Timed,27,92.5925925925926
+F25,85,7858,mid1,M1-F25-Practice-Timed-1.5,26,76.92307692307693
+F25,85,7859,mid1,M1-F25-Practice-Timed-2.5,27,87.03703703703704
+F25,85,7887,mid2,Mid2-F25-Practice-Timed,28,35.714285714285715
+F25,85,7889,mid2,Mid2-F25-Practice-Timed-120,30,66.66666666666666
+F25,85,7891,mid2,Mid2-F25-Practice-Timed-200,32,68.4375
+F25,87,8035,mid1,M1-F25-Practice-Timed,27,73.14814814814815
+F25,87,8066,mid2,Mid2-F25-Practice-Timed,30,82.66666666666667
+F25,88,8190,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.5,26,30.57692307692308
+F25,88,8231,mid2,Mid2-F25-Practice-Timed-200,32,71.875
+F25,89,8308,mid1,M1-F25-Practice-Timed,21,61.904761904761905
+F25,89,8353,mid2,Mid2-F25-Practice-Timed,20,80.0
+F25,90,8396,mid1,M1-F25-Practice-Timed,25,58.8
+F25,90,8453,mid1,M1-F25-Practice-Timed,27,96.29629629629629
+F25,90,8408,mid2,Mid2-F25-Practice-Timed,27,74.07407407407408
+F25,92,8546,mid1,M1-F25-Practice-Timed,24,54.166666666666664
+F25,92,8565,mid2,Mid2-F25-Practice-Timed | Mid2-F25-Practice-Timed-200,32,77.8125
+F25,93,8649,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0 | M1-F25-Practice-Timed-2.5,20,81.25
+F25,94,8684,mid2,Mid2-F25-Practice-Timed,29,41.37931034482759
+F25,95,8805,mid1,M1-F25-Practice-Timed,23,39.34782608695652
+F25,96,8868,mid1,M1-F25-Practice-Timed,27,78.88888888888889
+F25,96,8891,mid2,Mid2-F25-Practice-Timed-200,29,65.51724137931035
+F25,97,8837,mid1,M1-F25-Practice-Timed,22,61.81818181818181
+F25,97,8859,mid2,Mid2-F25-Practice-Timed,27,40.74074074074074
+F25,98,8944,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0 | M1-F25-Practice-Timed-2.5,27,88.88888888888889
+F25,98,9047,mid2,Mid2-F25-Practice-Timed,25,68.0
+F25,99,9167,mid1,M1-F25-Practice-Timed-1.5,27,100.0
+F25,99,9193,mid2,Mid2-F25-Practice-Timed,32,85.9375
+F25,100,9240,mid1,M1-F25-Practice-Timed-1.5,21,28.57142857142857
+F25,100,9104,mid2,Mid2-F25-Practice-Timed | Mid2-F25-Practice-Timed-120,23,52.17391304347826
+F25,101,9339,mid1,M1-F25-Practice-Timed,27,81.1111111111111
+F25,101,9366,mid2,Mid2-F25-Practice-Timed-200,32,96.875
+F25,102,9331,mid1,M1-F25-Practice-Timed,22,32.95454545454545
+F25,102,9480,mid2,Mid2-F25-Practice-Timed,29,31.03448275862069
+F25,106,9872,mid1,M1-F25-Practice-Timed,23,50.21739130434783
+F25,106,9898,mid2,Mid2-F25-Practice-Timed,29,27.586206896551722
+F25,108,10047,mid2,Mid2-F25-Practice-Timed-160,28,57.14285714285714
+F25,109,10114,mid1,M1-F25-Practice-Timed-1.5,27,80.37037037037037
+F25,111,10295,mid1,M1-F25-Practice-Timed,21,66.66666666666666
+F25,111,10299,mid1,M1-F25-Practice-Timed-1.5,19,100.0
+F25,111,10347,mid2,Mid2-F25-Practice-Timed,29,72.41379310344827
+F25,113,10536,mid1,M1-F25-Practice-Timed-1.5,27,83.70370370370371
+F25,113,10537,mid1,M1-F25-Practice-Timed-2.0,27,81.1111111111111
+F25,113,10538,mid1,M1-F25-Practice-Timed-2.5,27,85.18518518518519
+F25,114,10607,mid1,M1-F25-Practice-Timed,21,28.57142857142857
+F25,115,10707,mid1,M1-F25-Practice-Timed,20,55.00000000000001
+F25,115,10729,mid2,Mid2-F25-Practice-Timed,29,79.3103448275862
+F25,116,10802,mid1,M1-F25-Practice-Timed,27,88.51851851851852
+F25,116,10840,mid2,Mid2-F25-Practice-Timed,32,78.4375
+F25,120,11188,mid2,Mid2-F25-Practice-Timed,32,84.375
+F25,122,11246,mid1,M1-F25-Practice-Timed,22,52.72727272727272
+F25,122,11268,mid2,Mid2-F25-Practice-Timed,29,58.620689655172406
+F25,123,11364,mid1,M1-F25-Practice-Timed,27,87.03703703703704
+F25,123,11423,mid2,Mid2-F25-Practice-Timed,32,70.9375
+F25,124,11516,mid2,Mid2-F25-Practice-Timed,30,76.66666666666667
+F25,125,11594,mid2,Mid2-F25-Practice-Timed-160,29,82.75862068965517
+F25,125,11593,mid2,Mid2-F25-Practice-Timed-200,24,70.83333333333334
+F25,126,11671,mid2,Mid2-F25-Practice-Timed,29,55.172413793103445
+F25,129,11818,mid1,M1-F25-Practice-Timed | M1-F25-Practice-Timed-1.5 | M1-F25-Practice-Timed-2.0,26,62.30769230769231
+F25,129,11849,mid2,Mid2-F25-Practice-Timed-160,28,75.0
+F25,129,11843,mid2,Mid2-F25-Practice-Timed-200,24,62.5
+W22,1,37,mid1,Mid1-Win22-Practice-Timed,26,72.6923076923077
+W22,2,127,mid1,Mid1-Win22-Practice-Timed,26,86.15384615384615
+W22,4,342,mid1,Mid1-Win22-Practice-Timed,26,87.6923076923077
+W22,5,448,mid1,Mid1-Win22-Practice-Timed,21,33.33333333333333
+W22,6,561,mid1,Mid1-Win22-Practice-Timed,26,91.53846153846155
+W22,7,645,mid1,Mid1-Win22-Practice-Timed,25,95.6
+W22,8,710,mid1,Mid1-Win22-Practice-Timed,26,72.6923076923077
+W22,9,789,mid1,Mid1-Win22-Practice-Timed,26,91.92307692307692
+W22,10,884,mid1,Mid1-Win22-Practice-Timed,26,88.07692307692308
+W22,11,957,mid1,Mid1-Win22-Practice-Timed,27,81.1111111111111
+W22,13,1131,mid1,Mid1-Win22-Practice-Timed,26,84.23076923076923
+W22,18,1802,mid1,Mid1-Win22-Practice-Timed,26,95.76923076923076
+W22,20,1977,mid1,Mid1-Win22-Practice-Timed,26,79.90384615384615
+W22,21,2178,mid1,Mid1-Win22-Practice-Timed,26,95.38461538461539
+W22,22,2337,mid1,Mid1-Win22-Practice-Timed,26,84.23076923076923
+W22,24,2529,mid1,Mid1-Win22-Practice-Timed,26,88.46153846153845
+W22,25,2649,mid1,Mid1-Win22-Practice-Timed,26,88.46153846153845
+W22,26,2726,mid1,Mid1-Win22-Practice-Timed,26,78.36538461538461
+W22,27,2772,mid1,Mid1-Win22-Practice-Timed,18,61.111111111111114
+W22,36,3287,mid1,Mid1-Win22-Practice-Timed,27,92.22222222222221
+W22,37,3393,mid1,Mid1-Win22-Practice-Timed,16,74.375
+W22,38,3501,mid1,Mid1-Win22-Practice-Timed,23,67.5
+W22,39,3627,mid1,Mid1-Win22-Practice-Timed,26,86.63461538461537
+W22,41,3824,mid1,Mid1-Win22-Practice-Timed,26,84.61538461538461
+W22,43,4101,mid1,Mid1-Win22-Practice-Timed,26,88.46153846153845
+W22,45,4316,mid1,Mid1-Win22-Practice-Timed,26,83.46153846153845
+W22,48,4569,mid1,Mid1-Win22-Practice-Timed,25,81.6
+W22,50,4825,mid1,Mid1-Win22-Practice-Timed,26,88.07692307692308
+W22,51,4944,mid1,Mid1-Win22-Practice-Timed,26,91.92307692307692
+W22,53,5245,mid1,Mid1-Win22-Practice-Timed,25,46.4
+W22,55,5476,mid1,Mid1-Win22-Practice-Timed,26,84.23076923076923
+W22,56,5593,mid1,Mid1-Win22-Practice-Timed,21,66.66666666666666
+W22,61,5916,mid1,Mid1-Win22-Practice-Timed,26,92.3076923076923
+W22,62,6033,mid1,Mid1-Win22-Practice-Timed,26,84.61538461538461
+W22,63,6167,mid1,Mid1-Win22-Practice-Timed,20,69.5
+W22,67,6555,mid1,Mid1-Win22-Practice-Timed,26,88.46153846153845
+W22,71,7005,mid1,Mid1-Win22-Practice-Timed,25,75.2
+W22,72,7117,mid1,Mid1-Win22-Practice-Timed,26,71.53846153846153
+W22,73,7169,mid1,Mid1-Win22-Practice-Timed,26,68.84615384615384
+W22,74,7252,mid1,Mid1-Win22-Practice-Timed,20,70.0
+W22,75,7392,mid1,Mid1-Win22-Practice-Timed,26,90.38461538461539
+W22,76,7580,mid1,Mid1-Win22-Practice-Timed,21,80.95238095238095
+W22,78,7806,mid1,Mid1-Win22-Practice-Timed,24,75.83333333333333
+W22,79,8016,mid1,Mid1-Win22-Practice-Timed,25,86.0
+W22,82,8511,mid1,Mid1-Win22-Practice-Timed,26,91.92307692307692
+W22,83,8618,mid1,Mid1-Win22-Practice-Timed,26,65.38461538461539
+W22,84,8757,mid1,Mid1-Win22-Practice-Timed,26,86.63461538461537
+W22,85,8886,mid1,Mid1-Win22-Practice-Timed,26,76.92307692307693
+W22,86,8975,mid1,Mid1-Win22-Practice-Timed,26,95.76923076923076
+W22,88,9187,mid1,Mid1-Win22-Practice-Timed,26,88.46153846153845
+W22,95,9865,mid1,Mid1-Win22-Practice-Timed,15,93.33333333333333
+W22,97,10278,mid1,Mid1-Win22-Practice-Timed,20,60.0
+W22,105,10923,mid1,Mid1-Win22-Practice-Timed,21,38.095238095238095
+W22,107,11202,mid1,Mid1-Win22-Practice-Timed,26,67.3076923076923
+W22,108,11352,mid1,Mid1-Win22-Practice-Timed,26,75.48076923076923
+W22,109,11426,mid1,Mid1-Win22-Practice-Timed,26,88.46153846153845
+W22,112,11668,mid1,Mid1-Win22-Practice-Timed,26,76.15384615384616
+W22,120,11940,mid1,Mid1-Win22-Practice-Timed,26,76.0576923076923
+W22,125,12233,mid1,Mid1-Win22-Practice-Timed,26,96.15384615384616
+W22,126,12334,mid1,Mid1-Win22-Practice-Timed,22,45.45454545454545
+W22,127,12516,mid1,Mid1-Win22-Practice-Timed,25,94.4
+W22,137,13101,mid1,Mid1-Win22-Practice-Timed,26,89.61538461538461
+W22,138,13154,mid1,Mid1-Win22-Practice-Timed,26,68.3653846153846
+W22,141,13300,mid1,Mid1-Win22-Practice-Timed,22,95.0
+W23,1,53,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,25,77.1
+W23,2,161,mid1,Mid1-Win23-Practice-Timed,26,92.3076923076923
+W23,2,179,mid2,Mid2-Win23-Practice-Timed,33,84.84848484848484
+W23,2,184,mid2,Mid2-Win23-Practice-Timed-One-And-Half,33,90.9090909090909
+W23,2,182,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,4,343,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,5,423,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,92.3076923076923
+W23,5,467,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half | Mid2-Win23-Practice-Timed-Twice,33,96.96969696969697
+W23,5,469,mid2,PI-Mid2-Practice-Timed,20,40.0
+W23,7,707,mid2,PI-Mid2-Practice-Timed,20,55.00000000000001
+W23,8,812,mid1,Mid1-Win23-Practice-Timed,26,84.23076923076923
+W23,8,852,mid2,Mid2-Win23-Practice-Timed,31,58.06451612903226
+W23,9,935,mid2,PI-Mid2-Practice-Timed,20,55.00000000000001
+W23,11,1115,mid1,Mid1-Win23-Practice-Timed,20,65.0
+W23,13,1315,mid2,Mid2-Win23-Practice-Timed,32,65.625
+W23,13,1318,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,14,1394,mid1,Mid1-Win23-Practice-Timed,25,82.4
+W23,14,1396,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,85.28846153846155
+W23,14,1421,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,15,1471,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,15,1497,mid2,Mid2-Win23-Practice-Timed-One-And-Half,33,82.82828282828282
+W23,16,1588,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,84.23076923076923
+W23,16,1628,mid2,Mid2-Win23-Practice-Timed-One-And-Half | PI-Mid2-Practice-Timed,53,92.0754716981132
+W23,18,2072,mid2,PI-Mid2-Practice-Timed,20,30.0
+W23,19,2131,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,19,2130,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,83.84615384615385
+W23,19,2147,mid2,Mid2-Win23-Practice-Timed,32,93.75
+W23,19,2148,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,20,2286,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,21,2458,mid2,Mid2-Win23-Practice-Timed,26,73.07692307692307
+W23,21,2450,mid2,PI-Mid2-Practice-Timed,20,10.0
+W23,22,2615,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,22,2695,mid2,Mid2-Win23-Practice-Timed-One-And-Half | PI-Mid2-Practice-Timed,20,80.0
+W23,23,2785,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,23,2789,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,96.15384615384616
+W23,23,2807,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,33,96.96969696969697
+W23,23,2806,mid2,PI-Mid2-Practice-Timed,20,85.0
+W23,24,2882,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,24,2921,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,25,3009,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,25,3013,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,95.38461538461539
+W23,25,3049,mid2,Mid2-Win23-Practice-Timed,33,84.84848484848484
+W23,25,3050,mid2,PI-Mid2-Practice-Timed,20,85.0
+W23,26,3131,mid1,Mid1-Win23-Practice-Timed,26,91.92307692307692
+W23,26,3183,mid2,Mid2-Win23-Practice-Timed-One-And-Half,31,83.87096774193549
+W23,26,3182,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,27,3319,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,28,3454,mid1,Mid1-Win23-Practice-Timed,26,87.6923076923077
+W23,28,3474,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,29,3573,mid2,PI-Mid2-Practice-Timed,20,25.0
+W23,30,3655,mid1,Mid1-Win23-Practice-Timed,26,94.23076923076923
+W23,30,3731,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,33,4334,mid2,Mid2-Win23-Practice-Timed,31,64.51612903225806
+W23,34,4433,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,35,4524,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,35,4554,mid2,Mid2-Win23-Practice-Timed,33,87.87878787878788
+W23,35,4558,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,37,4642,mid2,Mid2-Win23-Practice-Timed,33,75.75757575757575
+W23,37,4643,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,39,4809,mid1,Mid1-Win23-Practice-Timed,26,88.46153846153845
+W23,39,4952,mid2,Mid2-Win23-Practice-Timed,32,81.25
+W23,39,4954,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,40,5277,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,41,5338,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,72.6923076923077
+W23,41,5383,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,42,5458,mid1,Mid1-Win23-Practice-Timed,25,88.0
+W23,43,5622,mid2,Mid2-Win23-Practice-Timed,30,13.333333333333334
+W23,44,5681,mid1,Mid1-Win23-Practice-Timed,26,86.92307692307692
+W23,46,5922,mid1,Mid1-Win23-Practice-Timed,26,92.3076923076923
+W23,46,5946,mid2,Mid2-Win23-Practice-Timed,33,96.96969696969697
+W23,46,5947,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,47,6028,mid2,Mid2-Win23-Practice-Timed-One-And-Half,29,62.06896551724138
+W23,47,6032,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,49,6169,mid1,Mid1-Win23-Practice-Timed,24,66.66666666666666
+W23,49,6170,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,22,77.27272727272727
+W23,49,6202,mid2,PI-Mid2-Practice-Timed,20,35.0
+W23,50,6261,mid1,Mid1-Win23-Practice-Timed,26,80.76923076923077
+W23,50,6287,mid2,Mid2-Win23-Practice-Timed,33,90.9090909090909
+W23,50,6288,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,51,6355,mid1,Mid1-Win23-Practice-Timed,26,78.84615384615384
+W23,51,6376,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,96.15384615384616
+W23,51,6407,mid2,Mid2-Win23-Practice-Timed-One-And-Half,31,54.83870967741935
+W23,51,6413,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,52,6588,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,54,6698,mid1,Mid1-Win23-Practice-Timed,22,94.54545454545455
+W23,54,6732,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,56,6932,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,23,80.0
+W23,56,6974,mid2,PI-Mid2-Practice-Timed,20,45.0
+W23,57,7054,mid1,Mid1-Win23-Practice-Timed,25,78.0
+W23,58,7225,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,59,7390,mid2,PI-Mid2-Practice-Timed,20,40.0
+W23,60,7430,mid1,Mid1-Win23-Practice-Timed,25,96.0
+W23,60,7460,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,61,7571,mid2,Mid2-Win23-Practice-Timed,33,74.24242424242425
+W23,62,7659,mid2,Mid2-Win23-Practice-Timed | PI-Mid2-Practice-Timed,20,80.0
+W23,64,8005,mid2,PI-Mid2-Practice-Timed,20,40.0
+W23,65,8102,mid2,Mid2-Win23-Practice-Timed-One-And-Half,31,54.83870967741935
+W23,65,8105,mid2,PI-Mid2-Practice-Timed,20,50.0
+W23,66,8183,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,37,91.8918918918919
+W23,66,8223,mid2,Mid2-Win23-Practice-Timed | PI-Mid2-Practice-Timed,53,92.45283018867924
+W23,67,8291,mid1,Mid1-Win23-Practice-Timed,20,95.0
+W23,67,8333,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,70,8553,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,71,8604,mid1,Mid1-Win23-Practice-Timed,26,83.84615384615385
+W23,71,8655,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,32,71.875
+W23,71,8654,mid2,PI-Mid2-Practice-Timed,20,50.0
+W23,73,8835,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,96.15384615384616
+W23,73,8881,mid2,Mid2-Win23-Practice-Timed,33,93.93939393939394
+W23,73,8875,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,76,9246,mid1,Mid1-Win23-Practice-Timed,26,87.6923076923077
+W23,76,9265,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,77,9378,mid1,Mid1-Win23-Practice-Timed,21,90.47619047619048
+W23,78,9521,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,28,84.28571428571429
+W23,79,9663,mid2,Mid2-Win23-Practice-Timed-One-And-Half,30,86.66666666666667
+W23,79,9658,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,80,9720,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,80,9743,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,82,9961,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,30,90.0
+W23,83,10104,mid2,PI-Mid2-Practice-Timed,20,85.0
+W23,84,10169,mid1,Mid1-Win23-Practice-Timed,25,76.0
+W23,84,10194,mid2,Mid2-Win23-Practice-Timed,29,58.620689655172406
+W23,84,10191,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,85,10274,mid1,Mid1-Win23-Practice-Timed,26,84.61538461538461
+W23,85,10266,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,78.5576923076923
+W23,85,10315,mid2,Mid2-Win23-Practice-Timed,33,84.84848484848484
+W23,85,10313,mid2,PI-Mid2-Practice-Timed,20,85.0
+W23,86,10361,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,96.15384615384616
+W23,86,10386,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,33,96.96969696969697
+W23,87,10444,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,19,57.89473684210527
+W23,87,10461,mid2,PI-Mid2-Practice-Timed,20,20.0
+W23,88,10517,mid1,Mid1-Win23-Practice-Timed,26,76.92307692307693
+W23,88,10535,mid2,Mid2-Win23-Practice-Timed,33,84.84848484848484
+W23,92,10842,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,76.15384615384616
+W23,92,10858,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,93,10946,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,30,10.0
+W23,93,10945,mid2,PI-Mid2-Practice-Timed,20,30.0
+W23,94,11030,mid1,Mid1-Win23-Practice-Timed,23,76.63043478260869
+W23,94,11076,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,95,11201,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,95,11249,mid2,Mid2-Win23-Practice-Timed-One-And-Half,33,90.9090909090909
+W23,95,11244,mid2,Mid2-Win23-Practice-Timed-Twice,33,93.93939393939394
+W23,95,11245,mid2,PI-Mid2-Practice-Timed,20,85.0
+W23,96,11370,mid2,Mid2-Win23-Practice-Timed-One-And-Half,31,64.51612903225806
+W23,96,11369,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,97,11419,mid1,Mid1-Win23-Practice-Timed,25,62.5
+W23,97,11446,mid2,Mid2-Win23-Practice-Timed,31,48.38709677419355
+W23,97,11445,mid2,PI-Mid2-Practice-Timed,20,25.0
+W23,98,11562,mid2,Mid2-Win23-Practice-Timed-One-And-Half,32,71.875
+W23,99,11635,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,23,55.65217391304348
+W23,101,11878,mid2,Mid2-Win23-Practice-Timed,30,73.33333333333333
+W23,104,12138,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,31,80.64516129032258
+W23,105,12181,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,80.76923076923077
+W23,105,12211,mid2,PI-Mid2-Practice-Timed,20,45.0
+W23,106,12344,mid2,Mid2-Win23-Practice-Timed,32,56.25
+W23,106,12346,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,107,12426,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,108,12487,mid2,Mid2-Win23-Practice-Timed-One-And-Half,33,70.70707070707071
+W23,109,12597,mid1,Mid1-Win23-Practice-Timed,26,85.76923076923077
+W23,110,12843,mid1,Mid1-Win23-Practice-Timed,26,91.53846153846155
+W23,111,12979,mid1,Mid1-Win23-Practice-Timed,18,94.44444444444444
+W23,111,12990,mid2,PI-Mid2-Practice-Timed,20,85.0
+W23,112,13107,mid2,Mid2-Win23-Practice-Timed,32,59.375
+W23,112,13104,mid2,PI-Mid2-Practice-Timed,21,38.095238095238095
+W23,113,13165,mid2,PI-Mid2-Practice-Timed,20,35.0
+W23,114,13265,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,115,13327,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,83.46153846153845
+W23,117,13446,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,118,13509,mid1,Mid1-Win23-Practice-Timed,26,73.07692307692307
+W23,119,13621,mid2,PI-Mid2-Practice-Timed,20,50.0
+W23,120,13751,mid1,Mid1-Win23-Practice-Timed,26,84.23076923076923
+W23,121,13929,mid1,Mid1-Win23-Practice-Timed,26,95.38461538461539
+W23,121,13951,mid2,Mid2-Win23-Practice-Timed,32,80.20833333333334
+W23,121,13946,mid2,PI-Mid2-Practice-Timed,20,55.00000000000001
+W23,123,14049,mid1,Mid1-Win23-Practice-Timed,26,83.07692307692308
+W23,123,14054,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,123,14103,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,124,14209,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,125,14288,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,126,14355,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,128,14426,mid1,Mid1-Win23-Practice-Timed,26,92.3076923076923
+W23,128,14424,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,128,14457,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,129,14551,mid1,Mid1-Win23-Practice-Timed,26,75.0
+W23,129,14590,mid2,Mid2-Win23-Practice-Timed,33,65.45454545454545
+W23,129,14585,mid2,PI-Mid2-Practice-Timed,20,50.0
+W23,130,14647,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,96.15384615384616
+W23,130,14669,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,132,14833,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,133,14902,mid1,Mid1-Win23-Practice-Timed,26,77.01923076923076
+W23,133,14935,mid2,Mid2-Win23-Practice-Timed | PI-Mid2-Practice-Timed,20,70.0
+W23,134,15040,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,135,15100,mid1,Mid1-Win23-Practice-Timed,26,92.3076923076923
+W23,135,15122,mid2,Mid2-Win23-Practice-Timed,30,60.0
+W23,135,15124,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,136,15185,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,96.15384615384616
+W23,136,15209,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half | Mid2-Win23-Practice-Timed-Twice,33,96.96969696969697
+W23,136,15211,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,137,15309,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,138,15414,mid2,PI-Mid2-Practice-Timed,20,65.0
+W23,142,15722,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,142,15749,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half | PI-Mid2-Practice-Timed,20,55.00000000000001
+W23,144,15854,mid1,Mid1-Win23-Practice-Timed,26,72.3076923076923
+W23,144,15849,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,71.53846153846153
+W23,144,15881,mid2,Mid2-Win23-Practice-Timed-One-And-Half,33,43.43434343434344
+W23,145,15968,mid1,Mid1-Win23-Practice-Timed,24,70.83333333333334
+W23,145,15994,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half | Mid2-Win23-Practice-Timed-Twice,32,96.875
+W23,145,15995,mid2,PI-Mid2-Practice-Timed,20,50.0
+W23,147,16118,mid1,Mid1-Win23-Practice-Timed,26,75.0
+W23,147,16155,mid2,Mid2-Win23-Practice-Timed,33,69.4949494949495
+W23,149,16247,mid2,Mid2-Win23-Practice-Timed,33,75.75757575757575
+W23,152,16490,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,33,87.87878787878788
+W23,152,16483,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,153,16660,mid2,Mid2-Win23-Practice-Timed | PI-Mid2-Practice-Timed,20,20.0
+W23,154,16735,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,29,93.10344827586206
+W23,155,16813,mid1,Mid1-Win23-Practice-Timed,25,57.60000000000001
+W23,156,16903,mid1,Mid1-Win23-Practice-Timed,26,80.76923076923077
+W23,156,16906,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,20,95.0
+W23,156,16939,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,157,16997,mid1,Mid1-Win23-Practice-Timed,26,84.61538461538461
+W23,157,17007,mid2,Mid2-Win23-Practice-Timed | PI-Mid2-Practice-Timed,58,81.55172413793103
+W23,158,17067,mid1,Mid1-Win23-Practice-Timed,26,83.07692307692308
+W23,158,17107,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,160,17329,mid2,Mid2-Win23-Practice-Timed,33,75.75757575757575
+W23,160,17325,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,161,17363,mid1,Mid1-Win23-Practice-Timed,25,76.8
+W23,161,17381,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,33,72.62626262626262
+W23,161,17379,mid2,PI-Mid2-Practice-Timed,20,55.00000000000001
+W23,162,17438,mid1,Mid1-Win23-Practice-Timed,26,87.6923076923077
+W23,162,17462,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,163,17521,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,24,67.70833333333334
+W23,163,17549,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,30,66.66666666666666
+W23,163,17547,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,165,17664,mid2,PI-Mid2-Practice-Timed,20,35.0
+W23,167,17842,mid1,Mid1-Win23-Practice-Timed,26,80.38461538461537
+W23,167,17892,mid2,Mid2-Win23-Practice-Timed-One-And-Half,33,66.06060606060606
+W23,169,18030,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,92.3076923076923
+W23,170,18145,mid1,Mid1-Win23-Practice-Timed,26,84.61538461538461
+W23,170,18196,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,171,18315,mid1,Mid1-Win23-Practice-Timed,26,73.07692307692307
+W23,173,18445,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,91.53846153846155
+W23,174,18536,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half,32,43.75
+W23,174,18534,mid2,PI-Mid2-Practice-Timed,20,50.0
+W23,175,18618,mid2,PI-Mid2-Practice-Timed,19,63.1578947368421
+W23,176,18664,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,177,18761,mid2,PI-Mid2-Practice-Timed,20,60.0
+W23,178,18878,mid2,PI-Mid2-Practice-Timed,20,55.00000000000001
+W23,179,18981,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,186,19385,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,25,88.0
+W23,186,19421,mid2,Mid2-Win23-Practice-Timed,32,78.125
+W23,186,19417,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,188,19503,mid1,Mid1-Win23-Practice-Timed,25,72.0
+W23,189,19584,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,190,19653,mid1,Mid1-Win23-Practice-Timed,26,84.61538461538461
+W23,190,19682,mid2,Mid2-Win23-Practice-Timed,33,87.87878787878788
+W23,190,19680,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,192,19759,mid2,PI-Mid2-Practice-Timed,20,90.0
+W23,194,20020,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,66.92307692307692
+W23,194,20066,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,195,20241,mid1,Mid1-Win23-Practice-Timed,26,75.09615384615384
+W23,195,20263,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,196,20328,mid2,Mid2-Win23-Practice-Timed,33,80.3030303030303
+W23,196,20329,mid2,PI-Mid2-Practice-Timed,20,80.0
+W23,197,20377,mid1,Mid1-Win23-Practice-Timed,26,88.46153846153845
+W23,197,20393,mid2,PI-Mid2-Practice-Timed,20,75.0
+W23,198,20536,mid2,PI-Mid2-Practice-Timed,20,20.0
+W23,199,20629,mid1,Mid1-Win23-Practice-Timed,26,83.84615384615385
+W23,199,20644,mid2,Mid2-Win23-Practice-Timed | PI-Mid2-Practice-Timed,73,81.26712328767124
+W23,200,20734,mid1,Mid1-Win23-Practice-Timed | Mid1-Win23-Practice-Timed-Time-And-Half,23,72.6086956521739
+W23,201,20937,mid2,Mid2-Win23-Practice-Timed,33,96.96969696969697
+W23,201,20931,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,208,21287,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half | PI-Mid2-Practice-Timed,26,50.0
+W23,209,21425,mid1,Mid1-Win23-Practice-Timed-Time-And-Half,26,88.46153846153845
+W23,209,21469,mid2,Mid2-Win23-Practice-Timed | Mid2-Win23-Practice-Timed-One-And-Half | PI-Mid2-Practice-Timed,53,79.24528301886792
+W23,210,21636,mid2,PI-Mid2-Practice-Timed,20,45.0
+W23,211,21738,mid1,Mid1-Win23-Practice-Timed,26,96.15384615384616
+W23,211,21770,mid2,Mid2-Win23-Practice-Timed,33,85.75757575757575
+W23,211,21765,mid2,PI-Mid2-Practice-Timed,20,70.0
+W23,213,21857,mid2,PI-Mid2-Practice-Timed,20,90.0
+W24,1,6,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,96.15384615384616
+W24,1,17,mid2,Mid2-W24-Practice-Timed-80,33,88.38383838383838
+W24,2,66,mid2,Mid2-W24-Practice-Timed-120 | Mid2-W24-Practice-Timed-80,29,79.3103448275862
+W24,4,134,mid1,Mid1-W24-Practice-Timed-80,26,88.46153846153845
+W24,4,150,mid2,Mid2-W24-Practice-Timed-120,27,55.55555555555556
+W24,6,246,mid1,Mid1-W24-Practice-Timed-80,21,28.57142857142857
+W24,8,392,mid1,Mid1-W24-Practice-Timed-120,26,87.6923076923077
+W24,8,391,mid1,Mid1-W24-Practice-Timed-160,24,76.66666666666666
+W24,9,541,mid1,Mid1-W24-Practice-Timed-80,26,88.07692307692308
+W24,9,585,mid2,Mid2-W24-Practice-Timed-80,33,75.75757575757575
+W24,10,614,mid1,Mid1-W24-Practice-Timed-120,26,96.15384615384616
+W24,10,610,mid1,Mid1-W24-Practice-Timed-160,26,81.53846153846153
+W24,11,653,mid1,Mid1-W24-Practice-Timed-80,26,69.23076923076923
+W24,11,676,mid2,Mid2-W24-Practice-Timed-120,27,62.96296296296296
+W24,11,671,mid2,Mid2-W24-Practice-Timed-80,33,63.63636363636363
+W24,12,704,mid1,Mid1-W24-Practice-Timed-160,25,82.0
+W24,12,710,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,15,822,mid1,Mid1-W24-Practice-Timed-80,26,80.76923076923077
+W24,15,838,mid2,Mid2-W24-Practice-Timed-120,33,62.27272727272728
+W24,16,892,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,21,74.40476190476191
+W24,16,918,mid2,Mid2-W24-Practice-Timed-80,25,12.0
+W24,17,1015,mid1,Mid1-W24-Practice-Timed-80,25,50.8
+W24,19,1388,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,80.38461538461537
+W24,20,1467,mid2,Mid2-W24-Practice-Timed-80,32,78.125
+W24,25,1974,mid1,Mid1-W24-Practice-Timed-80,26,76.92307692307693
+W24,25,1996,mid2,Mid2-W24-Practice-Timed-120 | Mid2-W24-Practice-Timed-80,33,96.96969696969697
+W24,26,2035,mid1,Mid1-W24-Practice-Timed-80,26,68.46153846153847
+W24,26,2073,mid2,Mid2-W24-Practice-Timed-120,33,93.93939393939394
+W24,26,2065,mid2,Mid2-W24-Practice-Timed-80,33,84.84848484848484
+W24,27,2093,mid1,Mid1-W24-Practice-Timed-80,26,80.38461538461537
+W24,27,2124,mid2,Mid2-W24-Practice-Timed-80,33,65.15151515151516
+W24,30,2267,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,88.46153846153845
+W24,30,2268,mid1,Mid1-W24-Practice-Timed-160,26,93.46153846153847
+W24,30,2310,mid2,Mid2-W24-Practice-Timed-160,33,89.6969696969697
+W24,30,2305,mid2,Mid2-W24-Practice-Timed-80,28,85.71428571428571
+W24,36,2683,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,26,85.57692307692307
+W24,39,2782,mid1,Mid1-W24-Practice-Timed-160,26,86.92307692307692
+W24,40,2832,mid1,Mid1-W24-Practice-Timed-160,30,76.33333333333333
+W24,41,2854,mid1,Mid1-W24-Practice-Timed-80,26,52.88461538461539
+W24,42,2905,mid1,Mid1-W24-Practice-Timed-120,20,90.0
+W24,42,2899,mid1,Mid1-W24-Practice-Timed-160,26,70.76923076923076
+W24,42,2927,mid2,Mid2-W24-Practice-Timed-160,33,62.42424242424243
+W24,43,2968,mid1,Mid1-W24-Practice-Timed-80,25,62.0
+W24,43,2995,mid2,Mid2-W24-Practice-Timed-80,31,67.74193548387096
+W24,44,3026,mid1,Mid1-W24-Practice-Timed-80,26,58.84615384615385
+W24,46,3142,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,24,76.77083333333333
+W24,46,3143,mid1,Mid1-W24-Practice-Timed-80,24,75.0
+W24,47,3197,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,47,3219,mid2,Mid2-W24-Practice-Timed-80,33,87.87878787878788
+W24,48,3261,mid2,Mid2-W24-Practice-Timed-160 | Mid2-W24-Practice-Timed-80,33,96.96969696969697
+W24,49,3370,mid2,Mid2-W24-Practice-Timed-120 | Mid2-W24-Practice-Timed-80,20,50.0
+W24,50,3551,mid1,Mid1-W24-Practice-Timed-80,26,82.6923076923077
+W24,50,3576,mid2,Mid2-W24-Practice-Timed-80,31,63.22580645161291
+W24,51,3632,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,25,75.8
+W24,51,3678,mid2,Mid2-W24-Practice-Timed-120,31,74.19354838709677
+W24,51,3674,mid2,Mid2-W24-Practice-Timed-80,32,43.75
+W24,53,3806,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,25,42.8
+W24,54,3870,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,71.63461538461539
+W24,55,3926,mid1,Mid1-W24-Practice-Timed-80,23,77.3913043478261
+W24,56,3977,mid1,Mid1-W24-Practice-Timed-80,26,67.78846153846155
+W24,56,3994,mid2,Mid2-W24-Practice-Timed-80,30,60.0
+W24,58,4060,mid1,Mid1-W24-Practice-Timed-80,26,83.84615384615385
+W24,60,4169,mid1,Mid1-W24-Practice-Timed-80,26,90.38461538461539
+W24,62,4272,mid1,Mid1-W24-Practice-Timed-80,26,75.0
+W24,63,4312,mid1,Mid1-W24-Practice-Timed-80,26,49.23076923076923
+W24,63,4372,mid2,Mid2-W24-Practice-Timed-80,30,43.333333333333336
+W24,65,4470,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,65,4484,mid2,Mid2-W24-Practice-Timed-80,33,65.95959595959596
+W24,68,4580,mid1,Mid1-W24-Practice-Timed-120,20,70.0
+W24,68,4579,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,70,4698,mid1,Mid1-W24-Practice-Timed-80,26,88.46153846153845
+W24,72,4867,mid2,Mid2-W24-Practice-Timed-80,30,43.333333333333336
+W24,75,5056,mid1,Mid1-W24-Practice-Timed-80,26,76.15384615384616
+W24,75,5087,mid2,Mid2-W24-Practice-Timed-80,33,87.87878787878788
+W24,76,5131,mid2,Mid2-W24-Practice-Timed-120,33,60.60606060606061
+W24,77,5168,mid1,Mid1-W24-Practice-Timed-80,26,88.46153846153845
+W24,78,5214,mid1,Mid1-W24-Practice-Timed-80,26,52.5
+W24,78,5240,mid2,Mid2-W24-Practice-Timed-80,33,54.54545454545454
+W24,79,5283,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,63.846153846153854
+W24,80,5332,mid1,Mid1-W24-Practice-Timed-120,26,84.61538461538461
+W24,80,5330,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,81,5403,mid2,Mid2-W24-Practice-Timed-80,27,62.96296296296296
+W24,82,5468,mid1,Mid1-W24-Practice-Timed-160,23,95.65217391304348
+W24,82,5463,mid1,Mid1-W24-Practice-Timed-80,25,88.0
+W24,82,5497,mid2,Mid2-W24-Practice-Timed-120,31,58.06451612903226
+W24,83,5535,mid1,Mid1-W24-Practice-Timed-120,20,65.0
+W24,83,5563,mid2,Mid2-W24-Practice-Timed-120,27,55.55555555555556
+W24,84,5644,mid2,Mid2-W24-Practice-Timed-160,33,87.87878787878788
+W24,86,5766,mid1,Mid1-W24-Practice-Timed-120,26,94.61538461538463
+W24,87,5819,mid1,Mid1-W24-Practice-Timed-80,26,69.23076923076923
+W24,87,5842,mid2,Mid2-W24-Practice-Timed-80,30,36.666666666666664
+W24,88,5879,mid1,Mid1-W24-Practice-Timed-80,26,92.3076923076923
+W24,88,5904,mid2,Mid2-W24-Practice-Timed-80,32,90.625
+W24,89,5938,mid1,Mid1-W24-Practice-Timed-80,26,88.07692307692308
+W24,90,6017,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,26,69.61538461538463
+W24,91,6063,mid1,Mid1-W24-Practice-Timed-80,23,43.260869565217384
+W24,97,6321,mid1,Mid1-W24-Practice-Timed-120,26,88.46153846153845
+W24,97,6337,mid2,Mid2-W24-Practice-Timed-120 | Mid2-W24-Practice-Timed-80,33,72.12121212121212
+W24,98,6349,mid1,Mid1-W24-Practice-Timed-120,26,53.84615384615385
+W24,98,6373,mid2,Mid2-W24-Practice-Timed-120,30,70.0
+W24,99,6407,mid1,Mid1-W24-Practice-Timed-120,21,80.95238095238095
+W24,99,6406,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,26,80.38461538461537
+W24,100,6466,mid1,Mid1-W24-Practice-Timed-160,26,61.53846153846154
+W24,100,6469,mid1,Mid1-W24-Practice-Timed-80,26,94.61538461538463
+W24,100,6485,mid2,Mid2-W24-Practice-Timed-80,33,64.94949494949495
+W24,103,6758,mid1,Mid1-W24-Practice-Timed-80,26,72.3076923076923
+W24,105,6799,mid1,Mid1-W24-Practice-Timed-120,19,69.73684210526315
+W24,105,6816,mid2,Mid2-W24-Practice-Timed-160,33,87.87878787878788
+W24,105,6812,mid2,Mid2-W24-Practice-Timed-160 | Mid2-W24-Practice-Timed-80,28,60.71428571428571
+W24,106,6836,mid1,Mid1-W24-Practice-Timed-80,26,88.46153846153845
+W24,106,6855,mid2,Mid2-W24-Practice-Timed-80,33,78.78787878787878
+W24,107,6881,mid1,Mid1-W24-Practice-Timed-80,26,71.24999999999999
+W24,109,7076,mid2,Mid2-W24-Practice-Timed-80,26,84.61538461538461
+W24,112,7174,mid1,Mid1-W24-Practice-Timed-80,26,87.3076923076923
+W24,114,7272,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,114,7305,mid2,Mid2-W24-Practice-Timed-80,29,75.86206896551724
+W24,115,7335,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,92.3076923076923
+W24,115,7351,mid2,Mid2-W24-Practice-Timed-80,33,83.23232323232322
+W24,117,7498,mid1,Mid1-W24-Practice-Timed-80,26,64.61538461538461
+W24,117,7558,mid2,Mid2-W24-Practice-Timed-80,31,60.64516129032258
+W24,119,7685,mid1,Mid1-W24-Practice-Timed-80,26,75.76923076923077
+W24,119,7704,mid2,Mid2-W24-Practice-Timed-80,26,57.692307692307686
+W24,120,7733,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,25,75.2
+W24,121,7819,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,30,96.66666666666667
+W24,121,7850,mid2,Mid2-W24-Practice-Timed-80,33,84.84848484848484
+W24,122,7885,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-160,26,83.84615384615385
+W24,122,7883,mid1,Mid1-W24-Practice-Timed-80,25,71.8
+W24,122,7902,mid2,Mid2-W24-Practice-Timed-160,31,58.06451612903226
+W24,123,7927,mid1,Mid1-W24-Practice-Timed-80,26,52.21153846153845
+W24,125,8034,mid1,Mid1-W24-Practice-Timed-120,26,88.46153846153845
+W24,126,8074,mid1,Mid1-W24-Practice-Timed-80,23,63.47826086956522
+W24,127,8134,mid1,Mid1-W24-Practice-Timed-120,26,77.3076923076923
+W24,129,8291,mid1,Mid1-W24-Practice-Timed-80,26,76.53846153846153
+W24,130,8336,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,16,81.25
+W24,135,8548,mid1,Mid1-W24-Practice-Timed-80,25,66.8
+W24,135,8577,mid2,Mid2-W24-Practice-Timed-80,31,77.41935483870968
+W24,137,8621,mid1,Mid1-W24-Practice-Timed-160,19,73.68421052631578
+W24,137,8661,mid2,Mid2-W24-Practice-Timed-120,30,60.0
+W24,137,8672,mid2,Mid2-W24-Practice-Timed-80,30,70.0
+W24,138,8720,mid2,Mid2-W24-Practice-Timed-80,33,69.0909090909091
+W24,140,8829,mid1,Mid1-W24-Practice-Timed-160,26,83.17307692307693
+W24,140,8838,mid1,Mid1-W24-Practice-Timed-80,26,90.76923076923077
+W24,140,8911,mid2,Mid2-W24-Practice-Timed-160,30,55.333333333333336
+W24,141,8955,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,76.92307692307693
+W24,142,9051,mid2,Mid2-W24-Practice-Timed-80,30,73.33333333333333
+W24,143,9069,mid1,Mid1-W24-Practice-Timed-80,25,49.6
+W24,143,9093,mid2,Mid2-W24-Practice-Timed-80,33,48.484848484848484
+W24,144,9120,mid2,Mid2-W24-Practice-Timed-80,33,71.71717171717172
+W24,145,9144,mid1,Mid1-W24-Practice-Timed-80,11,81.81818181818183
+W24,147,9303,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,29,96.55172413793103
+W24,148,9345,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-160,24,85.41666666666666
+W24,149,9383,mid1,Mid1-W24-Practice-Timed-80,22,40.68181818181818
+W24,149,9429,mid2,Mid2-W24-Practice-Timed-80,31,35.483870967741936
+W24,151,9517,mid1,Mid1-W24-Practice-Timed-120,20,75.0
+W24,151,9515,mid1,Mid1-W24-Practice-Timed-80,26,52.307692307692314
+W24,151,9544,mid2,Mid2-W24-Practice-Timed-120,28,78.57142857142857
+W24,151,9535,mid2,Mid2-W24-Practice-Timed-80,32,56.25
+W24,152,9571,mid1,Mid1-W24-Practice-Timed-80,26,41.15384615384615
+W24,152,9610,mid2,Mid2-W24-Practice-Timed-80,32,62.916666666666664
+W24,153,9674,mid1,Mid1-W24-Practice-Timed-80,26,70.0
+W24,155,9738,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,21,54.28571428571429
+W24,156,9882,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,71.53846153846153
+W24,156,9884,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,26,91.92307692307692
+W24,156,9916,mid2,Mid2-W24-Practice-Timed-120,33,90.30303030303031
+W24,156,9912,mid2,Mid2-W24-Practice-Timed-160,32,58.75
+W24,156,9924,mid2,Mid2-W24-Practice-Timed-80,33,90.30303030303031
+W24,161,10094,mid2,Mid2-W24-Practice-Timed-80,31,51.61290322580645
+W24,163,10221,mid2,Mid2-W24-Practice-Timed-80,27,40.74074074074074
+W24,164,10258,mid1,Mid1-W24-Practice-Timed-120,24,77.08333333333334
+W24,164,10256,mid1,Mid1-W24-Practice-Timed-80,26,67.6923076923077
+W24,164,10271,mid2,Mid2-W24-Practice-Timed-80,28,71.42857142857143
+W24,165,10292,mid1,Mid1-W24-Practice-Timed-80,26,88.84615384615385
+W24,167,10424,mid1,Mid1-W24-Practice-Timed-160 | Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,167,10481,mid2,Mid2-W24-Practice-Timed-120 | Mid2-W24-Practice-Timed-80,33,86.86868686868688
+W24,169,10640,mid1,Mid1-W24-Practice-Timed-120,23,54.347826086956516
+W24,169,10656,mid2,Mid2-W24-Practice-Timed-80,29,58.620689655172406
+W24,172,10807,mid1,Mid1-W24-Practice-Timed-120,37,86.48648648648648
+W24,172,10805,mid1,Mid1-W24-Practice-Timed-80,22,44.090909090909086
+W24,174,11005,mid1,Mid1-W24-Practice-Timed-160,26,80.76923076923077
+W24,174,11023,mid2,Mid2-W24-Practice-Timed-160,31,53.5483870967742
+W24,176,11056,mid1,Mid1-W24-Practice-Timed-80,26,42.30769230769231
+W24,177,11135,mid1,Mid1-W24-Practice-Timed-80,26,85.57692307692307
+W24,178,11223,mid1,Mid1-W24-Practice-Timed-80,26,95.76923076923076
+W24,180,11507,mid1,Mid1-W24-Practice-Timed-80,26,72.6923076923077
+W24,180,11531,mid2,Mid2-W24-Practice-Timed-80,33,87.87878787878788
+W24,181,11568,mid1,Mid1-W24-Practice-Timed-80,26,81.73076923076923
+W24,182,11633,mid1,Mid1-W24-Practice-Timed-80,26,83.84615384615385
+W24,182,11671,mid2,Mid2-W24-Practice-Timed-80,31,67.74193548387096
+W24,186,12086,mid1,Mid1-W24-Practice-Timed-80,26,70.38461538461539
+W24,187,12141,mid1,Mid1-W24-Practice-Timed-120,26,67.01923076923077
+W24,187,12138,mid1,Mid1-W24-Practice-Timed-80,26,46.73076923076923
+W24,187,12156,mid2,Mid2-W24-Practice-Timed-80,31,41.935483870967744
+W24,188,12210,mid1,Mid1-W24-Practice-Timed-80,26,84.61538461538461
+W24,192,12476,mid2,Mid2-W24-Practice-Timed-160,33,87.87878787878788
+W24,193,12508,mid1,Mid1-W24-Practice-Timed-160,24,80.83333333333333
+W24,193,12540,mid2,Mid2-W24-Practice-Timed-160,32,78.125
+W24,194,12569,mid1,Mid1-W24-Practice-Timed-120 | Mid1-W24-Practice-Timed-80,26,88.46153846153845
+W24,198,12825,mid1,Mid1-W24-Practice-Timed-80,26,76.53846153846153
+W24,198,12882,mid2,Mid2-W24-Practice-Timed-80,31,76.7741935483871

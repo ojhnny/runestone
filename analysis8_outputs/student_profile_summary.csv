@@ -1,0 +1,5 @@
+profile,n_students,mean_exam_score,median_exam_score
+"High effort, high efficiency",408,77.15437291507158,79.3103448275862
+"Low effort, high efficiency",754,76.62350727826937,79.16666666666666
+"High effort, low efficiency",750,66.02106713628883,67.82291666666666
+"Low effort, low efficiency",396,64.98169651600199,66.69696969696969
