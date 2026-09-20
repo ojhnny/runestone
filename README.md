@@ -1,6 +1,6 @@
 # UMSI SO-ELL
 
-[View Official Report](https://ojhnny.github.io/runestone/)
+[View Official Report On GitHub Pages](https://ojhnny.github.io/runestone/)
 
 > **Latest Version:** See the [`updated-v2/`](./updated-v2/) folder for the current project files and analysis.
 
