@@ -12,10 +12,6 @@ Almost everyone used the book, so "did they click?" is not a useful split. Quali
 
 ![Profiles tab — effort vs efficiency](docs/screenshots/profiles.png)
 
-### Can someone run the app from the GitHub repo?
-
-**Yes.** The Streamlit app does **not** need `runestone_event_log.parquet`. It reads the precomputed tables in `analysis_outputs/` (including `student_midterm_scores.parquet` and `student_midterm_activity_features.parquet`).
-
 From this folder (or from `updated-v2/` in the [runestone](https://github.com/ojhnny/runestone) repo):
 
 ```bash
