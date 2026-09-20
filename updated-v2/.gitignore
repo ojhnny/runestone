@@ -1,0 +1,17 @@
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Event log stays local. Don't put this on GitHub.
+runestone_event_log.parquet
+
+# Student-level rows. The aggregate CSVs in looker_studio/ are fine to share.
+looker_studio/private/
