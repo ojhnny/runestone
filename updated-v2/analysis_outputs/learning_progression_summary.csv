@@ -1,0 +1,17 @@
+exam_group,first,last,family
+Q1 lowest exam,0.2686189767480387,0.9115789073634559,Parsons
+Q2,,,Parsons
+Q3,,,Parsons
+Q4 highest exam,0.4771945589675442,0.958764996504037,Parsons
+Q1 lowest exam,0.14287355352841236,0.24549070946066484,ActiveCode
+Q2,,,ActiveCode
+Q3,,,ActiveCode
+Q4 highest exam,0.1625967563464595,0.2870351177367671,ActiveCode
+Q1 lowest exam,0.4559732670996605,0.816332722971271,Multiple Choice
+Q2,,,Multiple Choice
+Q3,,,Multiple Choice
+Q4 highest exam,0.5712555786930794,0.8376294903997865,Multiple Choice
+Q1 lowest exam,0.5961100759796094,0.9103222395671625,Fill In Blank
+Q2,,,Fill In Blank
+Q3,,,Fill In Blank
+Q4 highest exam,0.6845191425502657,0.9350690842426821,Fill In Blank

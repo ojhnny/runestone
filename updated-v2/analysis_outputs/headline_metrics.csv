@@ -1,0 +1,8 @@
+metric,value,note
+parsons_quartile_gap,17.508088094605064,"Top vs bottom quartile of Parsons first-try quality, within semester-exam cohort."
+parsons_rank_corr,0.5117942887984271,"Within-cohort rank correlation, Parsons first-try vs midterm %."
+parsons_fe_coef,0.4184681281617213,Exam points associated with a 1-point increase in Parsons first-try %; semester x exam FE.
+parsons_fe_ci_low,0.38787085905270113,95% CI lower bound on the cohort FE coefficient.
+parsons_fe_ci_high,0.44906539727074146,95% CI upper bound on the cohort FE coefficient.
+parsons_controlled_coef,0.4223140551414141,"Same FE model, also controlling for log events, active days, chapter coverage, and last-week share."
+at_risk_oof_auc,0.7488827626667625,Leave-one-semester-out AUC for predicting bottom-quartile exam scores.

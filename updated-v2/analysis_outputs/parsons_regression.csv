@@ -1,0 +1,3 @@
+spec,term,n,coef,std_err,p_value,ci_low,ci_high,r_squared,note
+cohort_fe,parsons_first,2308,0.4184681281617213,0.01560289095436519,4.921705613937332e-138,0.38787085905270113,0.44906539727074146,0.35560310956825647,Exam points associated with a 1-point increase in Parsons first-try %; semester x exam FE.
+cohort_fe_plus_effort,parsons_first,2308,0.4223140551414141,0.016077496196304716,3.9609667335537575e-133,0.3907860560069333,0.45384205427589497,0.37994408187673323,"Same FE model, also controlling for log events, active days, chapter coverage, and last-week share."

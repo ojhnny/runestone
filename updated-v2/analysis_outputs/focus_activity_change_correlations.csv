@@ -1,0 +1,8 @@
+feature,n,within_group_rank_corr,top_quartile_minus_bottom_quartile_pct_points
+parsons__mean_best_score__change,1139,0.07932411065373886,2.4394462210942285
+mchoice__mean_first_score__change,1140,0.07625929131692136,1.696058761675583
+activecode__mean_best_score__change,1139,0.0665635242875544,2.2526873272439154
+parsons__unique_problems__change,1139,0.06117474109300032,1.235895114404558
+conceptcheck__unique_problems__change,1140,0.04515020830353118,1.1970287418969585
+activecode__unique_problems__change,1139,0.04129340123806279,1.0784130964537706
+fillb__mean_best_score__change,1139,0.04002929055661576,0.8916256974980854

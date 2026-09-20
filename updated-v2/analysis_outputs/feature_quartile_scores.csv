@@ -1,0 +1,641 @@
+semester_raw,midterm,feature_quartile,n,mean_score_pct,feature
+F21,mid1,Q1 bottom,25,67.70681268027487,parsons__mean_first_score
+F21,mid1,Q2,26,76.41240942965081,parsons__mean_first_score
+F21,mid1,Q3,26,79.38170102787943,parsons__mean_first_score
+F21,mid1,Q4 top,26,87.3144843662085,parsons__mean_first_score
+F21,mid2,Q1 bottom,25,56.45917948717949,parsons__mean_first_score
+F21,mid2,Q2,25,63.292307692307695,parsons__mean_first_score
+F21,mid2,Q3,26,64.70567609029148,parsons__mean_first_score
+F21,mid2,Q4 top,26,76.01954854262547,parsons__mean_first_score
+F22,mid1,Q1 bottom,36,67.64751683501683,parsons__mean_first_score
+F22,mid1,Q2,36,77.46713135373294,parsons__mean_first_score
+F22,mid1,Q3,36,83.87191358024691,parsons__mean_first_score
+F22,mid1,Q4 top,37,86.5966420966421,parsons__mean_first_score
+F22,mid2,Q1 bottom,36,53.90186060444681,parsons__mean_first_score
+F22,mid2,Q2,36,62.50416661985071,parsons__mean_first_score
+F22,mid2,Q3,36,70.40195675971538,parsons__mean_first_score
+F22,mid2,Q4 top,37,75.80615097856476,parsons__mean_first_score
+F23,mid1,Q1 bottom,36,62.750934904384266,parsons__mean_first_score
+F23,mid1,Q2,37,72.52384157538751,parsons__mean_first_score
+F23,mid1,Q3,36,77.44065197997851,parsons__mean_first_score
+F23,mid1,Q4 top,38,81.2238730231043,parsons__mean_first_score
+F23,mid2,Q1 bottom,36,60.5490921115921,parsons__mean_first_score
+F23,mid2,Q2,37,70.9002394799005,parsons__mean_first_score
+F23,mid2,Q3,36,68.88092759821741,parsons__mean_first_score
+F23,mid2,Q4 top,37,76.81430959002915,parsons__mean_first_score
+F24,mid1,Q1 bottom,36,59.09718869858831,parsons__mean_first_score
+F24,mid1,Q2,37,71.37717076453023,parsons__mean_first_score
+F24,mid1,Q3,36,74.3286002690858,parsons__mean_first_score
+F24,mid1,Q4 top,37,82.18597197796647,parsons__mean_first_score
+F24,mid2,Q1 bottom,36,59.212178619773745,parsons__mean_first_score
+F24,mid2,Q2,36,64.74209214822129,parsons__mean_first_score
+F24,mid2,Q3,36,68.74790011559136,parsons__mean_first_score
+F24,mid2,Q4 top,37,73.9917081905649,parsons__mean_first_score
+F25,mid1,Q1 bottom,31,72.53682208339069,parsons__mean_first_score
+F25,mid1,Q2,31,77.53698673488036,parsons__mean_first_score
+F25,mid1,Q3,31,83.28174846769755,parsons__mean_first_score
+F25,mid1,Q4 top,32,81.43108678511348,parsons__mean_first_score
+F25,mid2,Q1 bottom,31,67.01552121212166,parsons__mean_first_score
+F25,mid2,Q2,31,69.17572205608656,parsons__mean_first_score
+F25,mid2,Q3,31,77.39575505270986,parsons__mean_first_score
+F25,mid2,Q4 top,32,78.16364299884388,parsons__mean_first_score
+W22,mid1,Q1 bottom,30,71.54536091354778,parsons__mean_first_score
+W22,mid1,Q2,31,74.33324752422136,parsons__mean_first_score
+W22,mid1,Q3,30,82.74816715542521,parsons__mean_first_score
+W22,mid1,Q4 top,32,85.77367424242425,parsons__mean_first_score
+W22,mid2,Q1 bottom,30,63.811660795571974,parsons__mean_first_score
+W22,mid2,Q2,30,71.54384456222,parsons__mean_first_score
+W22,mid2,Q3,30,71.35944674319369,parsons__mean_first_score
+W22,mid2,Q4 top,30,79.63655259207685,parsons__mean_first_score
+W23,mid1,Q1 bottom,46,66.33863587686676,parsons__mean_first_score
+W23,mid1,Q2,47,80.02560718811635,parsons__mean_first_score
+W23,mid1,Q3,47,81.37497498832789,parsons__mean_first_score
+W23,mid1,Q4 top,47,87.45090566073691,parsons__mean_first_score
+W23,mid2,Q1 bottom,46,58.66753302045841,parsons__mean_first_score
+W23,mid2,Q2,47,66.84074681493207,parsons__mean_first_score
+W23,mid2,Q3,46,73.534857777221,parsons__mean_first_score
+W23,mid2,Q4 top,47,72.89083602513307,parsons__mean_first_score
+W24,mid1,Q1 bottom,47,54.311019745722604,parsons__mean_first_score
+W24,mid1,Q2,41,64.08555699977062,parsons__mean_first_score
+W24,mid1,Q3,46,73.21260635915809,parsons__mean_first_score
+W24,mid1,Q4 top,47,78.03491629427066,parsons__mean_first_score
+W24,mid2,Q1 bottom,45,53.34444444444444,parsons__mean_first_score
+W24,mid2,Q2,46,55.76361819090455,parsons__mean_first_score
+W24,mid2,Q3,45,62.35626102292769,parsons__mean_first_score
+W24,mid2,Q4 top,46,68.30411407199627,parsons__mean_first_score
+F21,mid1,Q1 bottom,25,68.53138640095537,parsons__avg_event_score
+F21,mid1,Q2,26,76.91512519738326,parsons__avg_event_score
+F21,mid1,Q3,26,78.26251848628308,parsons__avg_event_score
+F21,mid1,Q4 top,26,87.13809179326421,parsons__avg_event_score
+F21,mid2,Q1 bottom,25,55.627384615384614,parsons__avg_event_score
+F21,mid2,Q2,26,64.21538461538461,parsons__avg_event_score
+F21,mid2,Q3,25,66.74969800569801,parsons__avg_event_score
+F21,mid2,Q4 top,26,73.98522901599824,parsons__avg_event_score
+F22,mid1,Q1 bottom,36,70.14013532763532,parsons__avg_event_score
+F22,mid1,Q2,36,77.64507077947938,parsons__avg_event_score
+F22,mid1,Q3,36,82.46524455077088,parsons__avg_event_score
+F22,mid1,Q4 top,37,85.36691236691236,parsons__avg_event_score
+F22,mid2,Q1 bottom,36,55.39747080625835,parsons__avg_event_score
+F22,mid2,Q2,36,62.976605131777546,parsons__avg_event_score
+F22,mid2,Q3,36,68.7404214559387,parsons__avg_event_score
+F22,mid2,Q4 top,37,75.50792171481827,parsons__avg_event_score
+F23,mid1,Q1 bottom,36,65.53136030620222,parsons__avg_event_score
+F23,mid1,Q2,37,72.96469822421857,parsons__avg_event_score
+F23,mid1,Q3,37,79.30046309685989,parsons__avg_event_score
+F23,mid1,Q4 top,37,76.3201757054373,parsons__avg_event_score
+F23,mid2,Q1 bottom,36,62.90401594730309,parsons__avg_event_score
+F23,mid2,Q2,37,69.66498608560688,parsons__avg_event_score
+F23,mid2,Q3,36,70.85797409729963,parsons__avg_event_score
+F23,mid2,Q4 top,37,73.83467292884832,parsons__avg_event_score
+F24,mid1,Q1 bottom,36,64.15316324855043,parsons__avg_event_score
+F24,mid1,Q2,37,66.9473650375764,parsons__avg_event_score
+F24,mid1,Q3,36,76.00799599148917,parsons__avg_event_score
+F24,mid1,Q4 top,37,80.06244446694306,parsons__avg_event_score
+F24,mid2,Q1 bottom,36,61.178594925210874,parsons__avg_event_score
+F24,mid2,Q2,36,59.75624857046062,parsons__avg_event_score
+F24,mid2,Q3,36,70.99499106359386,parsons__avg_event_score
+F24,mid2,Q4 top,37,74.74317056017458,parsons__avg_event_score
+F25,mid1,Q1 bottom,31,72.26463527596191,parsons__avg_event_score
+F25,mid1,Q2,31,76.17649157735507,parsons__avg_event_score
+F25,mid1,Q3,31,79.65634950869645,parsons__avg_event_score
+F25,mid1,Q4 top,32,86.52485268019505,parsons__avg_event_score
+F25,mid2,Q1 bottom,31,69.28159931910677,parsons__avg_event_score
+F25,mid2,Q2,31,71.0784388331644,parsons__avg_event_score
+F25,mid2,Q3,31,72.91967074470597,parsons__avg_event_score
+F25,mid2,Q4 top,32,78.46132962828665,parsons__avg_event_score
+W22,mid1,Q1 bottom,30,70.47146970258761,parsons__avg_event_score
+W22,mid1,Q2,31,77.68139248888468,parsons__avg_event_score
+W22,mid1,Q3,31,82.3296597609813,parsons__avg_event_score
+W22,mid1,Q4 top,31,83.98088323400498,parsons__avg_event_score
+W22,mid2,Q1 bottom,30,64.05657873234658,parsons__avg_event_score
+W22,mid2,Q2,30,69.17348690425284,parsons__avg_event_score
+W22,mid2,Q3,30,73.31030572817326,parsons__avg_event_score
+W22,mid2,Q4 top,30,79.81113332828983,parsons__avg_event_score
+W23,mid1,Q1 bottom,46,64.41219649915301,parsons__avg_event_score
+W23,mid1,Q2,47,80.81321283265524,parsons__avg_event_score
+W23,mid1,Q3,47,82.5427818696344,parsons__avg_event_score
+W23,mid1,Q4 top,47,87.38094444073901,parsons__avg_event_score
+W23,mid2,Q1 bottom,46,57.72536528030981,parsons__avg_event_score
+W23,mid2,Q2,47,68.08911416711247,parsons__avg_event_score
+W23,mid2,Q3,46,70.51016107215273,parsons__avg_event_score
+W23,mid2,Q4 top,47,75.52493174699475,parsons__avg_event_score
+W24,mid1,Q1 bottom,45,53.86983961121892,parsons__avg_event_score
+W24,mid1,Q2,45,63.85194307608101,parsons__avg_event_score
+W24,mid1,Q3,45,71.76006369109817,parsons__avg_event_score
+W24,mid1,Q4 top,46,80.19268774703556,parsons__avg_event_score
+W24,mid2,Q1 bottom,45,53.01481481481481,parsons__avg_event_score
+W24,mid2,Q2,46,55.893535375169556,parsons__avg_event_score
+W24,mid2,Q3,45,61.25161290322581,parsons__avg_event_score
+W24,mid2,Q4 top,46,69.57729468599034,parsons__avg_event_score
+F21,mid1,Q1 bottom,25,70.2408012389909,mchoice__mean_first_score
+F21,mid1,Q2,26,78.04556085368098,mchoice__mean_first_score
+F21,mid1,Q3,26,79.23220017839039,mchoice__mean_first_score
+F21,mid1,Q4 top,26,83.39430633136348,mchoice__mean_first_score
+F21,mid2,Q1 bottom,25,55.31846153846154,mchoice__mean_first_score
+F21,mid2,Q2,26,66.39901380670611,mchoice__mean_first_score
+F21,mid2,Q3,25,68.90728205128205,mchoice__mean_first_score
+F21,mid2,Q4 top,26,70.02404120096428,mchoice__mean_first_score
+F22,mid1,Q1 bottom,36,70.27585966246124,mchoice__mean_first_score
+F22,mid1,Q2,36,77.53451178451178,mchoice__mean_first_score
+F22,mid1,Q3,36,82.16244172494173,mchoice__mean_first_score
+F22,mid1,Q4 top,37,85.63704613704614,mchoice__mean_first_score
+F22,mid2,Q1 bottom,36,53.8883525298987,mchoice__mean_first_score
+F22,mid2,Q2,36,62.089490968801314,mchoice__mean_first_score
+F22,mid2,Q3,36,70.99616858237547,mchoice__mean_first_score
+F22,mid2,Q4 top,37,75.64461012736875,mchoice__mean_first_score
+F23,mid1,Q1 bottom,37,64.93017018142076,mchoice__mean_first_score
+F23,mid1,Q2,37,71.19294206040928,mchoice__mean_first_score
+F23,mid1,Q3,37,78.99070477627482,mchoice__mean_first_score
+F23,mid1,Q4 top,37,78.61107281332711,mchoice__mean_first_score
+F23,mid2,Q1 bottom,36,60.543089558121196,mchoice__mean_first_score
+F23,mid2,Q2,37,68.72921705180435,mchoice__mean_first_score
+F23,mid2,Q3,36,72.6399658577078,mchoice__mean_first_score
+F23,mid2,Q4 top,37,75.33372970956582,mchoice__mean_first_score
+F24,mid1,Q1 bottom,36,62.7836644459387,mchoice__mean_first_score
+F24,mid1,Q2,37,70.84854700846445,mchoice__mean_first_score
+F24,mid1,Q3,36,76.16035094671344,mchoice__mean_first_score
+F24,mid1,Q4 top,37,77.34551056378336,mchoice__mean_first_score
+F24,mid2,Q1 bottom,36,63.12340358718754,mchoice__mean_first_score
+F24,mid2,Q2,36,60.37052662461268,mchoice__mean_first_score
+F24,mid2,Q3,36,71.72648392725472,mchoice__mean_first_score
+F24,mid2,Q4 top,37,71.54152556362256,mchoice__mean_first_score
+F25,mid1,Q1 bottom,31,77.62960210321832,mchoice__mean_first_score
+F25,mid1,Q2,31,79.71687279672082,mchoice__mean_first_score
+F25,mid1,Q3,31,77.23149158307773,mchoice__mean_first_score
+F25,mid1,Q4 top,32,80.24687787547298,mchoice__mean_first_score
+F25,mid2,Q1 bottom,31,71.07935703278179,mchoice__mean_first_score
+F25,mid2,Q2,31,73.67205101197081,mchoice__mean_first_score
+F25,mid2,Q3,31,69.97296323311414,mchoice__mean_first_score
+F25,mid2,Q4 top,32,77.06181294679985,mchoice__mean_first_score
+W22,mid1,Q1 bottom,30,73.52786195286195,mchoice__mean_first_score
+W22,mid1,Q2,31,77.95366606971795,mchoice__mean_first_score
+W22,mid1,Q3,31,80.95273893261802,mchoice__mean_first_score
+W22,mid1,Q4 top,31,82.1277315296566,mchoice__mean_first_score
+W22,mid2,Q1 bottom,30,64.66785291076262,mchoice__mean_first_score
+W22,mid2,Q2,29,69.5086204492927,mchoice__mean_first_score
+W22,mid2,Q3,31,73.37978364862575,mchoice__mean_first_score
+W22,mid2,Q4 top,30,78.66620891107033,mchoice__mean_first_score
+W23,mid1,Q1 bottom,46,69.25382600907338,mchoice__mean_first_score
+W23,mid1,Q2,47,76.96868062238568,mchoice__mean_first_score
+W23,mid1,Q3,47,83.10211432001601,mchoice__mean_first_score
+W23,mid1,Q4 top,47,85.92752808453469,mchoice__mean_first_score
+W23,mid2,Q1 bottom,46,59.80235053609002,mchoice__mean_first_score
+W23,mid2,Q2,47,67.93940693604883,mchoice__mean_first_score
+W23,mid2,Q3,46,69.59925808609752,mchoice__mean_first_score
+W23,mid2,Q4 top,47,74.53336696939135,mchoice__mean_first_score
+W24,mid1,Q1 bottom,45,55.81206979482841,mchoice__mean_first_score
+W24,mid1,Q2,45,62.23468676916953,mchoice__mean_first_score
+W24,mid1,Q3,46,71.86116357405713,mchoice__mean_first_score
+W24,mid1,Q4 top,46,79.8628526645768,mchoice__mean_first_score
+W24,mid2,Q1 bottom,45,53.83280423280423,mchoice__mean_first_score
+W24,mid2,Q2,46,55.20652173913044,mchoice__mean_first_score
+W24,mid2,Q3,45,61.471604938271604,mchoice__mean_first_score
+W24,mid2,Q4 top,46,69.24889168319066,mchoice__mean_first_score
+F21,mid1,Q1 bottom,25,74.6147703296546,activecode__mean_best_score
+F21,mid1,Q2,26,75.75895342375459,activecode__mean_best_score
+F21,mid1,Q3,26,79.85710113949825,activecode__mean_best_score
+F21,mid1,Q4 top,26,80.85027328992845,activecode__mean_best_score
+F21,mid2,Q1 bottom,25,63.05862108262109,activecode__mean_best_score
+F21,mid2,Q2,26,65.05012053473591,activecode__mean_best_score
+F21,mid2,Q3,25,66.7302564102564,activecode__mean_best_score
+F21,mid2,Q4 top,26,66.02376725838265,activecode__mean_best_score
+F22,mid1,Q1 bottom,36,69.97157472157473,activecode__mean_best_score
+F22,mid1,Q2,36,79.27490179573513,activecode__mean_best_score
+F22,mid1,Q3,36,81.83288828198987,activecode__mean_best_score
+F22,mid1,Q4 top,37,84.56040131040132,activecode__mean_best_score
+F22,mid2,Q1 bottom,36,60.09578544061302,activecode__mean_best_score
+F22,mid2,Q2,36,61.76902709160773,activecode__mean_best_score
+F22,mid2,Q3,36,67.33803552769069,activecode__mean_best_score
+F22,mid2,Q4 top,37,73.47601295877158,activecode__mean_best_score
+F23,mid1,Q1 bottom,36,65.34147851818857,activecode__mean_best_score
+F23,mid1,Q2,37,71.7804911306377,activecode__mean_best_score
+F23,mid1,Q3,37,77.04952869376297,activecode__mean_best_score
+F23,mid1,Q4 top,37,79.94006704991214,activecode__mean_best_score
+F23,mid2,Q1 bottom,36,64.73229412329498,activecode__mean_best_score
+F23,mid2,Q2,37,71.17605492297237,activecode__mean_best_score
+F23,mid2,Q3,36,70.15497159514591,activecode__mean_best_score
+F23,mid2,Q4 top,37,71.22874127369434,activecode__mean_best_score
+F24,mid1,Q1 bottom,36,70.17153391725145,activecode__mean_best_score
+F24,mid1,Q2,37,71.3521236520231,activecode__mean_best_score
+F24,mid1,Q3,36,71.75428043160997,activecode__mean_best_score
+F24,mid1,Q4 top,37,73.94072412499405,activecode__mean_best_score
+F24,mid2,Q1 bottom,36,65.90357244447296,activecode__mean_best_score
+F24,mid2,Q2,36,67.26024850156011,activecode__mean_best_score
+F24,mid2,Q3,36,63.32225883657684,activecode__mean_best_score
+F24,mid2,Q4 top,37,70.31006709962313,activecode__mean_best_score
+F25,mid1,Q1 bottom,31,76.09708706173282,activecode__mean_best_score
+F25,mid1,Q2,31,78.81580458948186,activecode__mean_best_score
+F25,mid1,Q3,31,76.34687147071705,activecode__mean_best_score
+F25,mid1,Q4 top,32,83.46138738152422,activecode__mean_best_score
+F25,mid2,Q1 bottom,31,69.39995107381652,activecode__mean_best_score
+F25,mid2,Q2,31,73.45712447807166,activecode__mean_best_score
+F25,mid2,Q3,31,74.35976628154916,activecode__mean_best_score
+F25,mid2,Q4 top,32,74.64723209609085,activecode__mean_best_score
+W22,mid1,Q1 bottom,30,75.60125813193109,activecode__mean_best_score
+W22,mid1,Q2,31,77.40078201368524,activecode__mean_best_score
+W22,mid1,Q3,31,81.42016816773716,activecode__mean_best_score
+W22,mid1,Q4 top,31,80.20667391921293,activecode__mean_best_score
+W22,mid2,Q1 bottom,30,66.96455051323152,activecode__mean_best_score
+W22,mid2,Q2,30,68.2903605928686,activecode__mean_best_score
+W22,mid2,Q3,30,74.55822535381361,activecode__mean_best_score
+W22,mid2,Q4 top,30,76.53836823314877,activecode__mean_best_score
+W23,mid1,Q1 bottom,46,73.02507836990596,activecode__mean_best_score
+W23,mid1,Q2,47,80.66004611675925,activecode__mean_best_score
+W23,mid1,Q3,47,80.43696582214557,activecode__mean_best_score
+W23,mid1,Q4 top,47,81.2102981391316,activecode__mean_best_score
+W23,mid2,Q1 bottom,46,64.26591327701783,activecode__mean_best_score
+W23,mid2,Q2,47,68.81897022301659,activecode__mean_best_score
+W23,mid2,Q3,46,70.08986029186674,activecode__mean_best_score
+W23,mid2,Q4 top,47,68.8050465005499,activecode__mean_best_score
+W24,mid1,Q1 bottom,45,60.98485677796022,activecode__mean_best_score
+W24,mid1,Q2,48,66.69143715479923,activecode__mean_best_score
+W24,mid1,Q3,41,69.60585671687438,activecode__mean_best_score
+W24,mid1,Q4 top,47,72.68508637364104,activecode__mean_best_score
+W24,mid2,Q1 bottom,45,57.06613756613756,activecode__mean_best_score
+W24,mid2,Q2,46,60.1231884057971,activecode__mean_best_score
+W24,mid2,Q3,45,60.6641975308642,activecode__mean_best_score
+W24,mid2,Q4 top,46,61.9590366107269,activecode__mean_best_score
+F21,mid1,Q1 bottom,7,69.52547098626457,coverage__unique_chapters
+F21,mid1,Q2,54,78.8679880012495,coverage__unique_chapters
+F21,mid1,Q3,0,,coverage__unique_chapters
+F21,mid1,Q4 top,42,77.808193653637,coverage__unique_chapters
+F21,mid2,Q1 bottom,4,52.1,coverage__unique_chapters
+F21,mid2,Q2,90,66.68295663184551,coverage__unique_chapters
+F21,mid2,Q3,0,,coverage__unique_chapters
+F21,mid2,Q4 top,8,55.34711538461538,coverage__unique_chapters
+F22,mid1,Q1 bottom,3,65.65656565656566,coverage__unique_chapters
+F22,mid1,Q2,132,79.46798332910194,coverage__unique_chapters
+F22,mid1,Q3,0,,coverage__unique_chapters
+F22,mid1,Q4 top,10,76.0848484848485,coverage__unique_chapters
+F22,mid2,Q1 bottom,9,56.884192312445926,coverage__unique_chapters
+F22,mid2,Q2,0,,coverage__unique_chapters
+F22,mid2,Q3,135,66.16111394272313,coverage__unique_chapters
+F22,mid2,Q4 top,1,86.20689655172413,coverage__unique_chapters
+F23,mid1,Q1 bottom,19,59.416981124366295,coverage__unique_chapters
+F23,mid1,Q2,0,,coverage__unique_chapters
+F23,mid1,Q3,124,75.52624669327523,coverage__unique_chapters
+F23,mid1,Q4 top,5,74.7287384867791,coverage__unique_chapters
+F23,mid2,Q1 bottom,16,58.052083333333336,coverage__unique_chapters
+F23,mid2,Q2,0,,coverage__unique_chapters
+F23,mid2,Q3,129,70.66369722331169,coverage__unique_chapters
+F23,mid2,Q4 top,1,80.46875,coverage__unique_chapters
+F24,mid1,Q1 bottom,25,69.02242084048017,coverage__unique_chapters
+F24,mid1,Q2,0,,coverage__unique_chapters
+F24,mid1,Q3,118,72.45424864434702,coverage__unique_chapters
+F24,mid1,Q4 top,3,70.00094108789762,coverage__unique_chapters
+F24,mid2,Q1 bottom,24,64.25580458126898,coverage__unique_chapters
+F24,mid2,Q2,0,,coverage__unique_chapters
+F24,mid2,Q3,119,67.33133566499465,coverage__unique_chapters
+F24,mid2,Q4 top,2,60.201550387596896,coverage__unique_chapters
+F25,mid1,Q1 bottom,14,74.096563778054,coverage__unique_chapters
+F25,mid1,Q2,67,77.4279485364088,coverage__unique_chapters
+F25,mid1,Q3,0,,coverage__unique_chapters
+F25,mid1,Q4 top,44,82.15437745810253,coverage__unique_chapters
+F25,mid2,Q1 bottom,7,75.51724137931035,coverage__unique_chapters
+F25,mid2,Q2,76,71.1713001826938,coverage__unique_chapters
+F25,mid2,Q3,0,,coverage__unique_chapters
+F25,mid2,Q4 top,42,75.82842905646578,coverage__unique_chapters
+W22,mid1,Q1 bottom,23,73.42894058835685,coverage__unique_chapters
+W22,mid1,Q2,0,,coverage__unique_chapters
+W22,mid1,Q3,94,80.2624971402425,coverage__unique_chapters
+W22,mid1,Q4 top,6,74.05895439377086,coverage__unique_chapters
+W22,mid2,Q1 bottom,47,67.5085085410778,coverage__unique_chapters
+W22,mid2,Q2,0,,coverage__unique_chapters
+W22,mid2,Q3,72,74.35676258372062,coverage__unique_chapters
+W22,mid2,Q4 top,1,63.95833333333333,coverage__unique_chapters
+W23,mid1,Q1 bottom,37,76.98372689752,coverage__unique_chapters
+W23,mid1,Q2,0,,coverage__unique_chapters
+W23,mid1,Q3,138,79.29148088293516,coverage__unique_chapters
+W23,mid1,Q4 top,12,79.74791013584117,coverage__unique_chapters
+W23,mid2,Q1 bottom,71,67.89700073664478,coverage__unique_chapters
+W23,mid2,Q2,0,,coverage__unique_chapters
+W23,mid2,Q3,112,67.97877412937429,coverage__unique_chapters
+W23,mid2,Q4 top,3,71.46153846153847,coverage__unique_chapters
+W24,mid1,Q1 bottom,59,70.3688572288806,coverage__unique_chapters
+W24,mid1,Q2,22,65.51596914057728,coverage__unique_chapters
+W24,mid1,Q3,26,61.157204864101416,coverage__unique_chapters
+W24,mid1,Q4 top,75,68.109434243917,coverage__unique_chapters
+W24,mid2,Q1 bottom,34,60.268907563025216,coverage__unique_chapters
+W24,mid2,Q2,68,60.982843137254896,coverage__unique_chapters
+W24,mid2,Q3,0,,coverage__unique_chapters
+W24,mid2,Q4 top,81,58.48976839072831,coverage__unique_chapters
+F21,mid1,Q1 bottom,25,76.28899484077567,coverage__chapter_diversity
+F21,mid1,Q2,26,77.9223775506103,coverage__chapter_diversity
+F21,mid1,Q3,26,78.09770114942529,coverage__chapter_diversity
+F21,mid1,Q4 top,26,78.83641789245236,coverage__chapter_diversity
+F21,mid2,Q1 bottom,25,55.518256410256406,coverage__chapter_diversity
+F21,mid2,Q2,26,64.73944773175542,coverage__chapter_diversity
+F21,mid2,Q3,25,69.39977207977208,coverage__chapter_diversity
+F21,mid2,Q4 top,26,71.01794871794871,coverage__chapter_diversity
+F22,mid1,Q1 bottom,36,79.27847923681257,coverage__chapter_diversity
+F22,mid1,Q2,36,76.5253686411369,coverage__chapter_diversity
+F22,mid1,Q3,36,79.92380536130537,coverage__chapter_diversity
+F22,mid1,Q4 top,37,80.03774228774229,coverage__chapter_diversity
+F22,mid2,Q1 bottom,36,66.39145908472939,coverage__chapter_diversity
+F22,mid2,Q2,36,65.12908228425471,coverage__chapter_diversity
+F22,mid2,Q3,36,65.03520762141451,coverage__chapter_diversity
+F22,mid2,Q4 top,37,66.32183908045977,coverage__chapter_diversity
+F23,mid1,Q1 bottom,37,67.83012933589947,coverage__chapter_diversity
+F23,mid1,Q2,37,75.67284589232735,coverage__chapter_diversity
+F23,mid1,Q3,37,74.55729158269178,coverage__chapter_diversity
+F23,mid1,Q4 top,37,75.66462302051339,coverage__chapter_diversity
+F23,mid2,Q1 bottom,36,62.24636243386244,coverage__chapter_diversity
+F23,mid2,Q2,37,66.54166870009544,coverage__chapter_diversity
+F23,mid2,Q3,36,73.19472863807486,coverage__chapter_diversity
+F23,mid2,Q4 top,37,75.32427039587206,coverage__chapter_diversity
+F24,mid1,Q1 bottom,36,69.86309994349105,coverage__chapter_diversity
+F24,mid1,Q2,37,71.10227643958129,coverage__chapter_diversity
+F24,mid1,Q3,36,75.06646930891492,coverage__chapter_diversity
+F24,mid1,Q4 top,37,71.26799899885198,coverage__chapter_diversity
+F24,mid2,Q1 bottom,36,67.02268807737252,coverage__chapter_diversity
+F24,mid2,Q2,36,64.86259489426254,coverage__chapter_diversity
+F24,mid2,Q3,36,63.8034114317652,coverage__chapter_diversity
+F24,mid2,Q4 top,37,71.08590152263791,coverage__chapter_diversity
+F25,mid1,Q1 bottom,31,73.9688781016408,coverage__chapter_diversity
+F25,mid1,Q2,31,79.30494646605865,coverage__chapter_diversity
+F25,mid1,Q3,31,82.22665037489098,coverage__chapter_diversity
+F25,mid1,Q4 top,32,79.35319780526106,coverage__chapter_diversity
+F25,mid2,Q1 bottom,31,64.0663151869889,coverage__chapter_diversity
+F25,mid2,Q2,31,76.92250253925805,coverage__chapter_diversity
+F25,mid2,Q3,31,75.21433546803016,coverage__chapter_diversity
+F25,mid2,Q4 top,32,75.62924296527731,coverage__chapter_diversity
+W22,mid1,Q1 bottom,30,75.59798663310899,coverage__chapter_diversity
+W22,mid1,Q2,31,78.29706271875887,coverage__chapter_diversity
+W22,mid1,Q3,31,81.18304270593552,coverage__chapter_diversity
+W22,mid1,Q4 top,31,79.55068464254298,coverage__chapter_diversity
+W22,mid2,Q1 bottom,30,67.0428704422072,coverage__chapter_diversity
+W22,mid2,Q2,30,68.95450912195707,coverage__chapter_diversity
+W22,mid2,Q3,30,73.88442752648008,coverage__chapter_diversity
+W22,mid2,Q4 top,30,76.46969760241814,coverage__chapter_diversity
+W23,mid1,Q1 bottom,46,75.28512529449561,coverage__chapter_diversity
+W23,mid1,Q2,47,81.50868024125543,coverage__chapter_diversity
+W23,mid1,Q3,47,78.76375641966251,coverage__chapter_diversity
+W23,mid1,Q4 top,47,79.82291259730732,coverage__chapter_diversity
+W23,mid2,Q1 bottom,46,63.19362519396486,coverage__chapter_diversity
+W23,mid2,Q2,47,67.90703025725927,coverage__chapter_diversity
+W23,mid2,Q3,46,69.67779414966427,coverage__chapter_diversity
+W23,mid2,Q4 top,47,71.16975868677001,coverage__chapter_diversity
+W24,mid1,Q1 bottom,45,68.36561012423081,coverage__chapter_diversity
+W24,mid1,Q2,46,66.87744601725112,coverage__chapter_diversity
+W24,mid1,Q3,45,67.20527939493456,coverage__chapter_diversity
+W24,mid1,Q4 top,46,67.70339667828424,coverage__chapter_diversity
+W24,mid2,Q1 bottom,45,59.58835978835979,coverage__chapter_diversity
+W24,mid2,Q2,46,59.93478260869565,coverage__chapter_diversity
+W24,mid2,Q3,46,59.20749571450834,coverage__chapter_diversity
+W24,mid2,Q4 top,46,60.25274862568716,coverage__chapter_diversity
+F21,mid1,Q1 bottom,25,70.03828577972178,timing__share_last_7d
+F21,mid1,Q2,26,79.86589703400047,timing__share_last_7d
+F21,mid1,Q3,26,79.34458644803473,timing__share_last_7d
+F21,mid1,Q4 top,26,81.65631028454303,timing__share_last_7d
+F21,mid2,Q1 bottom,25,59.25579487179487,timing__share_last_7d
+F21,mid2,Q2,26,63.96977865439404,timing__share_last_7d
+F21,mid2,Q3,25,68.67263817663817,timing__share_last_7d
+F21,mid2,Q4 top,26,68.89299802761342,timing__share_last_7d
+F22,mid1,Q1 bottom,36,80.35350212652844,timing__share_last_7d
+F22,mid1,Q2,36,79.12430759204953,timing__share_last_7d
+F22,mid1,Q3,36,78.9969837261504,timing__share_last_7d
+F22,mid1,Q4 top,37,77.36484911484911,timing__share_last_7d
+F22,mid2,Q1 bottom,36,62.07632498511253,timing__share_last_7d
+F22,mid2,Q2,36,64.39814814814815,timing__share_last_7d
+F22,mid2,Q3,36,68.63676792556103,timing__share_last_7d
+F22,mid2,Q4 top,37,67.72730625712917,timing__share_last_7d
+F23,mid1,Q1 bottom,37,68.91489010928017,timing__share_last_7d
+F23,mid1,Q2,37,72.37745567191928,timing__share_last_7d
+F23,mid1,Q3,37,78.3668956712863,timing__share_last_7d
+F23,mid1,Q4 top,37,74.06564837894622,timing__share_last_7d
+F23,mid2,Q1 bottom,36,64.62962300508758,timing__share_last_7d
+F23,mid2,Q2,37,70.78651779904678,timing__share_last_7d
+F23,mid2,Q3,36,70.96574214162271,timing__share_last_7d
+F23,mid2,Q4 top,37,70.92931679173618,timing__share_last_7d
+F24,mid1,Q1 bottom,36,67.42855767400201,timing__share_last_7d
+F24,mid1,Q2,37,73.6365471897372,timing__share_last_7d
+F24,mid1,Q3,36,71.96398595342383,timing__share_last_7d
+F24,mid1,Q4 top,37,74.12110453246052,timing__share_last_7d
+F24,mid2,Q1 bottom,36,72.25295749267704,timing__share_last_7d
+F24,mid2,Q2,36,63.4501956508184,timing__share_last_7d
+F24,mid2,Q3,36,66.00764164166027,timing__share_last_7d
+F24,mid2,Q4 top,37,65.22656061065965,timing__share_last_7d
+F25,mid1,Q1 bottom,31,79.48048176057466,timing__share_last_7d
+F25,mid1,Q2,31,80.30729642106292,timing__share_last_7d
+F25,mid1,Q3,31,77.25990078475309,timing__share_last_7d
+F25,mid1,Q4 top,32,77.8543439072046,timing__share_last_7d
+F25,mid2,Q1 bottom,31,67.26690287612611,timing__share_last_7d
+F25,mid2,Q2,31,75.40187449941918,timing__share_last_7d
+F25,mid2,Q3,31,75.94390073412988,timing__share_last_7d
+F25,mid2,Q4 top,32,73.29501570348543,timing__share_last_7d
+W22,mid1,Q1 bottom,30,76.1875905888698,timing__share_last_7d
+W22,mid1,Q2,31,76.91032331641073,timing__share_last_7d
+W22,mid1,Q3,31,83.41340827631151,timing__share_last_7d
+W22,mid1,Q4 top,31,78.13647400119824,timing__share_last_7d
+W22,mid2,Q1 bottom,30,72.16188931403764,timing__share_last_7d
+W22,mid2,Q2,30,68.03571808643946,timing__share_last_7d
+W22,mid2,Q3,30,76.09835037283099,timing__share_last_7d
+W22,mid2,Q4 top,30,70.0555469197544,timing__share_last_7d
+W23,mid1,Q1 bottom,46,77.80087229112716,timing__share_last_7d
+W23,mid1,Q2,47,81.50272508122838,timing__share_last_7d
+W23,mid1,Q3,47,79.56563062762623,timing__share_last_7d
+W23,mid1,Q4 top,47,76.56477308458233,timing__share_last_7d
+W23,mid2,Q1 bottom,46,64.43756556015765,timing__share_last_7d
+W23,mid2,Q2,47,68.46828888291671,timing__share_last_7d
+W23,mid2,Q3,46,70.091635865365,timing__share_last_7d
+W23,mid2,Q4 top,47,68.98598993840825,timing__share_last_7d
+W24,mid1,Q1 bottom,45,68.29524307110515,timing__share_last_7d
+W24,mid1,Q2,46,67.49054044406368,timing__share_last_7d
+W24,mid1,Q3,45,64.76289993531373,timing__share_last_7d
+W24,mid1,Q4 top,46,69.54842384002804,timing__share_last_7d
+W24,mid2,Q1 bottom,45,61.06642771804062,timing__share_last_7d
+W24,mid2,Q2,46,57.97170462387853,timing__share_last_7d
+W24,mid2,Q3,46,57.5715892053973,timing__share_last_7d
+W24,mid2,Q4 top,46,62.405797101449274,timing__share_last_7d
+F21,mid1,Q1 bottom,24,79.19913575409265,consistency__span_days
+F21,mid1,Q2,0,,consistency__span_days
+F21,mid1,Q3,73,77.74788937718961,consistency__span_days
+F21,mid1,Q4 top,6,72.85309996516894,consistency__span_days
+F21,mid2,Q1 bottom,20,63.67999999999999,consistency__span_days
+F21,mid2,Q2,0,,consistency__span_days
+F21,mid2,Q3,69,65.87620050373673,consistency__span_days
+F21,mid2,Q4 top,13,64.12193732193732,consistency__span_days
+F22,mid1,Q1 bottom,31,79.16715542521993,consistency__span_days
+F22,mid1,Q2,0,,consistency__span_days
+F22,mid1,Q3,89,78.62495455291759,consistency__span_days
+F22,mid1,Q4 top,25,79.83156831472621,consistency__span_days
+F22,mid2,Q1 bottom,16,65.77586206896551,consistency__span_days
+F22,mid2,Q2,97,65.21693088322104,consistency__span_days
+F22,mid2,Q3,0,,consistency__span_days
+F22,mid2,Q4 top,32,67.23309127673352,consistency__span_days
+F23,mid1,Q1 bottom,47,73.24055775939092,consistency__span_days
+F23,mid1,Q2,43,72.54841286458377,consistency__span_days
+F23,mid1,Q3,0,,consistency__span_days
+F23,mid1,Q4 top,58,74.2402233774915,consistency__span_days
+F23,mid2,Q1 bottom,22,63.099320034594164,consistency__span_days
+F23,mid2,Q2,66,69.01853806912054,consistency__span_days
+F23,mid2,Q3,42,72.49989499117788,consistency__span_days
+F23,mid2,Q4 top,16,71.03218013675263,consistency__span_days
+F24,mid1,Q1 bottom,23,77.34178610925899,consistency__span_days
+F24,mid1,Q2,0,,consistency__span_days
+F24,mid1,Q3,120,70.96170110746849,consistency__span_days
+F24,mid1,Q4 top,3,63.633156966490304,consistency__span_days
+F24,mid2,Q1 bottom,33,70.54861198043017,consistency__span_days
+F24,mid2,Q2,0,,consistency__span_days
+F24,mid2,Q3,105,66.18246501116651,consistency__span_days
+F24,mid2,Q4 top,7,56.81547619047619,consistency__span_days
+F25,mid1,Q1 bottom,17,80.17410962389408,consistency__span_days
+F25,mid1,Q2,0,,consistency__span_days
+F25,mid1,Q3,91,79.56868749280399,consistency__span_days
+F25,mid1,Q4 top,17,72.71215456101737,consistency__span_days
+F25,mid2,Q1 bottom,20,68.53368601378989,consistency__span_days
+F25,mid2,Q2,0,,consistency__span_days
+F25,mid2,Q3,89,75.8830435299227,consistency__span_days
+F25,mid2,Q4 top,16,62.385558092034124,consistency__span_days
+W22,mid1,Q1 bottom,31,79.44477952585527,consistency__span_days
+W22,mid1,Q2,0,,consistency__span_days
+W22,mid1,Q3,74,77.42253435050988,consistency__span_days
+W22,mid1,Q4 top,18,82.54657687991022,consistency__span_days
+W22,mid2,Q1 bottom,35,70.78552220921172,consistency__span_days
+W22,mid2,Q2,27,70.51736174241123,consistency__span_days
+W22,mid2,Q3,48,71.66159642181576,consistency__span_days
+W22,mid2,Q4 top,10,76.93264681772054,consistency__span_days
+W23,mid1,Q1 bottom,41,81.74857732679432,consistency__span_days
+W23,mid1,Q2,0,,consistency__span_days
+W23,mid1,Q3,129,78.42753170379473,consistency__span_days
+W23,mid1,Q4 top,17,75.22081873501752,consistency__span_days
+W23,mid2,Q1 bottom,51,70.46285670170488,consistency__span_days
+W23,mid2,Q2,0,,consistency__span_days
+W23,mid2,Q3,121,66.93335455050901,consistency__span_days
+W23,mid2,Q4 top,14,68.29662698412699,consistency__span_days
+W24,mid1,Q1 bottom,31,70.09705348415027,consistency__span_days
+W24,mid1,Q2,72,67.54344553913519,consistency__span_days
+W24,mid1,Q3,57,64.59491204500279,consistency__span_days
+W24,mid1,Q4 top,22,71.51645768025078,consistency__span_days
+W24,mid2,Q1 bottom,29,63.40229885057472,consistency__span_days
+W24,mid2,Q2,76,58.73638733931604,consistency__span_days
+W24,mid2,Q3,56,57.922892720306514,consistency__span_days
+W24,mid2,Q4 top,22,63.060606060606055,consistency__span_days
+F21,mid1,Q1 bottom,25,71.51416937530398,consistency__problems_per_active_day
+F21,mid1,Q2,26,79.00756238801985,consistency__problems_per_active_day
+F21,mid1,Q3,26,80.24876939703344,consistency__problems_per_active_day
+F21,mid1,Q4 top,26,80.191343139619,consistency__problems_per_active_day
+F21,mid2,Q1 bottom,25,62.641128205128204,consistency__problems_per_active_day
+F21,mid2,Q2,26,64.59232960771422,consistency__problems_per_active_day
+F21,mid2,Q3,25,69.36082051282051,consistency__problems_per_active_day
+F21,mid2,Q4 top,26,64.35360508437431,consistency__problems_per_active_day
+F22,mid1,Q1 bottom,36,73.96539389366214,consistency__problems_per_active_day
+F22,mid1,Q2,36,81.3070987654321,consistency__problems_per_active_day
+F22,mid1,Q3,36,77.79124579124579,consistency__problems_per_active_day
+F22,mid1,Q4 top,37,82.62965937965939,consistency__problems_per_active_day
+F22,mid2,Q1 bottom,36,58.097780553981885,consistency__problems_per_active_day
+F22,mid2,Q2,36,69.46052271483306,consistency__problems_per_active_day
+F22,mid2,Q3,36,67.56704980842912,consistency__problems_per_active_day
+F22,mid2,Q4 top,37,67.71357564461013,consistency__problems_per_active_day
+F23,mid1,Q1 bottom,37,76.85329734479967,consistency__problems_per_active_day
+F23,mid1,Q2,37,74.40917092450057,consistency__problems_per_active_day
+F23,mid1,Q3,37,74.399782682744,consistency__problems_per_active_day
+F23,mid1,Q4 top,37,68.06263887938775,consistency__problems_per_active_day
+F23,mid2,Q1 bottom,36,74.06079929915892,consistency__problems_per_active_day
+F23,mid2,Q2,37,69.94687152177117,consistency__problems_per_active_day
+F23,mid2,Q3,36,67.32913282897398,consistency__problems_per_active_day
+F23,mid2,Q4 top,37,66.131006006006,consistency__problems_per_active_day
+F24,mid1,Q1 bottom,36,72.54157210726301,consistency__problems_per_active_day
+F24,mid1,Q2,37,72.07512303700364,consistency__problems_per_active_day
+F24,mid1,Q3,36,67.93822981148043,consistency__problems_per_active_day
+F24,mid1,Q4 top,37,74.6246557531013,consistency__problems_per_active_day
+F24,mid2,Q1 bottom,36,70.81867486275691,consistency__problems_per_active_day
+F24,mid2,Q2,36,66.54203214678955,consistency__problems_per_active_day
+F24,mid2,Q3,36,65.32435471847089,consistency__problems_per_active_day
+F24,mid2,Q4 top,37,64.27862520679427,consistency__problems_per_active_day
+F25,mid1,Q1 bottom,31,83.62877117823584,consistency__problems_per_active_day
+F25,mid1,Q2,31,83.1752811269085,consistency__problems_per_active_day
+F25,mid1,Q3,31,74.97464658617717,consistency__problems_per_active_day
+F25,mid1,Q4 top,32,73.27116835492782,consistency__problems_per_active_day
+F25,mid2,Q1 bottom,31,79.41424805454253,consistency__problems_per_active_day
+F25,mid2,Q2,31,71.05770166737621,consistency__problems_per_active_day
+F25,mid2,Q3,31,70.86862055812702,consistency__problems_per_active_day
+F25,mid2,Q4 top,32,70.65237016343893,consistency__problems_per_active_day
+W22,mid1,Q1 bottom,30,76.2270949202818,consistency__problems_per_active_day
+W22,mid1,Q2,31,77.40102639296187,consistency__problems_per_active_day
+W22,mid1,Q3,31,80.39560891124455,consistency__problems_per_active_day
+W22,mid1,Q4 top,31,80.6253402915734,consistency__problems_per_active_day
+W22,mid2,Q1 bottom,30,69.38371867909403,consistency__problems_per_active_day
+W22,mid2,Q2,30,68.76472758152151,consistency__problems_per_active_day
+W22,mid2,Q3,30,72.91980233173155,consistency__problems_per_active_day
+W22,mid2,Q4 top,30,75.2832561007154,consistency__problems_per_active_day
+W23,mid1,Q1 bottom,46,77.49028894643587,consistency__problems_per_active_day
+W23,mid1,Q2,47,76.09808386770969,consistency__problems_per_active_day
+W23,mid1,Q3,47,80.77085497041476,consistency__problems_per_active_day
+W23,mid1,Q4 top,47,81.06816514373375,consistency__problems_per_active_day
+W23,mid2,Q1 bottom,46,65.07019637216648,consistency__problems_per_active_day
+W23,mid2,Q2,47,70.75340338318354,consistency__problems_per_active_day
+W23,mid2,Q3,46,68.65187799284641,consistency__problems_per_active_day
+W23,mid2,Q4 top,47,67.49082958247011,consistency__problems_per_active_day
+W24,mid1,Q1 bottom,45,71.39349156590536,consistency__problems_per_active_day
+W24,mid1,Q2,45,66.42243452588279,consistency__problems_per_active_day
+W24,mid1,Q3,46,68.5970083140248,consistency__problems_per_active_day
+W24,mid1,Q4 top,46,63.78760295177087,consistency__problems_per_active_day
+W24,mid2,Q1 bottom,45,59.30840302668259,consistency__problems_per_active_day
+W24,mid2,Q2,46,61.22013993003498,consistency__problems_per_active_day
+W24,mid2,Q3,46,59.01449275362319,consistency__problems_per_active_day
+W24,mid2,Q4 top,46,59.434265010351965,consistency__problems_per_active_day
+F21,mid1,Q1 bottom,25,75.59403781979978,mix__coding_share
+F21,mid1,Q2,26,82.60714572783537,mix__coding_share
+F21,mid1,Q3,26,76.47647144522145,mix__coding_share
+F21,mid1,Q4 top,26,76.44110732421565,mix__coding_share
+F21,mid2,Q1 bottom,25,61.3403076923077,mix__coding_share
+F21,mid2,Q2,26,66.8557966250274,mix__coding_share
+F21,mid2,Q3,25,69.1128205128205,mix__coding_share
+F21,mid2,Q4 top,26,63.57938856015779,mix__coding_share
+F22,mid1,Q1 bottom,36,73.40503149777344,mix__coding_share
+F22,mid1,Q2,36,81.41947250280583,mix__coding_share
+F22,mid1,Q3,36,79.28596866096866,mix__coding_share
+F22,mid1,Q4 top,37,81.6112152822679,mix__coding_share
+F22,mid2,Q1 bottom,36,63.049359147801866,mix__coding_share
+F22,mid2,Q2,36,66.85162379127897,mix__coding_share
+F22,mid2,Q3,36,66.23331011262046,mix__coding_share
+F22,mid2,Q4 top,37,66.73190431811122,mix__coding_share
+F23,mid1,Q1 bottom,37,66.13064289629145,mix__coding_share
+F23,mid1,Q2,37,73.41865173677496,mix__coding_share
+F23,mid1,Q3,37,75.92168262035865,mix__coding_share
+F23,mid1,Q4 top,37,78.2539125780069,mix__coding_share
+F23,mid2,Q1 bottom,36,64.92897504843774,mix__coding_share
+F23,mid2,Q2,37,71.43048395390876,mix__coding_share
+F23,mid2,Q3,36,69.90924325866109,mix__coding_share
+F23,mid2,Q4 top,37,71.02203404838806,mix__coding_share
+F24,mid1,Q1 bottom,36,66.26712892158793,mix__coding_share
+F24,mid1,Q2,37,74.65368592524354,mix__coding_share
+F24,mid1,Q3,36,72.97067846211263,mix__coding_share
+F24,mid1,Q4 top,37,73.25451998003825,mix__coding_share
+F24,mid2,Q1 bottom,36,63.74861919311771,mix__coding_share
+F24,mid2,Q2,36,69.95570554552894,mix__coding_share
+F24,mid2,Q3,36,70.11171496109449,mix__coding_share
+F24,mid2,Q4 top,37,63.178214207279225,mix__coding_share
+F25,mid1,Q1 bottom,31,74.91669979798198,mix__coding_share
+F25,mid1,Q2,31,82.29470331782078,mix__coding_share
+F25,mid1,Q3,31,80.6906417116071,mix__coding_share
+F25,mid1,Q4 top,32,77.02667697934226,mix__coding_share
+F25,mid2,Q1 bottom,31,72.4382872054838,mix__coding_share
+F25,mid2,Q2,31,73.49729908105627,mix__coding_share
+F25,mid2,Q3,31,73.45328212972856,mix__coding_share
+F25,mid2,Q4 top,32,72.54308134397301,mix__coding_share
+W22,mid1,Q1 bottom,30,75.62868338557993,mix__coding_share
+W22,mid1,Q2,31,80.0582682833212,mix__coding_share
+W22,mid1,Q3,31,81.31584576251589,mix__coding_share
+W22,mid1,Q4 top,31,77.62696948675097,mix__coding_share
+W22,mid2,Q1 bottom,30,72.35078298943057,mix__coding_share
+W22,mid2,Q2,30,70.4626772967344,mix__coding_share
+W22,mid2,Q3,30,69.60258545305675,mix__coding_share
+W22,mid2,Q4 top,30,73.93545895384078,mix__coding_share
+W23,mid1,Q1 bottom,46,74.2216554060632,mix__coding_share
+W23,mid1,Q2,47,79.41045821383312,mix__coding_share
+W23,mid1,Q3,47,80.72133662375775,mix__coding_share
+W23,mid1,Q4 top,47,81.00439729016398,mix__coding_share
+W23,mid2,Q1 bottom,46,65.45481586605923,mix__coding_share
+W23,mid2,Q2,47,68.75153452886227,mix__coding_share
+W23,mid2,Q3,46,68.77987763818743,mix__coding_share
+W23,mid2,Q4 top,47,68.99098608775411,mix__coding_share
+W24,mid1,Q1 bottom,45,66.97026919440712,mix__coding_share
+W24,mid1,Q2,46,65.51673838405472,mix__coding_share
+W24,mid1,Q3,45,71.72005772005771,mix__coding_share
+W24,mid1,Q4 top,46,66.01248077260071,mix__coding_share
+W24,mid2,Q1 bottom,45,57.89358821186778,mix__coding_share
+W24,mid2,Q2,46,60.4696223316913,mix__coding_share
+W24,mid2,Q3,46,59.94565217391305,mix__coding_share
+W24,mid2,Q4 top,46,60.637681159420296,mix__coding_share

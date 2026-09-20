@@ -1,0 +1,11 @@
+feature,coef,meaning
+parsons__mean_first_score,-0.9820923889581519,Higher value -> less likely bottom-quartile exam
+all_activity__total_events,-0.292301928031909,Higher value -> less likely bottom-quartile exam
+activecode__mean_best_score,-0.2750145480157552,Higher value -> less likely bottom-quartile exam
+timing__share_last_7d,-0.274702012158837,Higher value -> less likely bottom-quartile exam
+mchoice__mean_first_score,-0.24070463954040439,Higher value -> less likely bottom-quartile exam
+all_activity__active_days,-0.18087475960884825,Higher value -> less likely bottom-quartile exam
+coverage__chapter_diversity,-0.047084762791100916,Higher value -> less likely bottom-quartile exam
+coverage__unique_chapters,-0.035175835990203685,Higher value -> less likely bottom-quartile exam
+consistency__problems_per_active_day,-0.004150373808625162,Higher value -> less likely bottom-quartile exam
+mix__coding_share,0.1649149085127629,Higher value -> more likely bottom-quartile exam
