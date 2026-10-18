@@ -1,0 +1,8 @@
+check,severity,failing_rows,failing_share,passed
+no_null_student_id,hard,0,0.0,True
+student_id_format,hard,0,0.0,True
+no_null_selection,hard,0,0.0,True
+time_parsed,soft,4719,0.00023826855557400732,True
+time_in_plausible_range,soft,0,0.0,True
+exact_duplicate_rows,soft,162263,0.008192873624307088,True
+event_outside_semester_window,soft,1877,9.477221420055346e-05,True

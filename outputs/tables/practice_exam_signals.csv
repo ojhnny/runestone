@@ -1,0 +1,5 @@
+metric,value,description
+practice_score_rank_corr,0.3167081949917111,"Within-cohort rank correlation, best timed-practice score vs real midterm score."
+practice_score_quartile_gap,11.59659122720349,"Top minus bottom quartile of practice score, mean real midterm points."
+finished_vs_none_gap,5.175042260653701,Mean within-cohort gap: finished a timed practice exam vs did none.
+finished_practice_attempts,1824.0,Finished timed practice attempts before the real exam.

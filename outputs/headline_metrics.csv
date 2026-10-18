@@ -1,0 +1,18 @@
+metric,value,note
+raw_events,19805383.0,Rows across all raw exports.
+student_exams,2745.0,Reconstructed student-midterm scores.
+students,1397.0,Distinct students.
+parsons_quartile_gap,20.390122897956545,"Top vs bottom quartile of Parsons first-try success, within cohort (exam points)."
+parsons_quartile_gap_ci_low,18.77865459577353,"95% cluster-bootstrap CI, lower."
+parsons_quartile_gap_ci_high,22.127385686052435,"95% cluster-bootstrap CI, upper."
+parsons_rank_corr,0.5702693071817468,Within-cohort rank correlation with midterm score.
+parsons_fe_coef_per_10pts,4.868086918546218,"Exam points per +10 Parsons points, cohort FE, clustered SEs."
+parsons_controlled_coef_per_10pts,4.95972338068234,"Same, plus effort controls."
+parsons_mid1_controlled_coef_per_10pts,1.6179924056228179,"Midterm 2, controlling for midterm 1 score."
+at_risk_auc_logistic,0.7795521292217327,"Leave-one-semester-out AUC, logistic."
+at_risk_auc_gbm,0.7587956322781136,"Leave-one-semester-out AUC, gradient boosting."
+at_risk_precision_top10_logistic,0.572992700729927,Share truly at risk among the 10% flagged.
+at_risk_auc_14d_before,0.7083386691937302,Logistic AUC using only practice >= 14 days before the exam.
+mid2_auc_mid1_only,0.8244897106943753,Midterm 2 risk from midterm 1 score alone.
+mid2_auc_mid1_plus_practice,0.8275381728913559,"Midterm 2 risk, mid1 score + practice."
+practice_exam_finish_gap,5.175042260653701,"Finished a timed practice exam vs none, within-cohort gap (points)."

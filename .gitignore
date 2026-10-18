@@ -1,0 +1,25 @@
+# Environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Data: raw exports and everything at student level stays on this machine.
+# Only data/raw/MANIFEST.csv and the READMEs are committed.
+data/raw/**
+!data/raw/MANIFEST.csv
+!data/raw/README.md
+data/interim/
+data/processed/
+data/_uncompressed_copies/
+
+# Tracking / orchestration state
+mlruns/
+mlartifacts/
+.dagster/
+tmp*/

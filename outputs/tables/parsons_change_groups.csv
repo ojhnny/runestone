@@ -1,0 +1,3 @@
+baseline_group,usage_group,n_students,mean_mid1_pct,mean_mid2_pct,mean_score_change
+above_median_first_try_before_mid1,did_more_parsons_before_mid2,682,80.29223086701725,71.05422328198864,-9.238007585028601
+below_median_first_try_before_mid1,did_more_parsons_before_mid2,662,65.22265773018714,59.22278993663394,-5.999867793553202

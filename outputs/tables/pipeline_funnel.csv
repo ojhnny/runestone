@@ -1,0 +1,6 @@
+label,count,description
+Raw Runestone log events,19805383,Every row in the 13 Datashop exports.
+Timed real-midterm attempts,2905,Start/finish markers for the real (not practice) timed midterm.
+Scored student-exam items,90371,"One row per student, exam and problem answered during the exam."
+Student-exam scores,2745,One reconstructed score per student and midterm.
+Distinct students,1397,"Students with at least one scored midterm, 8 semesters."

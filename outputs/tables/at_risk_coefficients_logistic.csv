@@ -1,0 +1,11 @@
+feature,std_coef
+parsons__mean_first_score,-0.9858624837508989
+mchoice__mean_first_score,-0.3479013446958716
+activecode__mean_best_score,-0.2536201812467042
+coverage__unique_chapters,-0.24282425680947683
+timing__share_last_7d,-0.22931816866084473
+all_activity__total_events,-0.15039281257093567
+mix__coding_share,-0.021343243176397752
+consistency__problems_per_active_day,0.023529134535428053
+coverage__chapter_diversity,0.04156113623378099
+all_activity__active_days,0.10098221207188081

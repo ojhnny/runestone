@@ -1,0 +1,17 @@
+score_group,timing_bin,mean_share_pct
+Q1 lowest,1-3 days before,23.892618016080817
+Q1 lowest,4-7 days before,12.88468860964981
+Q1 lowest,8-14 days before,22.94315472506131
+Q1 lowest,15-28 days before,40.27953864920806
+Q2,1-3 days before,27.40914593818261
+Q2,4-7 days before,13.77101328357761
+Q2,8-14 days before,21.238369584469314
+Q2,15-28 days before,37.58147119377047
+Q3,1-3 days before,27.27227713218379
+Q3,4-7 days before,13.019535215643083
+Q3,8-14 days before,21.803801342704517
+Q3,15-28 days before,37.90438630946861
+Q4 highest,1-3 days before,26.961723513000553
+Q4 highest,4-7 days before,14.107425707577455
+Q4 highest,8-14 days before,21.978092960187265
+Q4 highest,15-28 days before,36.952757819234726

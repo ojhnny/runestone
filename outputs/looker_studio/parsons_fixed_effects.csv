@@ -1,0 +1,4 @@
+spec,term,n,n_student_clusters,coef,std_err,p_value,ci_low,ci_high,r_squared,note
+cohort_fe,parsons_first,2739,1393,0.4868086918546218,0.0191520304686271,1.5900492526706381e-142,0.4492714019052987,0.5243459818039448,0.3739948200171751,Exam points per 1-point higher Parsons first-try %; semester x exam fixed effects; SEs clustered by student.
+cohort_fe_plus_effort,parsons_first,2739,1393,0.495972338068234,0.0203205063396176,1.4244295571162208e-131,0.4561448774949656,0.5357997986415024,0.3814162376869507,"Adds log events, active days, chapter coverage and last-week share as effort controls."
+mid2_controls_for_mid1,parsons_first,1346,1346,0.1617992405622818,0.0239676426790297,1.4709652053449044e-11,0.1148235241170584,0.2087749570075052,0.5207563350337633,"Midterm 2 only, controlling for the student's own midterm 1 score (prior ability) and volume."
