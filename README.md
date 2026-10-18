@@ -2,7 +2,7 @@
 
 [View Official Report On GitHub Pages](https://ojhnny.github.io/runestone/)
 
-> **Latest Version:** See the [`rebuild`]([./updated-v2/](https://github.com/ojhnny/runestone/tree/rebuild)) branch for the latest rebuild.
+> **Latest Version:** See the [`rebuild`](https://github.com/ojhnny/runestone/tree/rebuild) branch for the latest rebuild.
 
 ## Project Overview
 Student Engagement with Interactive eBooks and Its Impact on Academic Success. This project analyzes anonymous log file data from a University of Michigan intermediate Python programming course that uses the Runestone interactive ebook platform. The goal is to understand how students interact with different activity types (e.g., Parsons puzzles, Peer Instruction, coding exercises) and how those interactions relate to midterm performance.
